@@ -1,49 +1,420 @@
 {
- "updated": "2026-11-19T02:25:34+00:00",
+ "updated": "2026-11-19T11:33:51+00:00",
  "briefing": {
-  "headline": "The Central African Republic, the ICC and Sudan",
+  "headline": "The ICC, the Central African Republic and Sudan",
   "period": "Nov 13–19",
-  "made": "2026-11-19T02:21:19+00:00",
+  "made": "2026-11-19T11:33:51+00:00",
   "bullets": [
    {
-    "text": "Nicolas Tiangaye, a prominent Central African lawyer, human rights defender, and former prime minister died in Bangui on November 16, at the age of 70.",
-    "source": "Human Rights Watch",
-    "url": "https://www.hrw.org/news/2026/11/18/rights-defender-in-central-african-republic-dies",
-    "theme": "the Central African Republic"
-   },
-   {
-    "text": "On 27 October 2026, the Bureau of the Assembly of States Parties announced the procedure for electing the fourth Prosecutor of the International Criminal Court and published draft terms of reference of an Advisory…",
-    "source": "EJIL:Talk!",
-    "url": "https://www.ejiltalk.org/electing-the-fourth-icc-prosecutor-preliminary-observations-on-the-process/",
+    "text": "As the trial of former president Rodrigo Duterte is about to begin at the International Criminal Court in The Hague, a Philippine Truth Commission tries to uncover the truth about his “war on drugs”.",
+    "source": "Justice Info",
+    "url": "https://www.justiceinfo.net/en/168632-we-need-to-establish-the-truth-for-the-sake-of-history.html",
     "theme": "the ICC"
    },
    {
-    "text": "La situation de la population civile au Soudan continue de se détériorer, plus de trois ans après le début du conflit armé.",
-    "source": "FIDH",
-    "url": "https://www.fidh.org/fr/nos-impacts/impact-soudan-le-plaidoyer-de-la-fidh-contribue-a-obtenir-des",
+    "text": "À la prison de Ngaragba à Bangui, les familles paient des taxes illégales sur la nourriture pendant que les détenus meurent de maladie sans soins.",
+    "source": "Corbeau News Centrafrique",
+    "url": "https://corbeaunews-centrafrique.org/ngaragba-taxes-nourriture-prison-bangui/",
+    "theme": "the Central African Republic"
+   },
+   {
+    "text": "Sudanese authorities should immediately transfer former Interior Minister Ahmed Haroun to the International Criminal Court (ICC) to face charges in The Hague.",
+    "source": "Human Rights Watch",
+    "url": "https://www.hrw.org/news/2026/11/18/sudan-transfer-war-crimes-suspects-to-icc",
     "theme": "Sudan"
    },
    {
-    "text": "On 9 October 2026 the United States designated the International Criminal Court itself under Executive Order 14203.",
+    "text": "During its 349 th bis (special) session, the Governing Body of the International Labour Organization (“ILO”) decided to request an advisory opinion from the International Court of Justice (“ICJ”): Is the right to strike…",
     "source": "Opinio Juris",
-    "url": "https://opiniojuris.org/2026/11/16/regret-is-not-a-defence-the-assembly-of-states-parties-and-the-sanctioning-of-the-international-criminal-court/",
-    "theme": "sanctions"
-   },
-   {
-    "text": "The church and the civil society have set up a Truth Commission on the violent “war on drugs” unleashed by former president Rodrigo Duterte, whose trial begins at the International Criminal Court in The Hague on November 30.",
-    "source": "Justice Info",
-    "url": "https://www.justiceinfo.net/en/168567-in-the-philippines-citizens-are-taking-the-lead-in-truth-telling.html",
-    "theme": "the Philippines"
+    "url": "https://opiniojuris.org/2026/11/18/how-much-weight-for-ilo-supervisory-bodies-the-icjs-one-size-fits-all-approach/",
+    "theme": "the ICJ"
    },
    {
     "text": "An expert examines whether Russia’s strikes on Ukraine’s energy infrastructure constitute a war crime and crime against humanity.",
     "source": "Just Security",
     "url": "https://www.justsecurity.org/164565/russias-strikes-ukraines-energy-infrastructure-crime-against-humanity/?utm_source=rss&utm_medium=rss&utm_campaign=russias-strikes-ukraines-energy-infrastructure-crime-against-humanity",
     "theme": "Ukraine"
+   },
+   {
+    "text": "“The premature closure of the formal complaint at the ILO against Saudi Arabia is a blow for the millions of migrant workers in the country.",
+    "source": "Amnesty International",
+    "url": "https://www.amnesty.org/en/latest/news/2026/11/saudi-arabia-un-closure-of-ilo-complaint-a-blow-for-migrant-workers/",
+    "theme": "migrants and refugees"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://www.amnesty.org/en/latest/news/2026/11/historic-un-ruling-that-myanmar-committed-genocide-against-rohingya-is-rare-victory-for-survivors/",
+   "title": "Historic UN ruling that Myanmar committed genocide against Rohingya is rare victory for survivors",
+   "source": "Amnesty International",
+   "desk": "rights",
+   "published": "2026-11-19T11:25:59+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "description": "Responding to the ruling by the International Court of Justice (ICJ), the United Nations’ top court, that Myanmar authorities committed the crime of genocide in their clearance operations against Rohingya people in 2017, Amnesty International’s Secretary General Agnes Callamard said: “Genocide. This is the unequivocal finding of the ICJ. After years of denial, impunity and…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.amnesty.org/en/wp-content/uploads/2026/11/320101-scaled.jpg",
+   "paragraphs": [
+    "“Genocide. This is the unequivocal finding of the ICJ. After years of denial, impunity and suppression of truth, this ruling is a historic and authoritative recognition of the atrocities committed against the Rohingya and a rare moment of justice for survivors, victims and their families.",
+    "“For decades, Myanmar governments and military authorities have denied the Rohingya citizenship and subjected them to an institutionalized system of segregation, discrimination and persecution that amounts to the crime against humanity of apartheid. They have confined Rohingya to refugee camps, burned their homes and villages, and committed widespread unlawful killings and sexual violence, including during the horrors of the military’s 2017 campaign.",
+    "“This final judgment by the ICJ to must serve as a wake-up call to the international community at a critical juncture in Myanmar’s history. The findings of independent investigators and international courts must not simply be ignored. This decision comes only because the government of The Gambia set the wheels of justice in motion, exemplifying how all states can and should respond to crimes that shock the conscience of humanity.",
+    "“The Court’s clarification that genocidal intent can coexist with other goals, including military aims, is especially significant for other cases pending at the ICJ, such as the case brought by South Africa against Israel for alleged genocide against Palestinians in Gaza.",
+    "“The man who oversaw a campaign of crimes against humanity and other crimes under international law against the Rohingya, the former head of the armed forces Senior General Min Aung Hlaing, is now Myanmar’s president following engineered elections. Governments should not welcome him on the international stage, especially as grave violations continue unchecked inside Myanmar. Instead they should stop any transfer of all weapons, security and surveillance equipment, and military and security assistance to Myanmar. The UN Security Council should impose a global arms embargo and refer the entire situation in Myanmar to the International Criminal Court.",
+    "“The Myanmar authorities must comply with the ICJ’s ruling immediately. All other states, including ASEAN Member States, must also act to uphold it by meeting their own obligations under the Genocide Convention and general international law and doing everything within their power to prevent and punish genocide. Failure to uphold this judgment would only embolden the Myanmar military’s defiance of international law and perpetuate the cycle of impunity.",
+    "“This should not be the end of the struggle for justice for the Rohingya. Survivors and victims are entitled to full and effective reparations for the harms they have suffered. They also need sustained international support, including humanitarian assistance, resettlement opportunities and strong political and financial backing for international accountability mechanisms."
+   ],
+   "lede": "This is the unequivocal finding of the ICJ."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUItaVZHcUt1bEd0VzVGNG9Wb21xaHhRRDREMG5zWHZVYUFHcEJNYnctR0dEQnlYZ20wWVNya2FMN0JRcTlybGw3X25PSzcwZXYzVDI1RFA0emo0N21lR0RIcGN6OHZPLVdraGRPUEJGMDIyZmstM2pUUGpOVlp3WjdiSVU3WmVrVzZucnI1R1BKZXpVOURNME1WSQ?oc=5",
+   "title": "World Court Finds Myanmar Responsible for Rohingya Genocide",
+   "source": "Human Rights Watch",
+   "desk": "courts",
+   "published": "2026-11-19T11:25:53+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmV3ZHFqcUdsMFBzaXBCa243Y1Bua1pja3VXUGMyaHc3NUpCbktpT3FybVZTTHh3MFJTSU9QckpoRE5zNzRfWDQtSU9Wd1dhdlUxR3VGMjV2VlhsLWZPRl9paDhWaWlQZUZhUGlVbWtxc0pNNnlDMFFaZWs3dDQtOTJSUzVnMzFQN1hUWDgzNV9rUWFncUlZREhsbi1Lc043a0wyMWV5MThpU0lNS1E?oc=5",
+   "title": "Myanmar committed acts of genocide against Rohingya minority, world’s top court rules",
+   "source": "The Guardian",
+   "desk": "courts",
+   "published": "2026-11-19T11:08:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzdaM042aEFITkh3eDkxZ1EtWlltTy10bkx1MGRIYjBpc3dENG9Zemxsd1NMazRuY2dlS2p6ekZybXVFbG82ZzR4aHpJMTJyTTl3d2V5RFhZbV91TjVnM3lhYTN5bFkxOHdqYUFxV3VzZllBeTZseHpyb29QdTRMbExtYlN0SEQ2eGpZRjFTdHpEcjRIU2RHUTB4TzliTElaOTZIZldzTdIBrAFBVV95cUxNVDJEUEs3OG1ZVHBzYXBETVBVeTN0MTFURXNfemc0NGE2QUVNMUZkNkVoNl91VWN0Zm9FLWhvWUdWaXlJM2djM215WWszT2thZjZQeWFZUnBLTnR1X1UzTUlLSHRBTXFJbWE2ZFVleUw1eWN1clp6cm5zQnZDYTU3Mm9lZWlTY0RyYlJoS2dlMHlwUV9ON2Q1WGtwX1FyWkx2QXEyTXhMSWhKdzdV?oc=5",
+   "title": "Top UN court set to rule in a case alleging Myanmar committed genocide against Rohingya",
+   "source": "Breaking News, Latest News and Videos",
+   "desk": "courts",
+   "published": "2026-11-19T10:01:24+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://corbeaunews-centrafrique.org/ngaragba-taxes-nourriture-prison-bangui/",
+   "title": "Ngaragba, le couloir de la mort: On taxe la nourriture des prisonniers pendant qu’ils meurent de maladie",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-19T10:00:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "Droits de l'homme",
+    "Twitter",
+    "Corruption"
+   ],
+   "lang": "fr",
+   "description": "À la prison de Ngaragba à Bangui, les familles paient des taxes illégales sur la nourriture pendant que les détenus meurent de maladie sans soins.",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/08/sortie-ambullance-de-ngaragba-avec-la-mort-du-detenu-de-coronavirus-le-21-mai-2020.webp",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "À la prison centrale de Ngaragba, dans le 7e arrondissement de Bangui, les familles des détenus doivent désormais payer des taxes injustifiables pour faire entrer de la nourriture destinée à leurs proches incarcérés. Une pratique mafieuse dénoncée par les prisonniers, alors que l’établissement traverse une grave crise sanitaire et alimentaire. La tuberculose se propage comme une traînée de poudre dans les cellules, près de 50 % des détenus seraient contaminés et trois prisonniers, Nbassade Junior, Dawe Cyrille et Erick Bernard, viennent de perdre la vie en quelques jours, abandonnés dans un dénuement médical total.",
+    "La situation à la maison centrale de Ngaragba prend une tournure particulièrement scandaleuse. Alors que les détenus dépendent largement de leurs familles pour ne pas mourir de faim, des agents pénitentiaires véreux leur imposent des prélèvements financiers cyniques sur les moindres produits alimentaires apportés par leurs proches. Parmi ces agents impitoyables, les détenus pointent directement du doigt le redoutable agent Léonce Romuald Sépese, mais surtout l’agent Foxy Saze, qualifiée de « terrible de terrible », ainsi que Bengari Cristand Gérard et Sarakaba, qui font régner leur loi à coups de taxes et de restrictions.",
+    "Selon plusieurs témoignages accablants recueillis par la rédaction du CNC, chaque cuvette de manioc introduite dans la prison est soumise au paiement de 500 francs CFA. Un paquet de cigarettes coûte 250 francs CFA de taxe, tandis que le moindre paquet de sucre est également frappé d’un prélèvement de 500 francs CFA.",
+    "Ces sommes sont extorquées aux familles à l’entrée même de la prison, au moment où elles tentent désespérément d’apporter de quoi maintenir leurs proches en vie. Les restrictions absurdes se multiplient également. Le charbon est interdit d’entrée, tout comme les beignets préparés à domicile et d’autres produits de première nécessité. Autrement dit, les familles doivent payer pour avoir le droit de nourrir les leurs, tout en se heurtant à un mur d’interdictions qui compliquent davantage la survie des détenus.",
+    "À lire aussi: VAKAGA: après l’assassinat crapuleux de quatre Wagner noirs, la machine de propagande des mercenaires russes se mobilise pour tenter de les blanchir",
+    "À lire aussi: Le business de la propagande: comment des médias africains se font payer pour vendre le récit du Kremlin",
+    "Ces pratiques dénoncées prennent une dimension encore plus révoltante au regard du chaos sanitaire qui règne actuellement dans l’établissement. En quelques jours à peine, trois détenus ont rendu leur dernier souffle. Il s’agit de Nbassade Junior, décédé le vendredi 6 novembre, suivi de près par Dawe Cyrille et Erick Bernard, morts le dimanche 8 novembre.",
+    "Selon les informations recueillies par la rédaction du CNC, la tuberculose se propage à un rythme alarmant et incontrôlé. Le taux de contamination avoisinerait 50 % de la population carcérale. Les malades continuent d’être entassés avec les détenus encore sains, faute de structures adaptées permettant leur prise en charge et leur isolement."
+   ],
+   "lede": "À la prison de Ngaragba à Bangui, les familles paient des taxes illégales sur la nourriture pendant que les détenus meurent de maladie sans soins.",
+   "tags": [
+    "car"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORHZoWXZFSHFHR2cyZzZiRHFaZE9IblEyRG00SXdDNHV5VG1STVE5SW5fUGlzSkxUY2U4eWc0bVlwbjR1R1cwNE1JMENqd0NWNkRCUTE5eUNweWdCbjlkN0JuV19NOFFuYi1zYjNwcWczbmpES3R3VDR6THZMWVpBaThoZUdqdzdXNVVYdWc2WVd2cy1XZ0NFckJwQXRwMXV5eGhOb215VEJxZnRSSkdoLTdlUGhGZkE?oc=5",
+   "title": "International Court of Justice to issue ruling on Myanmar genocide case",
+   "source": "NPR",
+   "desk": "courts",
+   "published": "2026-11-19T09:45:26+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3VYbnREYlVfTEpudHdiX3dqcDdwb24xakNjV3BvTGVYbVNNYnA3ZE5kc2h4Tkg0enNQVUtzLVZ4MmVucENWSlFyLXBvNWwxZDBuQ0tlY3hxVU5lbTVVRVcxdUQ1cUlSTGdlWWN0c1l0alRpVEg4U3BBbzktLWNTa1VQbHZwYU4zZnJoU0dyWGtpRTZJcE5UNjdmOTVEX2habTd5T1o1RkpyV1NHUEJkVWR4aWRVWHRtT0E?oc=5",
+   "title": "World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing - Al-Monitor",
+   "source": "Google News",
+   "desk": "courts",
+   "published": "2026-11-19T09:38:10+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://opiniojuris.org/2026/11/19/who-decides-who-pays-for-the-au-mission-in-somalia-decembers-test-for-resolution-2719/",
+   "title": "Who Decides Who Pays for the AU Mission in Somalia? December’s Test for Resolution 2719",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-19T09:00:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "Africa",
+    "Featured",
+    "General",
+    "Public International Law",
+    "United Nations Security Council",
+    "African Union"
+   ],
+   "description": "[Lincoln Booth is an MSc candidate at the University of Oxford, a member of the Inner Temple and a research contributor to Oxford Pro Bono Publico, and spent more than two decades on cross-border i…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/African-Union-flags.jpeg?fit=620%2C413&ssl=1",
+   "paragraphs": [
+    "[ Lincoln Booth is an MSc candidate at the University of Oxford, a member of the Inner Temple and a research contributor to Oxford Pro Bono Publico, and spent more than two decades on cross-border infrastructure and investment transactions across Asia, Europe and the Middle East.]",
+    "Resolution 2719 was meant to give African Union peace operations a route to United Nations (UN) assessed financing. The African Union Support and Stabilization Mission in Somalia (AUSSOM) still depends on voluntary contributions for the mission’s own budget. In December, the UN Security Council must decide whether to renew AUSSOM. The mission’s mandate and United States funding both end on 31 December 2026. The question is whether the formal, step-by-step approach of the resolution and the UN’s structures for taking decisions hinder accountability and the development or implementation of the financing model AUSSOM needs.",
+    "On 1 July 2026 the United States told the African Union that funding would end with the mandate authorised by Resolution 2809. The three-year review of Resolution 2719 required by paragraph 17 falls in December 2026, alongside the decision on AUSSOM’s renewal.",
+    "Resolution 2719 does not itself oblige UN members to pay for AUSSOM. Article 17(2) of the UN Charter requires payment once the General Assembly apportions an expense. Before then, the African Union Peace and Security Council (AUPSC) must request support, and the UN Security Council must authorise access to assessed contributions. The question is whether these separate decisions allow AUSSOM to continue without anyone settling how the mission will be paid. The answer is yes. The Security Council can renew AUSSOM without opening the route to assessed financing. December will test whether the Council does so again.",
+    "Adopted on 21 December 2023, Resolution 2719 answered a durable grievance. UN peacekeeping is financed by assessed contributions that every member must pay, while African Union missions have relied largely on voluntary contributions for their own budgets. For AUSSOM, those contributions come from a few donors. The European Union approved a further EUR 75 million in April 2026, mainly for allowances, the United Kingdom pledged GBP 16.5 million for 2025, and the African Union contributed USD 40 million. The troop-contributing countries carry the shortfall, and their personnel have gone long periods without stipends.",
+    "Two paragraphs carry the mechanism. Paragraph 2 provides that the Security Council “agrees to consider on a case-by-case basis” requests from the AUPSC for assessed financing. Paragraph 6 caps this support at “not exceeding 75 per cent” of the mission’s annual budget, and provides for the remainder to be jointly mobilised by the African Union and the UN from the international community as extra-budgetary resources.",
+    "Several further acts are needed before assessed money reaches AUSSOM’s own budget, and paragraph 3 sets them out. Joint strategic assessment and planning by the African Union and the UN must come first. The AUPSC must then decide to request support. The Security Council must next decide whether the operation may receive assessed contributions. Only after this can a budget be proposed for the UN General Assembly to approve and apportion. Paragraph 4 sends the proposed budget through the Advisory Committee on Administrative and Budgetary Questions and the Fifth Committee before the General Assembly decides whether to approve it under Article 17 of the UN Charter. Article 17(2) requires UN members to pay the expenses apportioned to them by the General Assembly. The obligation attaches to the apportionment, not to the authorisation of the mission."
+   ],
+   "lede": "Resolution 2719 was meant to give African Union peace operations a route to United Nations (UN) assessed financing."
+  },
+  {
+   "url": "https://www.amnesty.org/en/latest/news/2026/11/haiti-kenscoff-violence-highlights-continued-risk-of-killing-abduction-and-other-abuses-against-children-by-gangs-new-research/",
+   "title": "Haiti: Kenscoff violence highlights continued risk of killing, abduction and other abuses against children by gangs",
+   "source": "Amnesty International",
+   "desk": "rights",
+   "published": "2026-11-19T08:58:39+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "description": "Children in Haiti remain at risk of killings, abductions, sexual violence and other abuses by armed gangs, Amnesty International said in new research ahead of World Children’s Day. Amnesty International interviewed witnesses to the Kenscoff gang raid on 23 August 2026, in which 55 people were killed and 15 more were injured, according to a…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.amnesty.org/en/wp-content/uploads/2026/11/Haiti-1024x683.jpg",
+   "paragraphs": [
+    "Amnesty International interviewed witnesses to the Kenscoff gang raid on 23 August 2026, in which 55 people were killed and 15 more were injured, according to a municipal official. The UN said at least three boys and two girls were among those killed. A further 67 people, including 13 children, were abducted, according to municipal data.",
+    "Witnesses told Amnesty International that the attack began when dozens of gang members raided various parts of the commune of Kenscoff, south of Port-au-Prince. They attacked people in their homes, shooting them and setting houses on fire. They looted belongings and shot residents as they tried to escape. They also attacked displaced people who were taking shelter in the Ark of the New Covenant Church and shot many of them.",
+    "“Survivors of the Kenscoff August attack, which came just weeks after another massacre in the same commune, described how they watched as gang members killed their relatives and friends, and how they were raped, beaten and abducted,” said Scott Edwards, Director of Amnesty International’s Crisis Response Programme.",
+    "“Children’s lives have been devastated by these horrors. Survivors must have access to mental health support and necessary protection services.",
+    "“On World Children’s Day, we are again calling for the Haitian authorities and the international community to urgently increase efforts to protect Haiti’s children as escalating gang violence continues to threaten their lives. Additionally, intensified security operations must not expose children to further harm.”",
+    "World Children’s Day, celebrated annually on 20 November, marks the anniversary of the adoption of the Convention on the Rights of the Child (CRC), which outlines the rights of every child and what governments must do to protect them. Haiti is a state party to the CRC.",
+    "Organized gangs – namely Grand Ravine, Ti Bwa, 5 Segon and 400 Mawozo – started attacking the mountainous commune of Kenscoff in January 2025. All four gangs are part of the Viv Ansanm coalition.",
+    "Kenscoff borders Pétion-Ville, where many government offices, embassies and key commercial interests are situated. The 23 August attack on the population, which began around 9pm and was primarily led by a group from the 5 Segon gang, further appeared to be a retaliation for intensified security operations against the gangs.",
+    "One teenage girl told Amnesty International that she hid under her bed as gunshots rang out: “When they came inside the house, they said everybody should get out [or else] they would kill us.”"
+   ],
+   "lede": "Amnesty International interviewed witnesses to the Kenscoff gang raid on 23 August 2026, in which 55 people were killed and 15 more were injured, according to a municipal official."
+  },
+  {
+   "url": "https://www.ejiltalk.org/the-channel-interpol-has-chosen-not-to-watch/",
+   "title": "The Channel INTERPOL Has Chosen Not to Watch",
+   "source": "EJIL:Talk!",
+   "desk": "analysis",
+   "published": "2026-11-19T08:00:48+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "Arrest Warrants",
+    "EJIL Analysis",
+    "Extradition",
+    "International Organizations",
+    "INTERPOL",
+    "channels of cooperation",
+    "Commission for the Control of INTERPOL's Files",
+    "confidentiality"
+   ],
+   "description": "In 2024 and 2025, INTERPOL restricted oversight of the largest channel of police cooperation it operates: direct messages between national police bureaus. Amendments to its rules now prevent INTERP…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.ejiltalk.org/wp-content/uploads/2026/11/5.-INTERPOL.jpg",
+   "paragraphs": [
+    "In 2024 and 2025, INTERPOL restricted oversight of the largest channel of police cooperation it operates: direct messages between national police bureaus. Amendments to its rules now prevent INTERPOL’s General Secretariat and the Commission for the Control of INTERPOL’s Files (CCF), the organization’s independent oversight body, from accessing the content of those messages unless they have permission or become aware of a potential breach of the rules. Ironically, the change came while INTERPOL was introducing NEXUS, a new messaging platform that makes messages easier to search.",
+    "Consider the situation of a dissident living abroad whose Red Notice has been refused or deleted by the CCF because the case is political. No INTERPOL check now prevents the same government that sought a Red Notice from turning to INTERPOL’s messaging system the next day to ask its counterparts abroad to locate or arrest that person on the same facts. Unless the General Secretariat is copied in, neither it nor the CCF will see the message, and the dissident will ordinarily never know it exists. As legal experts on INTERPOL have argued, these facts could have serious implications for INTERPOL’s accountability and legal immunity.",
+    "Each member country has a National Central Bureau (NCB), its liaison office for INTERPOL matters. Notices are requested by an NCB and published by the General Secretariat after a compliance check. Diffusions, which an NCB sends directly to other members, are recorded in INTERPOL’s databases and usually also reviewed, though they reach other countries first.",
+    "Direct messages are INTERPOL’s third channel. Through INTERPOL’s secure communication system, I-24/7, an NCB writes to one or more counterparts on any operational matter, including requesting the location or arrest of a named person. Unlike notices and diffusions, these messages are not recorded in INTERPOL’s databases unless the General Secretariat is copied or the sender consents ( Rules on the Processing of Data (RPD), Article 9(4)). INTERPOL puts messages in the tens of millions a year, against 27,525 notices and 30,015 diffusions in 2025.",
+    "At its General Assembly in Glasgow in November 2024, INTERPOL adopted the current text of Article 22(6) of the RPD. Where the General Secretariat “is not a recipient of, or has not accessed the exchange”, its role is now primarily to keep the channel secure. It must act to examine compliance when it “becomes aware of a potential violation” of the rules, but otherwise may not access the content without “explicit authorization by the entity concerned”. The provision applies notwithstanding the General Secretariat’s obligations under Title 1, Chapter II of the RPD (Articles 10 to 18, including the rights of access in Article 18) and Article 22(5), under which it manages data processing in the system, including through spot checks. In other words, the General Secretariat cannot access direct messages it was not copied in on unless it has explicit permission or becomes aware of a potential breach of INTERPOL’s rules."
+   ],
+   "lede": "In 2024 and 2025, INTERPOL restricted oversight of the largest channel of police cooperation it operates: direct messages between national police bureaus."
+  },
+  {
+   "url": "https://blogs.icrc.org/law-and-policy/2026/11/19/beyond-the-blast-radius-climate-harm-and-ihls-widespread-long-term-and-severe-threshold-for-absolutely-prohibited-environmental-damage/",
+   "title": "Beyond the blast radius: climate harm and IHL’s “widespread, long-term and severe” threshold for absolutely prohibited environmental damage",
+   "source": "ICRC Law & Policy",
+   "desk": "analysis",
+   "published": "2026-11-19T07:43:34+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "Analysis",
+    "Climate change",
+    "Climate change, conflict and humanitarian action",
+    "Emerging Voices",
+    "IHL",
+    "War, law and the environment",
+    "Climate and Conflict",
+    "climate change"
+   ],
+   "description": "Beyond the blast radius, discover how climate harm challenges international humanitarian law and the protection of the natural environment.",
+   "image": "https://blogs.icrc.org/app/uploads/sites/102/2026/11/unsplash-community-VNq0vj9DiXE-unsplash.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Armed conflict can aggravate climate change through consequences that lie beyond an attack’s immediate physical footprint. Yet international humanitarian law’s prohibition of methods or means of warfare expected to cause widespread, long-term and severe damage to the natural environment is too often assessed through a temporally short and geographically bounded account of harm.",
+    "In this post, part of our series on Emerging Voices, Climate change, conflict and humanitarian action, and War, Law and the Environment, Giorgia Pane argues that foreseeable climate-related effects should enter that assessment, through a climate-informed approach to the existing cumulative test. It suggests that “long-term” should account for persistence and reversibility, “widespread” for broader spatial effects through climate-regulating systems, and “severe” for the impairment of ecological functions necessary for mitigation and adaptation. Drawing on the ICRC Guidelines’ recognition of cumulative and reverberating effects, the author proposes an evidence-based approach to planning and precautionary assessments, arguing for the application of the prohibition threshold compatibly with the climate knowledge now available.",
+    "International humanitarian law (IHL) has long recognized that war can damage the natural environment. The prohibition of the use of methods or means of warfare expected to cause “widespread, long-term and severe damage” to the natural environment remains the clearest expression of this concern ( Customary IHL – Rule 45. Causing Serious Damage to the Natural Environment ). IHL also protects the natural environment through the general rules governing the conduct of hostilities. These include the principle of distinction, under which parts of the natural environment are protected as civilian objects unless they become military objectives ( ICRC Guidelines, Rule 5); the rule of proportionality, which prohibits attacks expected to cause incidental harm excessive in relation to the concrete and direct military advantage anticipated (Rule 7); and the obligation to take feasible precautions to avoid, and in any event minimize, incidental harm to the natural environment (Rule 8).",
+    "But even in cases where objects forming part of the natural environment could otherwise be targeted lawfully as military objectives, or could otherwise incur damage arising from a lawful application of the principle of proportionality, the high-threshold prohibition articulated in Articles 35(3) and 55 of Additional Protocol I establishes an “absolute ceiling of permissible destruction” that prohibits all widespread, long-term and severe damage to the natural environment regardless of considerations of military necessity or proportionality ( ICRC Guidelines, para. 49).",
+    "It is for this reason that a high threshold of damage is required to trigger this prohibition. Yet the climate crisis invites us to ask whether the way this threshold is understood is still adequate to the forms of environmental harm we are now able to identify."
+   ],
+   "lede": "Beyond the blast radius, discover how climate harm challenges international humanitarian law and the protection of the natural environment."
+  },
+  {
+   "url": "https://www.icc-cpi.int/news/statement-acting-prosecutor-mame-mandiaye-niang-un-security-council-situation-libya-pursuant",
+   "title": "Statement of Acting Prosecutor Mame Mandiaye Niang to the UN Security Council on the Situation in Libya, pursuant to Resolution 1970 (2011)",
+   "source": "International Criminal Court",
+   "desk": "courts",
+   "published": "2026-11-19T07:42:10+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "tags": [
+    "icc"
+   ],
+   "description": "Thirty-second report: EN | FR | Arabic(On 18 November 2026, ICC Acting Prosecutor Mame Mandiaye Niang addressed the United Nations Security Council on the Situation in Libya, remotely from The Hague. Below is a transcript of his remarks.)Madam President, thank you for the opportunity to address the Security Council today.Please allow me to also express my thanks to his Excellency the Permanent Representative of Libya to the United Nations.I regret that I am unable to join you in the Council because of the sanctions imposed by the United States Government.Madam President, Excellencies, the report that I submit to you demonstrates clearly: despite coercive measures, despite attacks, the ICC and its partners continue to deliver for victims in Libya, based on the mandate of this Council.And it is in the courtroom of the ICC that this progress has been seen most clearly. On 16 July, the Pre-Trial Chamber of the International Criminal Court confirmed 17 alleged counts of war crimes against Mr Khaled Mohamed Ali El Hishri, including murder, torture, persecution, enslavement and rape.This is a landmark moment for justice in Libya. And it is built on the courage of Libyan and other victims who have come forward to work with the ICC, to provide their accounts, to force open the black box of suffering at Mitiga prison and other detention facilities in Libya.The stories of these victims recounted here at the Court were harrowing. Men, women and children detained without lawful basis. Physical and psychological torture systematised. Children witnessing their parents being abused. People targeted for their race, their gender, their perceived sexuality, their religion – or for political reasons. Women, men and children raped.One courageous victim spoke to our Team about the profound impact that Mitiga had on him, and I quote, this is what he told us:“The arrest and torture were not just a fleeting incident that came and went, they were an earthquake that shattered everything I had believed to be stable in my life.The voices of the oppressed, the screams of the tortured, and the darkness of the cold cells still inhabit my mind and soul. I have not truly left the prison: my body left, but my spirit remained imprisoned within it.I carry those memories like a wound that will never heal, searching through this pain for justice, for a sense of fairness, for a light that could dispel the darkness they planted deep inside me.”This man, and so many victims of Mitiga, did not suffer only one crime, they suffered multiple crimes committed against them repeatedly throughout their detention.Our position is unambiguous. Mr El Hishri was an architect and chief perpetrator of this calculated abuse.The confirmation of all charges against Mr El Hishri shows that through our rigorous work, and with the help of our partners, we can honour the courage of the victims who have come forward.The opening of the trial of Mr El Hishri on 4 May 2027 will be a further milestone in the process of justice. An opportunity for the victims of the crimes of Mr El Hishri to tell their stories and to face him in Court. The Office of the Prosecutor is ready for trial to commence.Madam President, Excellencies, the progress seen in the ICC courtroom is a reflection of the dynamism of our work in this situation in Libya.Our investigations across key lines of inquiry into crimes related to the 2014-2020 operations and crimes against migrants also continue with focus and rigour.Through interviews with witnesses, collection of geolocation data, and advanced investigations, the Office has obtained key information and evidence to advance its work.The decisions by the Pre-Trial Chamber of the ICC in the period covered by the report submitted to you, confirming the jurisdiction of the Court in the cases of both Njeem and El Hishri, have also further strengthened our basis for action.Madam President, Excellencies, at this crucial moment, we must also reflect on how we got here, how we were able to show the world what has happened inside the walls of Mitiga.It is neither by this Court acting alone, nor by imposing its mandate on Libya or its people. It is through partnership. It is by working together, based on the mandate of this Council, unifying efforts between victims, Libyan authorities, civil society and all international partners.Our collaboration with civil society, in particular, has been central to this case, and our commitment to further strengthen our partnership with CSOs has never been more firm.In the last reporting period, our Office had over 143 engagements with civil society partners, including through the virtual roundtable with over 43 organisations that my colleague, the other Deputy Prosecutor Nazhat Shameem Khan, participated in last July. I commend the continued willingness of these organisations to work with us, despite the hostile context.This highly fruitful collaboration in the case of Mr El Hishri is only going to be the first step. Our partnership is one built to last and to deliver more for victims across our various lines of inquiry.Madam President, Excellencies, in the last six months, that spirit of collaboration and partnership and has also been seen increasingly in our work with Libyan authorities.I wish to commend in particular the very strong dialogue we have developed with the offices of their Excellencies Mr Mohamed Younis Al-Menfi, President of Presidential Council of Libya, and with Mr Abdul Hamid Dbeibah, Prime Minister of Libya, and I also commend the cooperation of the Ambassador of Libya to the Netherlands.What I’m saying here is not just talk. It is cooperation that is delivering results in our investigations and is strengthening the basis for political processes and stability. Such is the spirit of the Council’s mandate.The recent request from Libya for the Office of the Prosecutor to provide assistance in relation to an alleged terrorist attack in Zawiya and Tripoli is further concrete evidence that this partnership is a two-way street. It shows that it is based on mutual support.As you will see in the report submitted to you, our collaboration with the Attorney-General of Libya has seen one recent concrete step, through receipt of the death certification of Saif Al-Islam Gaddafi. We naturally wish to see this cooperation with the office of the Attorney-General strengthened further.I specifically wish to call for more decisive action in relation to ICC suspect Mr Osama Elmasry Njeem.Our Office was informed of his conviction in Libya, but we know very clearly that Mr Njeem is a completely free man. He meets anyone he likes, including authorities and militias. He is with his family and friends. So we do not believe he is facing justice.There are undoubtedly enormous challenges facing local justice in Libya, we know, given the atrocities committed by militias such as RADA. It is our hope however, also based on recent constructive dialogue with the office of the Attorney General, that the trial of Mr El Hishri can serve as a catalyst, a moment in which the fear that grips so many is broken by the strength of the voices of Libyan victims.Our office will always stand ready to partner with the Attorney-General in this collective endeavour.Madam President, Excellencies, partnership is crucial in our efforts to deliver justice. The ICC is not the only place where it is delivered.As I noted, our investigation with respect to crimes against migrants from the Horn of Africa has benefited from the collaboration of with a range of national authorities as well as our Europol partners. And this collaboration continues to deliver very good results.On 28 October 2026, Mr Kidane Zekarias Habtemariam appeared before a Dutch court in a pro-forma hearing for participating in a criminal organisation involved in human trafficking, hostage-taking, extortion and violence, including sexual violence in Libya.Our Office has shared information with Netherlands authorities that has facilitated, that has directly supported national investigations. Our collective action has delivered more justice for victims.Our policy on complementarity and cooperation is having real impact, therefore. Results in the courtroom here or before domestic courts, based on collaboration across jurisdictions is delivering results in our courtrooms and in national courts alike. We are committed to further expanding the support we provide to national authorities across relevant situations.Madam President, Excellencies, to conclude, I would wish to offer one broader reflection, beyond the situation we address today.Because, ultimately, the story of progress made in Libya is, in many respects, also the story of the ICC as a whole. More victims and affected communities are coming forward and asking to work with us. More victims, having no other recourse, are placing all their hope in the Court’s ability to deliver justice for them.Here we can sense a strengthening spirit of creativity, dynamism and collaboration driving new partnerships with national actors, as well as a sense of humility and an acknowledgement of the primacy of national jurisdictions which deserve to be supported in their efforts.And through all of this, we show what international law can deliver for victims when we work together. It can deliver much. This spirit of togetherness, of progress and commitment to produce results for those affected by atrocities is what we see across situations.Here I would like to say that those who seek to undermine this Court should know that it is this collective work that allows a Libyan victim to stand before their abuser and demand justice. Ultimately, in fact, they are seeking to dismantle that also.On behalf of the Office of the Prosecutor I can however provide reassurance to this Council. Our work continues. Our work continues in the courtroom, with victims on the ground. Our work will continue with all our national partners.One victim, to quote another, one victim declared in their testimony, this is what they said. “I will be reborn when justice has been served.” That is what the victim said. It is with these words that I would like to conclude, because it is this sentiment that compels us to stay the course in the execution of our mandate.Thank you. More information:El Hishri case: Trial to open on 4 May 2027Situation in LibyaOffice of the Prosecutor",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.icc-cpi.int/sites/default/files/styles/press_release/public/2026-11/signal-2026-11-19-08-58-52-723_002_0.jpg?itok=T464wbr_",
+   "paragraphs": [
+    "Please allow me to also express my thanks to his Excellency the Permanent Representative of Libya to the United Nations.",
+    "I regret that I am unable to join you in the Council because of the sanctions imposed by the United States Government.",
+    "Madam President, Excellencies, the report that I submit to you demonstrates clearly: despite coercive measures, despite attacks, the ICC and its partners continue to deliver for victims in Libya, based on the mandate of this Council.",
+    "And it is in the courtroom of the ICC that this progress has been seen most clearly. On 16 July, the Pre-Trial Chamber of the International Criminal Court confirmed 17 alleged counts of war crimes against Mr Khaled Mohamed Ali El Hishri, including murder, torture, persecution, enslavement and rape.",
+    "This is a landmark moment for justice in Libya. And it is built on the courage of Libyan and other victims who have come forward to work with the ICC, to provide their accounts, to force open the black box of suffering at Mitiga prison and other detention facilities in Libya.",
+    "The stories of these victims recounted here at the Court were harrowing. Men, women and children detained without lawful basis. Physical and psychological torture systematised. Children witnessing their parents being abused. People targeted for their race, their gender, their perceived sexuality, their religion – or for political reasons. Women, men and children raped.",
+    "One courageous victim spoke to our Team about the profound impact that Mitiga had on him, and I quote, this is what he told us:",
+    "“The arrest and torture were not just a fleeting incident that came and went, they were an earthquake that shattered everything I had believed to be stable in my life.",
+    "The voices of the oppressed, the screams of the tortured, and the darkness of the cold cells still inhabit my mind and soul. I have not truly left the prison: my body left, but my spirit remained imprisoned within it."
+   ],
+   "lede": "Please allow me to also express my thanks to his Excellency the Permanent Representative of Libya to the United Nations."
+  },
+  {
+   "url": "https://www.justiceinfo.net/en/168632-we-need-to-establish-the-truth-for-the-sake-of-history.html",
+   "title": "“We need to establish the truth for the sake of history”",
+   "source": "Justice Info",
+   "desk": "courts",
+   "published": "2026-11-19T07:15:31+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "Interviews",
+    "Truth Commissions"
+   ],
+   "description": "As the trial of former president Rodrigo Duterte is about to begin at the International Criminal Court in The Hague, a Philippine Truth Commission tries to uncover the truth about his “war on drugs”. We talked to its chair Raul Pangalangan.",
+   "image": "https://www.justiceinfo.net/wp-content/uploads/Philippines_Raul-Pangalangan-chair-truth-commission_@Tijtske-Lingsma.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "RAUL PANGALANGAN: When I became an ICC judge in 2015, the editor-in-chief of the Philippine Daily Inquirer asked me why I was joining a court that will never have a case from the Philippines. This was a person legendary for her instinct for historical moments, leading a newspaper which had unseated two presidents of the Philippines. Indeed, who could imagine that by 2016, Duterte would be elected president on a campaign promise to kill drug users, and in such a spectacular way? There is a video where the killers are seen riding motorbikes. They stop, redirect the traffic, and shoot down a man in a public market in broad daylight. It was done in the open, no attempt to hide, no attempt at secrecy. It was brazen murder.",
+    "My impression is that during the entire Duterte period, from 2016 to 2022, while people were being killed left and right, the majority of Filipinos was cheering him on. To give you an example, a member of the staff of the parish of cardinal Pablo Virgilio David asked him: “Why are you attacking our president for the ‘war on drugs’? He’s just doing this for the good of the country.” The bitter irony is that this woman’s son was killed by the police during a drugs operation. Yet she complained merely that the police got the wrong person – she wasn’t objecting to the practice of killing.",
+    "“Now more people say: 'Duterte was doing all these bad things to solve the drugs problem. But if the problems are still here until today, maybe it’s not working.'”",
+    "Overall, popularity surveys show that many people still support Duterte and his ”war on drugs”, though I can say with confidence that today the number has gone down. Now more people say: “Duterte was doing all these bad things to solve the drugs problem. But if the problems are still here until today, maybe it’s not working.”",
+    "This is the last hope of traditional justice for the ”war on drugs”. The role of the ICC in the Philippine case is that we will have an authoritative record of the killings, presented in a legally careful way, with all the guarantees of fairness for the accused. If the trial ends with a guilty finding, it’s not just justice for the victims, it’s also educational for reforming our judicial system. Duterte kept on saying to the police: “Just kill them, because if you wait for the courts, nothing will happen”. The ICC will prove that it is possible to respect the rights of the accused and still punish the guilty.",
+    "“The Truth Commission is a completely different pathway to justice than the ICC. It’s parallel, but separate and independent.”",
+    "It was cardinal David, the bishop of Caloocan, the city where the biggest number of deaths were reported during the “war on drugs”. There were more deaths elsewhere, but in Caloocan more killings were documented because of cardinal David’s support for the victims’ families. He gave them sanctuary in his church, and they found the courage to speak up.",
+    "The Truth Commission is not part of the government. It is a civil society-led institution established to uncover and preserve the truth, give a voice and platform for victims and survivors, and foster societal healing to prevent this national nightmare from happening again. The Truth Commission is a completely different pathway to justice than the ICC. It’s parallel, but separate and independent."
+   ],
+   "lede": "As the trial of former president Rodrigo Duterte is about to begin at the International Criminal Court in The Hague, a Philippine Truth Commission tries to uncover the truth about his “war on drugs”. We talked to its chair Raul Pangalangan.",
+   "tags": [
+    "icc"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzEyTTVaR1czdkFBRDhRZEloenFDY2lNMTFsSGxjNjdBYkRRNEpWOGpsTmUxNW1YYnNVLW5GZnp5Mjc2a0RXVkZ4Nk9jUDVhQ0g4Unp2LWJ1amZPVzhfS2NlX0dTU3RibVpWQWpsWFZTUU9xR1hTcmlXVWYyRDBSc0ItMDI1S2FKWlpxbVhtdkxSQ3RHSTBOdG5zcjFxWGJ1RjFqMmFJaHVqM2Y4SEdpcGdoYjdpb3h0?oc=5",
+   "title": "Rohingya Crisis: Can the ICJ Deliver Justice as Myanmar Faces Genocide Judgment?",
+   "source": "Modern Diplomacy",
+   "desk": "courts",
+   "published": "2026-11-19T06:37:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://corbeaunews-centrafrique.org/zemio-jeunes-tues-wagner-menace/",
+   "title": "Centrafrique: après l’assassinat de deux jeunes parmi les douze arrêtés à Zemio, la tension monte, les miliciens Azandé menacent d’attaquer désormais la ville",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-19T06:03:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "Sécurité en Centrafrique",
+    "FACA",
+    "Wagner"
+   ],
+   "lang": "fr",
+   "description": "A Zemio en Centrafrique, l'assassinat de jeunes par des mercenaires russes provoque une flambée de violence et la menace d'une attaque imminente.",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/11/les-jeunes-commercants-arretes-par-les-mercenaires-russes-a-zemio.webp",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "La tension est de nouveau montée à Zémio, dans la préfecture du Haut-Mbomou, après l’assassinat de deux jeunes miliciens Azandé parmi les douze personnes arrêtées par les mercenaires russes dans la nuit de dimanche à lundi.",
+    "Selon les informations recueillies par la rédaction du CNC, les deux hommes, qui se rendaient à Zémio pour déposer leurs armes dans le cadre d’un processus de désarmement, ont été capturés par les mercenaires russes avant d’être torturés puis tués. Depuis ces assassinats, d’autres miliciens Azandé ont repris les armes et se sont positionnés autour de la ville, menaçant de l’attaquer.",
+    "En effet, les événements trouvent leur origine dans les arrestations effectuées par une patrouille de mercenaires russes, accompagnés de soldats des Forces armées centrafricaines (FACA) et de leurs supplétifs Wagner noirs, dans la nuit de dimanche à lundi. Douze jeunes avaient été interpellés dans deux villages, notamment à Tamboura, situé à une vingtaine de kilomètres de Zémio.",
+    "À lire aussi: Leadership féminin: la Guinéenne Nanfadima Magassouba devient la première femme lauréate du Prix Panafricain d’Excellence du CPPAncienne ministre et députée guinéenne, Nanfadima Magassouba recevra en janvier 2027 une distinction continentale pour son engagement.",
+    "L’enquête menée par la rédaction du CNC permet aujourd’hui de mieux comprendre les circonstances de ces arrestations. Parmi les douze personnes interpellées figuraient des commerçants qui se rendaient dans la région pour acheter des marchandises destinées à leur activité. Deux autres personnes étaient des miliciens Azandé qui avaient décidé de se rendre aux autorités dans le cadre du désarmement.",
+    "À lire aussi: « Nous ne marchons pas pour le plaisir de marcher »: après la manifestation du 13 novembre, l’ancien Premier ministre Martin Ziguélé appelle à une révolution pacifique contre la tyrannie, la misère et la présence des mercenaires russes",
+    "Selon les informations recueillies par le CNC, les deux miliciens se dirigeaient vers Zémio avec des grenades. L’un d’eux en tenait une dans la main lorsqu’ils ont croisé la patrouille des mercenaires russes. Ces derniers les ont alors arrêtés avec les autres jeunes, avant de les soupçonner d’appartenir à la milice auto-défense Azandé.",
+    "Au lendemain de ces arrestations, le mardi, les mercenaires russes sont retournés dans un autre village situé à Gambara PK 10, sur l’axe Rafaï, à environ dix kilomètres de Zémio. À leur arrivée, ils n’ont trouvé aucun habitant. Alertée par le bruit des motos et l’approche des Wagner, la population avait fui et trouvé refuge dans la forêt.",
+    "Les mercenaires ont alors incendié une partie des habitations construites en paille, brûlé des greniers et saccagé plusieurs biens appartenant aux habitants. Les dégâts matériels sont importants. Les raisons précises de cette opération restent inconnues, mais elle est intervenue au lendemain des arrestations des douze jeunes.",
+    "Pendant ce temps, les douze personnes arrêtées avaient été conduites à Zémio. Dix d’entre elles, principalement des commerçants, ont finalement été remises à la gendarmerie, puis libérées après vérification de leur situation."
+   ],
+   "lede": "A Zemio en Centrafrique, l'assassinat de jeunes par des mercenaires russes provoque une flambée de violence et la menace d'une attaque imminente.",
+   "tags": [
+    "car"
+   ]
+  },
+  {
+   "url": "https://www.justsecurity.org/165176/guantanamo-uss-cole-jury/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-uss-cole-jury",
+   "title": "Guantanamo Dispatches: USS Cole Bombing Trial Recesses With First 8 Jury Members Chosen",
+   "source": "Just Security",
+   "desk": "analysis",
+   "published": "2026-11-19T02:47:59+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "Armed Conflict",
+    "Civil Liberties",
+    "Courts & Litigation",
+    "Executive Branch",
+    "GTMO",
+    "Military",
+    "Military Commissions",
+    "Department of Defense (DoD)"
+   ],
+   "description": "On the selection of jurors in USS Cole trial before Guantanamo commission.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.justsecurity.org/wp-content/uploads/2026/11/jurors-8-of-12-guantanamo-e1795056907873.png",
+   "paragraphs": [
+    "Jury selection in the USS Cole bombing case at Guantanamo Bay recessed until next month with the addition of an eighth member who recently served on a base in the Middle East that came under fire in the U.S. war against Iran.",
+    "Army Col. Matthew Fitzgerald, the judge, accepted the Air Force captain over the objections of a defense lawyer who argued that the officer should be disqualified because aspects of the juror’s recent wartime experience were similar to some of the facts in the Cole case.",
+    "The captain was sent to Saudi Arabia last year on a routine deployment, a peacetime mission as he saw it, before the U.S.-Iran war began. Then, this year, his base came under attack. Airmen under his command were injured by shrapnel and concussion injuries from either drone or missile fire.",
+    "In the Cole attack, the warship’s commander also believed he was on a peacetime mission, a routine refueling stop in the port of Aden, Yemen, when al-Qaeda struck on Oct. 12, 2000, killing 17 American sailors.",
+    "Casey Secor, a defense lawyer, told the judge that the jurors at the Cole trial will be shown disturbing images of U.S. sailors who were killed and wounded in the suicide bombing 25 years ago, and the Air Force captain’s reactions could be colored by the casualties experienced by his servicemembers.",
+    "At Guantánamo, a Saudi prisoner, Abd al-Rahim al-Nashiri, is accused of orchestrating the attack on the Cole by two al-Qaeda operatives who came alongside the ship in an explosives-laden skiff and ignited their load.",
+    "His is the first death-penalty case by military commission at Guantanamo Bay. The court is choosing a total of 20 U.S. officers. Twelve will serve as jurors and six as alternates. The prosecution and defense teams can each excuse one of the 20 without cause.",
+    "The Air Force officer who was added to the panel was 2 years old when the Cole was bombed. He underwent some of the most intensive questioning by defense lawyers since jury selection began on Nov. 4. He said he did not believe the death penalty was necessarily required in a case like the one against al-Nashiri.",
+    "But he also could not imagine sentencing someone convicted of all of the charges in the case to no prison sentence, the most lenient sentence available to the military jurors, if al-Nashiri is convicted at the trial, which starts in earnest next year.",
+    "“If they were guilty of all these charges,” he said, “getting no punishment would do a disservice to the legal system.” The Air Force officer juror said he believed al-Nashiri was probably guilty of something because he had been held at Guantanamo Bay for 20 years. He said he hoped the military had done “its due diligence” in keeping him so long without “a speedy trial.” It was not explained to the officer that al-Nashiri is held as an enemy combatant, and therefore the U.S. government considers him eligible for detention for the duration of the conflict with al-Qaeda, even if he is never convicted of any crime. Prospective jurors also have not been told about al-Nashiri’s first four years of detention by the CIA, during which he was tortured repeatedly."
+   ],
+   "lede": "On the selection of jurors in USS Cole trial before Guantanamo commission."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlJFTEhaVnVSbTFXX2JXczJfUUg4b0JJekNpVmZsTFU2M1pGT0d5d0tYOEczVlhSc3c3R1hkSURqM1dkVkJmZW9QaWQ0LXlENUY5TnpLRm1BTlpYV3ptUFA3dU45Q3lxSnVyX0pHdU41WjhpREZnWEpGUmZ1bW85dzNPTk5BWEZfN3A5TUp4clNsY0VkR1lzVnBJMNIBoAFBVV95cUxQdEx6a2ZsTlg1MkRNQ09mRDBhRTlVbGZ0QWhNRXdqb2JKYnlfMDJVdjNZNGNxVEp0WEM3Q2k2dzhYMkJfcWhDZk1XMEpPaXdkZW1HbjlrZ090UVVZQVJfZVdOdnVCYXg3RUpEdWxwVGxQNk5NUE1Ec3dMN3dJcS1taDVRWkRTcnEzaGNOVDdsZ0s3Qnp1a1hRNWdsYUJtY3Bf?oc=5",
+   "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+   "source": "Al Jazeera",
+   "desk": "courts",
+   "published": "2026-11-19T02:13:32+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://www.amnesty.org/en/latest/news/2026/11/global-protesting-children-and-young-people-face-human-rights-abuses/",
    "title": "Global: Protesting children and young people face human rights abuses, including violence and discrimination",
@@ -308,6 +679,17 @@
     "The suggestion that CA 3 applies at sea runs into another difficulty. CA 3 applies to an armed conflict not of an international character “occurring in the territory of one of the High Contracting Parties.” Whether “territory” extends to the sea is not obvious. The answer turns on the rules of treaty interpretation in Articles 31 to 33 of the Vienna Convention on the Law of Treaties, which the Commentary adopts as its guiding methodology (para. 98). The general rule of interpretation under Article 31(1) requires a treaty to “be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose.”"
    ],
    "lede": "The Commentary’s unqualified statement that NIACs may take place at sea and that CA 3 applies in such situations is unconvincing."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVzFMTUthT1pZY0d1c3dGcWVlQXRwU1dxQURxLWZ2a1BOc3R6TXF6X3lNYkhiWlNFbVRLX3IzaXV0Z2tXWWpyaDR3RmxtVTExbU50dmtMY0o5YkxXVjRPd0dELUZXQ2hDTTdRRHBoeHBPTFpYM0h5eW5fcVFuWVhpR1BFcUJmRUlRMzd1Ml9NQnh0YWJCSTVHTHJXSDZyMGYyaDVOQVdCOXluNnFzTVA0UThrZ1Q?oc=5",
+   "title": "On eve of ICJ decision, UN expert warns Rohingya refugees face heightened insecurity amid intensifying conflict in Myanmar and waning donor support",
+   "source": "ohchr",
+   "desk": "courts",
+   "published": "2026-11-18T15:49:41+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTlVT1pqRkh2Z3Q4d0ZzRHV2OHJTNTlnX3NyaVhicnJ3dHdVdkxFOVRkaFJwS0Jpa09WcUdqOFVCYjdNcndCd3RybEMzelFCOWlfakhNczd4TzM5M19lNWRhTTZ1SVJybl83VXR0cHhNRjktZDBzUnU3TzJNd0hUZVROdnZCd1Q5NnJZdQ?oc=5",
@@ -4907,6 +5289,30 @@
    "lede": "Nuclear powered microreactors may serve operational interests. However, their military usefulness does not eliminate their legal sensitivity."
   },
   {
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
+   "title": "Afghanistan faces record hunger levels amid rampant rights violations",
+   "source": "UN News",
+   "desk": "rights",
+   "published": "2026-10-15T12:00:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "description": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "UN agency heads are calling for emergency support to stem the crisis, as a separate report details serious human rights violations – from public floggings to a new ban on demonstrations.",
+    "Record acute malnutrition levels for the August–October period have seen hunger levels grow for millions of Afghans – according to the Integrated Food Security Phase Classification (IPC), a global initiative aimed at informing decisions based on five phases of food security.",
+    "Economic pressures are straining households nationwide, contributing to more than 32 per cent of the population facing crisis-level acute food insecurity phase three or above, including 3.4 million people experiencing emergency phase four conditions.",
+    "The current deterioration is driven by disease outbreaks and inadequate water, sanitation and hygiene conditions, compounded by sharply reduced access to nutrition services, the report found.",
+    "The situation is expected to worsen from November to April during the winter lean season, when nearly 19.2 million people are projected to face phase three or above, including five million people in emergency food insecurity conditions.",
+    "Acute malnutrition is also set to grow significantly, with 4.04 million children under age five projected to need treatment between January and December 2027.",
+    "“Although improved rainfall and better agricultural production have supported food availability, declining humanitarian assistance is reducing households’ ability to cope,” the report warned.",
+    "The World Food Programme ( WFP) and Food and Agriculture Organization ( FAO) issued a stark message on Thursday, calling for urgent funding to scale up food assistance, emergency agricultural support and malnutrition prevention and treatment.",
+    "“We still have a window to act, but it is closing fast,” WFP country director John Aylieff said. “With urgent support, families can get through the winter with dignity. Without it, many will face impossible choices no parent should have to make.”"
+   ],
+   "lede": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global…"
+  },
+  {
    "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
    "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
    "source": "UN News",
@@ -4994,6 +5400,30 @@
    "lede": "The 2025 Commentary can be described as a “commentary in miniature,” because of its comprehensive account of Common Article 3."
   },
   {
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168597",
+   "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
+   "source": "UN News",
+   "desk": "rights",
+   "published": "2026-10-14T12:00:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "description": "UN independent experts welcomed on Wednesday a recent landmark corporate accountability ruling involving the Ecopetrol oil company by Colombia’s Special Jurisdiction for Peace, calling for reparations for victims.",
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/24-09-2026_Adobe_Bogota.jpg/image560x340cropped.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "The Jurisdiction for Peace (JEP) ruling related to the Macro-Case 08, which recognises the responsibility of several State agents and a director of the State-owned company for their involvement in acts related to serious human rights violations, war crimes and crimes against humanity committed during the armed conflict in Barrancabermeja, Colombia’s oil capital.",
+    "“The JEP’s decision represents a significant step forward for truth, justice and accountability regarding the impacts of corporate activities in conflict-affected contexts,” the experts said. “It also opens an unprecedented opportunity to place victims at the centre of reparation and restoration efforts.”",
+    "The experts welcomed the cooperation provided by Ecopetrol during the proceedings and encouraged the company to deepen that commitment through ongoing dialogue and concrete actions for reparation and restoration aimed at the affected individuals and communities.",
+    "“Companies have a responsibility to respect human rights and to participate in redressing the negative impacts they have caused or contributed to, in accordance with the United Nations Guiding Principles on Business and Human Rights ,” they noted.",
+    "The experts urged Ecopetrol to continue engaging in good faith in a constructive dialogue with the victims and their representative organisations, adopting a restorative approach that allows for the identification of the harms suffered, expectations for reparations and the measures necessary to help restore the rights violated.",
+    "“Victims should not be mere observers of the reparation processes, they must be active participants in their design and implementation,” they said. “Effective reparations require meaningful participation, acknowledgment of harm and a sustained commitment to restoring rights and rebuilding trust.”",
+    "As the majority shareholder of Ecopetrol, the experts highlighted the role of the Colombian State in this process.",
+    "“When it comes to State-owned enterprises, business responsibilities to respect human rights converge with the State’s duty to protect such rights,” they said.",
+    "“Colombian authorities must ensure the company participates fully in efforts towards truth, justice, reparations and guarantees of non-repetition and that this process effectively contributes to strengthening public trust in institutions,” the experts said."
+   ],
+   "lede": "UN independent experts welcomed on Wednesday a recent landmark corporate accountability ruling involving the Ecopetrol oil company by Colombia’s Special Jurisdiction for Peace, calling for reparations for victims."
+  },
+  {
    "url": "https://lieber.westpoint.edu/hollow-control-cyber-compromise-human-judgment-lethal-autonomous-weapons-part-i/",
    "title": "Hollow Control: Cyber Compromise and Human Judgment in Lethal Autonomous Weapons",
    "source": "Articles of War",
@@ -5026,6 +5456,30 @@
     "These legal frameworks are well established. What matters for autonomous weapons is a much narrower issue, as an adversary’s cyber operation does not need to cause physical damage or take down a power grid to create problems among adversaries. The picture can be subtly altered while the heading continues to look like what the operator expects; an “ ILOVEYOU ,” not necessarily a black screen. For control to fail, it is enough that the person who must apply the law does not realize that the picture, the model, or the command path is no longer theirs."
    ],
    "lede": "What happens to meaningful human control (MHC) if the information gathered is corrupted before a decision?"
+  },
+  {
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168571",
+   "title": "India: UN rights office urges release of ‘arbitrarily detained’ protesters",
+   "source": "UN News",
+   "desk": "rights",
+   "published": "2026-10-10T12:00:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "description": "The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in Delhi on Saturday.",
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-11-2019%20Delhi%20pollution.jpg/image560x340cropped.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "The demonstration was called by a youth-led movement that is seeking electoral reforms ahead of state elections, with its chief demand being the resignation of the official heading India’s election commission.",
+    "Protesters have criticised the body’s revision of the national voter roll, which has reportedly removed tens of millions of names in a bid to avoid duplicates and discrepancies.",
+    "Political opponents argue it is an exercise to keep the ruling nationalist Bharatiya Janata Party (BJP) in power.",
+    "Police refused permission for Saturday’s protest to take place at the movement’s planned venue in the capital, and heavy security and road closures were reported.",
+    "UN human rights office spokesperson Thameen Al-Kheetan called on the authorities to ensure that the right to peaceful assembly is “fully respected and fulfilled”.",
+    "“Restrictions on peaceful protests must meet strict tests of necessity and proportionality,” he said.",
+    "He urged law enforcement officers to show “utmost restraint” in responding to peaceful protesters, in keeping with India’s democratic traditions and its human rights obligations.",
+    "Mr. Al-Kheetan said that anyone arbitrarily detained must be released immediately and unconditionally.",
+    "He also encouraged the authorities to engage in meaningful dialogue to address what he described as broadly held concerns."
+   ],
+   "lede": "The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in…"
   },
   {
    "url": "https://lieber.westpoint.edu/prohibition-deportation-forcible-transfer/",
@@ -5078,6 +5532,78 @@
    "lede": "The International Residual Mechanism for Criminal Tribunals (Mechanism) warmly congratulates Judge Navi Pillay on receiving the 2026 Nobel Peace Prize."
   },
   {
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+   "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+   "source": "UN News",
+   "desk": "rights",
+   "published": "2026-10-09T12:00:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "description": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.",
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/11-09-2025-IOM-Sudan-WaterProject.jpg/image560x340cropped.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Fighting in the region has escalated in the last few months as clashes have intensified between the paramilitary Rapid Support Forces (RSF) and the Sudanese Government.",
+    "They are fighting over strategic towns and bases near the Ethiopian border, as part of the broader battle for control of Sudan that has been ongoing since April 2023.",
+    "In recent weeks, thousands of civilians have been displaced in the area due to sustained attacks.",
+    "Mr. Dujarric condemned the “horrifying reports” stressing that attacks directed towards civilians are prohibited under international humanitarian law.",
+    "Israeli military incursions into southern Syria are intensifying, with some 280 incidents recorded in September alone – the highest monthly figure this year, the UN human rights office ( OHCHR) said on Friday.",
+    "The incidents include reported raids on homes, restrictions on movement, harassment of civilians and arbitrary detention.",
+    "Spokesperson Shabia Mantoo said 49 Syrians are believed to remain in Israeli custody, though the figure has not been independently verified.",
+    "Former detainees describe detention lasting over a year in some cases, no reasons given and transfers to unknown facilities. They also allege torture and ill-treatment, including beatings, prolonged forced standing and threats to their families.",
+    "On Monday, a 22-year-old man from Jaba town in Quneitra governorate was killed by Israeli forces near Al-Hamidiyah."
+   ],
+   "lede": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric."
+  },
+  {
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168565",
+   "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
+   "source": "UN News",
+   "desk": "rights",
+   "published": "2026-10-09T12:00:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "description": "The UN human rights office (OHCHR) on Friday warned that livestreaming a planned execution by firing squad in the United States would amount to a public execution and breach the absolute prohibition on torture.",
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-09-2023_UNOG_Shabia-Mantoo.jpg/image560x340cropped.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "The statement came after US Defence Secretary Pete Hegseth vowed to publicly execute Nidal Malik Hasan, who was sentenced to death by a military jury after being convicted of killing 13 people and injuring 32 in a 2009 shooting at the Fort Hood military base in Texas.",
+    "OHCHR’s Shabia Mantoo was responding to a question from journalists at a press briefing in Geneva.",
+    "She noted that the UN High Commissioner for Human Rights, Volker Türk, in response to public executions in Afghanistan and Iran had previously stressed that such executions “constitute a form of cruel, inhuman or degrading treatment or punishment”.",
+    "“ Failure to respect this prohibition would inevitably render the execution arbitrary in nature, and result in a violation of the right to life and the absolute prohibition of torture ,” the spokesperson added.",
+    "UN Spokesperson Stéphane Dujarric said during Friday’s press briefing in New York that the “possibility of…a government executing someone in public or in front of live cameras, frankly, is abhorrent”.",
+    "Earlier this month, OHCHR also called on the authorities in the US state of Tennessee not to pursue any further attempts to execute Christa Pike, saying her case highlights why the death penalty should be abolished.",
+    "“ The death penalty has no place in any society, and Christa Pike’s case lays bare the multiple reasons why capital punishment should be abolished ,” said UN Human Rights Office spokesperson Ravina Shamdasani.",
+    "“Her prolonged suffering is abhorrent, and cruel. Key fair trial concerns remain unresolved ,” she said.",
+    "Responding to the botched execution, Tennessee Department of Correction Commissioner Frank Strada has said he will be stepping down at the end of this month."
+   ],
+   "lede": "The UN human rights office (OHCHR) on Friday warned that livestreaming a planned execution by firing squad in the United States would amount to a public execution and breach the absolute prohibition on torture."
+  },
+  {
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168558",
+   "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
+   "source": "UN News",
+   "desk": "rights",
+   "published": "2026-10-09T12:00:00+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "description": "South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize.",
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/10/15788/image560x340cropped.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "She was honoured “for her efforts to promote peace and international law”, the Norwegian Nobel Committee said in a statement.",
+    "The committee said the award was going “to a person who with exceptional courage and integrity has led the way towards a more comprehensive global legal order,” noting that she “has been instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted .”",
+    "Ms. Pillay served as the UN human rights chief from September 2008 through August 2014, but her career has spanned more than 50 years - from fighting apartheid in her homeland to defending civilians in conflict zones.",
+    "She is a former chair of the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory and was appointed a judge at the International Criminal Tribunal for Rwanda (ICTR) and the International Criminal Court (ICC) in the Hague, in addition to serving as an ad hoc judge with the International Court of Justice ( ICJ ), the UN's highest court.",
+    "“ A common thread runs from her early work defending Nelson Mandela and others who stood up against apartheid to her service as a judge in some of the key international court cases of our time ,” the Nobel Committee said.",
+    "In a statement congratulating the new Nobel laureate, UN Secretary-General António Guterres said Ms. Pillay has shown “that the force of law must prevail over the law of force and that defending human rights is the surest safeguard against injustice.”",
+    "He hailed her as “a champion of international law and human rights, and a steadfast, independent voice of justice”, adding that “in its citation, the Nobel Committee reminded the world that peace must be built on lasting principles, not the will of the powerful.\"",
+    "Navanethem “Navi” Pillay was born in South Africa in 1941 to a Tamil Indian family and was the first non-white woman to establish a legal practice in the country.",
+    "As a lawyer, she acted as a defence attorney for anti-apartheid activists, exposing torture, and helping to establish key rights for prisoners on notorious Robben Island."
+   ],
+   "lede": "South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize."
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT3lEaUlja2tqcmRfQUNRTU5YZDF6dnZncVdFR2VuRXIxd18yUDNRMkkyX0pKYkxuUlo2RVVKd1g4a0x2VlVDWm0ydW8yQlhoOXBaWVJMN1g5aElmN2xfLXhFMkpwNW9xLXpZWjBBSTZyVV9SVEhqVERJRThPcVEtMQ?oc=5",
    "title": "ICC: what does Said’s judgment mean?",
    "source": "Justice Info",
@@ -5123,6 +5649,174 @@
     "The Optional Protocol on the Protection of Children in Armed Conflict (OPAC). The 173 States Parties to OPAC are prohibited from unlawfully recruiting children to their own armed forces, including using online means, in line with the specifications in OPAC Articles 2 and 3. They must also “ take all feasible measures to prevent” the recruitment or use in hostilities of persons under 18 by non-state armed groups, “ including the adoption of legal measures necessary to prohibit and criminalize such practices” (Art. 4.2). For their part, non-state armed groups are prohibited from recruiting or using in hostilities anyone under 18 (Art. 4.1). Finally, under Article 6.1 and 6.2, States Parties must take “ all necessary legal, administrative and other measures to ensure the effective implementation and enforcement of the provisions of the present Protocol within its jurisdiction ”."
    ],
    "lede": "Online child recruitment is entering the digital age. From gaming to social media, discover how technology is changing the way children are drawn into armed conflict."
+  },
+  {
+   "url": "https://lieber.westpoint.edu/on-interpretive-methodology/",
+   "title": "GC IV Commentary Series",
+   "source": "Articles of War",
+   "desk": "analysis",
+   "published": "2026-10-07T17:26:50+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "AoW Posts",
+    "Blog",
+    "GC IV Commentary Series",
+    "Interpretation & Development",
+    "Law of Armed Conflict",
+    "CIL",
+    "commentary",
+    "customary international law"
+   ],
+   "byline": "Lieber Institute",
+   "description": "In its recently updated commentary of Geneva Convention IV, the ICRC explains its interpretive methodology.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/10/260928-M-DQ946-1997.jpg",
+   "paragraphs": [
+    "Editors’ note: The following series considers ICRC’s 2025 updated Commentary on the Fourth Geneva Convention. Rosa-Lena Lauterbach, Liisi Adamson, and Sean Watts’s introduction to the series is available here.",
+    "In its recently updated commentary of Geneva Convention IV, the International Committee of the Red Cross (ICRC) explains the interpretive methodology it has adopted as follows:",
+    "The updated Commentary applies the methodology for treaty interpretation set out in the 1969 Vienna Convention on the Law of Treaties (hereinafter ‘Vienna Convention’), in particular Articles 31-33. These rules are now generally considered to reflect customary international law. As such, they are applicable to the interpretation of the Geneva Conventions, even though the Conventions were concluded before the entry into force of the Vienna Convention (para. 98. Internal references omitted).",
+    "This methodology underpins the commentary’s frequent recourse to subsequent practice as an aid to interpretation, including its use as a supplementary means of interpretation where the practice in question falls short of establishing a general agreement among the parties as required under Article 31(3)(b) of the Vienna Convention on the Law of Treaties.",
+    "Such an interpretive approach reflects two propositions that have emerged in recent decades. First, the rules of treaty interpretation set forth in Articles 31-33 of the Vienna Convention are regarded as reflecting customary international law and, as such, are applicable to earlier treaties, including 1949 Geneva Conventions, which were adopted prior to the Vienna Convention’s entry into force in 1980. Second, the applicable rules of interpretation permit recourse to subsequent practice in the application of a treaty, even where that practice does not establish the agreement of the parties regarding the treaty’s interpretation, as a supplementary means of interpretation in the sense of Article 32 of the Vienna Convention.",
+    "These propositions are by no means unique to the ICRC’s commentaries. They are frequently assumed in legal scholarship and have increasingly found endorsement in official documents and institutional practice. However, their growing and often unqualified acceptance, without critical reflections, has long troubled me. In this post, I take the opportunity to explain my reservations concerning these two propositions and to suggest reasons for exercising caution when reading or relying on this commentary.",
+    "The four Geneva Conventions of 1949 entered into force in 1950, three decades before the Vienna Convention on the Law of Treaties entered into force in 1980. As a technical matter, therefore, the interpretive rules codified in Articles 31-33 of the Vienna Convention are not directly applicable to the Geneva Conventions, given the principle of non-retroactivity set forth in Article 4 of the Vienna Convention.",
+    "The first of the interpretive propositions introduced above seeks to overcome this difficulty by drawing a distinction between the treaty rules embodied in the Vienna Convention and their equivalent in customary international law. According to this view, the interpretive rules codified in Articles 31-33 did not originate with the Vienna Convention but rather reflected pre-existing customary law that was already binding when the Geneva Conventions were adopted and entered into force."
+   ],
+   "lede": "In its recently updated commentary of Geneva Convention IV, the ICRC explains its interpretive methodology."
+  },
+  {
+   "url": "https://lieber.westpoint.edu/dignitary-design-embedding-human-dignity-military-ai/",
+   "title": "Asia-Pacific Journal Series – Dignitary Design: Embedding Human Dignity into Military AI",
+   "source": "Articles of War",
+   "desk": "analysis",
+   "published": "2026-10-06T18:24:32+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "AI",
+    "AoW Posts",
+    "Asia-Pacific Journal Series",
+    "Blog",
+    "accountability",
+    "artificial intelligence",
+    "dignitary design",
+    "dignity"
+   ],
+   "byline": "Lieber Institute",
+   "description": "Respect for human dignity should become a guiding principle in the design and governance of military AI itself.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/10/getty-images-MPsloTamKjA-unsplash.jpg",
+   "paragraphs": [
+    "Editors’ note: This post appears as part of a series highlighting articles in a recent volume of the Asia-Pacific Journal of International Law, on which presentations were made at a workshop hosted by National University of Singapore’s Centre for International Law. Introductory post by Samuel White, Danielle Yeow, and Jonathan Kwik can be found here.",
+    "Artificial intelligence (AI) is rapidly transforming the way military operations are planned and conducted. Systems capable of processing enormous quantities of data now assist commanders in identifying potential targets, predicting civilian presence, assessing collateral damage, and recommending operational courses of action.",
+    "Although these technologies remain, in formal legal terms, decision-support tools rather than autonomous legal actors, they increasingly shape the informational environment within which military decisions are made. As a result, the central challenge confronting international humanitarian law (IHL) is no longer confined to regulating autonomous weapons. My article engages with the broader question of how IHL should respond when human judgment itself is progressively mediated by algorithmic systems.",
+    "Contemporary debates on military AI have largely focused on whether IHL is adequate to regulate emerging technologies, how meaningful human control should be preserved, and who should bear responsibility when AI-assisted operations produce unlawful outcomes. While these discussions have generated important insights, they share a common premise: they treat AI as a technological reality to be regulated after it has already been developed, rather than asking what normative values should shape its design from the outset.",
+    "This is the idea underlying what I describe as dignitary design. The concept rests upon a straightforward proposition: respect for human dignity should not function merely as a standard against which military operations are evaluated after harm has occurred. Rather, dignity should become a guiding principle in the design and governance of military AI itself. Instead of viewing human dignity exclusively as a legal value protected through judicial review, accountability mechanisms, or reparations, dignitary design understands it as an ex ante constraint that shapes technological development before operational decisions are ever made. If military AI increasingly structures battlefield decision-making, IHL cannot remain concerned solely with the legality of outcomes; it must also engage with the architecture through which those outcomes are produced.",
+    "This proposal builds upon the normative foundations of IHL itself. The principles of distinction, proportionality, and precaution all presuppose that human beings possess an intrinsic value that cannot simply be reduced to strategic utility. Likewise, the Martens Clause reminds us that even where treaty law is silent, military operations remain governed by the principles of humanity and the dictates of public conscience.",
+    "Together, these rules reflect a legal order whose legitimacy depends not merely upon regulating violence efficiently but upon preserving the humanity of those affected by armed conflict."
+   ],
+   "lede": "Respect for human dignity should become a guiding principle in the design and governance of military AI itself."
+  },
+  {
+   "url": "https://lieber.westpoint.edu/can-we-design-military-ai-to-follow-ihl-by-default/",
+   "title": "Asia-Pacific Journal Series – Can We Design Military AI to Follow IHL by Default?",
+   "source": "Articles of War",
+   "desk": "analysis",
+   "published": "2026-10-06T17:52:28+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "AI",
+    "AoW Posts",
+    "Asia-Pacific Journal Series",
+    "Blog",
+    "agentic AI",
+    "ambiguity",
+    "artificial intelligence",
+    "automation"
+   ],
+   "byline": "Lieber Institute",
+   "description": "Can we design artificial intelligence (AI) systems to automatically follow core principles of international humanitarian law?",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/10/500h_q95.jpg",
+   "paragraphs": [
+    "Editors’ note: This post appears as part of a series highlighting articles in a recent volume of the Asia-Pacific Journal of International Law, on which presentations were made at a workshop hosted by National University of Singapore’s Centre for International Law. Introductory post by Samuel White, Danielle Yeow, and Jonathan Kwik can be found here.",
+    "Can we design artificial intelligence (AI) systems to automatically follow core principles of international humanitarian law (IHL) in similar ways to Asimov’s Three Laws of Robotics? A recent proposal from the Institute for Law & AI suggests that future agentic military AI systems should be designed to consult “AI-Guiding Treaties” and to refuse human instructions that would violate the designated treaties.",
+    "This idea of Treaty-Following AI (TFAI) is appealing for military agentic AI systems. It would effectively sidestep the long overdue responsibility gap debate regarding ex post attribution of responsibility and turn the focus toward an ex ante design duty that could prevent an AI henchman from loyally carrying out human orders without questioning their legality.",
+    "This post highlights my argument from a previously published article contending that some areas of IHL are particularly difficult to codify as legal constraints because States deliberately left their meanings ambiguous.",
+    "In quantum mechanics, light can exist as both a wave and a particle, a phenomenon known as superposition. Light collapses into one state only when it is observed (the observer effect). I argue that IHL exists under similar conditions because it holds two logically irreconcilable visions at once: military necessity; and humanity. The meaning of these rules is suspended until we decide which rule wins out.",
+    "The difficulty in applying the TFAI proposal to IHL lies precisely in the fact that IHL’s fundamental provisions, such as the principles of precaution, distinction, and proportionality, can be legitimately interpreted differently according to two opposing moral reference points. The danger of TFAI is that it rests on the need to collapse the superposition ex ante to provide objective guidance to the AI, which would inevitably privilege one vision over the other as an infrastructural reality while obscuring the political nature of that choice.",
+    "There is nothing novel in the claim that some rules of IHL are indeterminate. My article distinguishes four established forms of indeterminacy in existing accounts: (1) linguistic indeterminacy, arising from open-textured languages; (2) legal indeterminacy, arising from questions of sources, interpretation, and application (such as whether military manuals count as State practice? What counts as “direct participation in hostilities”? How many civilian casualties are considered “excessive” to the military advantage anticipated?); (3) structural indeterminacy, arising from IHL’s dual role in both legitimising and restraining violence; and (4) practice-based indeterminacy, arising from a divided IHL interpretive community between military and human rights lawyers. Each account describes a form of legal indeterminacy, but none fully explains why indeterminacies in IHL have proved so resilient."
+   ],
+   "lede": "Can we design artificial intelligence (AI) systems to automatically follow core principles of international humanitarian law?"
+  },
+  {
+   "url": "https://lieber.westpoint.edu/martens-clause-international-laws-favourite-rule-nobody-uses/",
+   "title": "Asia-Pacific Journal Series – The Martens Clause: International Law’s Favourite Rule That Nobody Uses",
+   "source": "Articles of War",
+   "desk": "analysis",
+   "published": "2026-10-05T17:23:09+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "AI",
+    "AoW Posts",
+    "Asia-Pacific Journal Series",
+    "Blog",
+    "artificial intelligence",
+    "data poisoning",
+    "Martens clause",
+    "military AI"
+   ],
+   "byline": "Lieber Institute",
+   "description": "If artificial intelligence is exposing areas where treaty law remains incomplete, then simply invoking the Martens Clause is no longer enough.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/10/egor-komarov-F6RNOgXyPtM-unsplash.jpg",
+   "paragraphs": [
+    "Editors’ note: This post appears as part of a series highlighting articles in a recent volume of the Asia-Pacific Journal of International Law, on which presentations were made at a workshop hosted by National University of Singapore’s Centre for International Law. Introductory post by Samuel White, Danielle Yeow, and Jonathan Kwik can be found here.",
+    "Spend enough time at conferences on military artificial intelligence (AI) and it is almost inevitable that someone will invoke the Martens Clause.",
+    "Such conference discussions range across autonomous weapons, AI decision-support systems, accountability, cyber operations, and data poisoning. Yet regardless of where the conversation began, it seems eventually to arrive at the same destination. Whenever existing law appears uncertain, or technological developments has outpaced treaty law, the Martens Clause emerges as the answer waiting quietly in the background.",
+    "This constant return to the Martens Clause triggered me to change course in my research away from the historical triggers that created legal personhood, and to take a deep dive into the Martens Clause. This post builds upon the article that resulted from that research.",
+    "The Martens Clause is invoked constantly in academic discussions of emerging military technologies, yet remarkably rarely elsewhere. It occupies an increasingly prominent place in journal articles, conference papers, and expert workshops, but enjoys comparatively little attention in military manuals, operational legal advice, or the public positions adopted by States (I cannot find any reference in any State position).",
+    "More than a century after it first appeared, there remains surprisingly little State practice explaining what the Clause actually requires. It has become one of the most frequently cited concepts in academic discussions of military AI while remaining one of the least developed (or relevant) for operational lawyers.",
+    "That observation is not intended as a criticism of either community, as I sit in both. Rather, it reflects that academics and practitioners are trying to answer different questions. Military lawyers advising commanders are concerned with identifying the law as it presently exists. Academic lawyers are often interested in where the law may need to develop when confronted with technologies that existing treaties never contemplated. AI has brought those two perspectives into unusually close contact because it increasingly presents problems that fit comfortably into neither category.",
+    "A useful example of this phenomenon is data poisoning. Data poisoning served as the operational case study for my previously mentioned article (see also my Articles of War post from earlier this year). Instead of attacking a military system directly, an adversary quietly corrupts the data used to train another State’s AI. The operation may take place years before any armed conflict exists. No infrastructure is destroyed. No obvious damage is visible. The affected system continues to function until, perhaps during a future conflict, it begins producing unreliable intelligence assessments, flawed targeting recommendations, or compromised logistical planning. The hostile act belongs to peacetime, but its consequences emerge only in war."
+   ],
+   "lede": "If artificial intelligence is exposing areas where treaty law remains incomplete, then simply invoking the Martens Clause is no longer enough."
+  },
+  {
+   "url": "https://lieber.westpoint.edu/de-jure-necessity-de-facto-improbability-establishing-new-military-ai-treaty/",
+   "title": "Asia-Pacific Journal Series – The De Jure Necessity and De Facto Improbability of Establishing a New Military AI Treaty",
+   "source": "Articles of War",
+   "desk": "analysis",
+   "published": "2026-10-05T16:30:08+00:00",
+   "seen": "2026-11-19T11:33:51+00:00",
+   "cats": [
+    "AI",
+    "AoW Posts",
+    "Asia-Pacific Journal Series",
+    "Blog",
+    "artificial intelligence",
+    "CCW",
+    "customary international law",
+    "Haokun Yu"
+   ],
+   "byline": "Lieber Institute",
+   "description": "Some believe it is unnecessary to establish a new treaty for military AI; others disagree. This division exists also among States.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/10/curated-lifestyle-zQe544xNXD0-unsplash.jpg",
+   "paragraphs": [
+    "Editors’ note: This post appears as part of a series highlighting articles in a recent volume of the Asia-Pacific Journal of International Law, on which presentations were made at a workshop hosted by National University of Singapore’s Centre for International Law. Introductory post by Samuel White, Danielle Yeow, and Jonathan Kwik can be found here.",
+    "The deployment of artificial intelligence (AI) in the military domain is becoming reality. The regulation of military AI is no longer a potential consideration but rather a pertinent contemporary issue. A foremost concern is how military AI should be regulated.",
+    "Some believe it is unnecessary to establish a new treaty for military AI; others disagree. The same division also exists among States, affecting the next steps in international cooperation. This post builds upon our previously published article and aims to investigate the necessity and probability of establishing a new treaty for military AI and then evaluate the value of the treaty-making process.",
+    "Establishing a new treaty for military AI is de jure necessary. Although the International Court of Justice’s Nuclear Weapons advisory opinion could support the applicability of existing international law to military AI, the real problem is the insufficiency of existing law. Specifically, the current international legal framework struggles to adequately address problems such as moral dilemmas and accountability gaps.",
+    "Regarding the moral dilemma, the International Committee of the Red Cross contends that it is morally unacceptable for machines to determine who lives or dies. While this is morally debatable, there are currently no positive rules explicitly prohibiting or restricting the use of military AI solely on moral grounds. Concerning the accountability gap, this issue remains controversial in the literature and complicates the practical allocation of responsibility.",
+    "Interpreting existing international law might resolve the questions raised above, but fragmented interpretations could undermine legal certainty, which plays a significant role in international legal systems. Without a new treaty, States lack the legal certainty requisite as a precondition for legal compliance. On this basis, establishing a new treaty for military AI is de jure necessary.",
+    "Although establishing a new treaty is de jure necessary, it is almost de facto improbable. Among treaty-making platforms, the Convention on Certain Conventional Weapons (CCW) mechanism is the most influential. However, concluding a new instrument under the CCW requires consensus. Because several States have objected, establishing a widely participated-in treaty on military AI under the CCW mechanism is highly improbable.",
+    "Human Rights Watch has proposed pursuing a new treaty for military AI through an alternative mechanism beyond the CCW. However, major military powers that oppose a new treaty via the CCW might also refuse to participate in a treaty negotiated under an alternative mechanism. This would substantially affect the treaty’s actual effectiveness, rendering a treaty that successfully regulates military AI de facto improbable."
+   ],
+   "lede": "Some believe it is unnecessary to establish a new treaty for military AI; others disagree. This division exists also among States."
   }
  ],
  "dropped": []
