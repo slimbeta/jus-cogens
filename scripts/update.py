@@ -230,8 +230,10 @@ SOURCES = [
     {"name": "FIDH", "desk": "rights", "feed": "https://www.fidh.org/spip.php?page=backend"},
     {"name": "UN News", "desk": "rights", "feed": "https://news.un.org/feed/subscribe/en/news/topic/human-rights/feed/rss.xml"},
     # Analysis & scholarship
-    {"name": "EJIL:Talk!", "desk": "analysis", "feed": "https://www.ejiltalk.org/feed/"},
-    {"name": "Opinio Juris", "desk": "analysis", "feed": "https://opiniojuris.org/feed/"},
+    {"name": "EJIL:Talk!", "desk": "analysis", "feed": "https://www.ejiltalk.org/feed/",
+     "fallback_feed": gnews("site:ejiltalk.org when:21d")},
+    {"name": "Opinio Juris", "desk": "analysis", "feed": "https://opiniojuris.org/feed/",
+     "fallback_feed": gnews("site:opiniojuris.org when:21d")},
     {"name": "Just Security", "desk": "analysis", "feed": "https://www.justsecurity.org/feed/", "keywords": ICL_WORDS},
     {"name": "Articles of War", "byline": "Lieber Institute", "desk": "analysis", "feed": "https://lieber.westpoint.edu/feed/"},
     {"name": "ICRC Law & Policy", "desk": "analysis", "feed": "https://blogs.icrc.org/law-and-policy/feed/"},
@@ -304,7 +306,11 @@ def feed_items(src):
     if src.get("via_google"):
         time.sleep(3)
     try:
-        root = parse_xml(fetch_feed(src["feed"]))
+        try:
+            root = parse_xml(fetch_feed(src["feed"]))
+        except ET.ParseError:
+            # A bot-check page instead of XML: ask once more as a plainly named feed reader
+            root = parse_xml(get(src["feed"], limit=16_000_000, ua=READER_UA))
     except Exception as e:
         if not src.get("fallback_feed"):
             raise
