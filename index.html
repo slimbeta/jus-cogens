@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Jus Cogens</title>
+<meta name="description" content="International criminal law, human rights and the Central African Republic: the ICC, the Special Criminal Court, HRW and more, updated hourly.">
+<meta name="theme-color" content="#f5f3ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141215" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Jus Cogens">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<script>(function(){try{var s=localStorage.getItem('jc-theme');if(s==='dark'||s==='light'){document.documentElement.dataset.theme=s;}}catch(e){}})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,600;0,700;1,400&family=Libre+Caslon+Display&display=swap">
+<link rel="stylesheet" href="styles.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<main class="paper">
+  <header class="masthead">
+    <div class="masthead-side masthead-date" id="today"></div>
+    <a class="brand" href="./" aria-label="Jus Cogens, home"><h1>Jus Cogens</h1></a>
+    <div class="masthead-side header-actions">
+      <button id="theme-toggle" class="icon-button" aria-label="Toggle dark mode" title="Dark mode">
+        <svg class="theme-moon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20.5 14.4A8.6 8.6 0 0 1 9.6 3.5 8.7 8.7 0 1 0 20.5 14.4Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+        <svg class="theme-sun" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="1.6" fill="none"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.4 1.4m11.2 11.2L19 19M19 5l-1.4 1.4M6.4 17.6 5 19" stroke="currentColor" stroke-width="1.6"/></svg>
+      </button>
+    </div>
+  </header>
+  <p class="tagline">International criminal law &amp; human rights &middot; <span id="updated">&nbsp;</span></p>
+
+  <nav class="sections" aria-label="Sections">
+    <button data-view="latest" class="active">Latest</button>
+    <button data-view="car">CAR &amp; SCC</button>
+    <button data-view="icc">ICC</button>
+    <button data-view="courts">Courts</button>
+    <button data-view="rights">Human rights</button>
+    <button data-view="analysis">Analysis</button>
+    <button data-view="saved">Saved <span id="saved-count"></span></button>
+    <button data-action="skim" class="skim-button">Skim</button>
+  </nav>
+
+  <div id="content" aria-live="polite">
+    <p class="empty">Setting the type&hellip;</p>
+  </div>
+
+  <footer class="colophon">
+    <p class="fleuron" aria-hidden="true">&#10086;</p>
+    <p>Gathered every hour from the International Criminal Court, the Coalition for the ICC, Justice Info, Human Rights Watch, Amnesty International, FIDH, UN News, TRIAL International, the Kosovo Specialist Chambers, the IRMCT, EJIL:Talk!, Opinio Juris, Just Security, Articles of War, the ICRC, Radio Ndeke Luka, Corbeau News Centrafrique, Oubangui M&eacute;dias and RFI, with Google News for the Special Criminal Court and the ICJ. Stories open on the publisher&rsquo;s own site.</p>
+  </footer>
+</main>
+<section id="skim" class="skim" hidden aria-label="Skim the latest stories">
+  <div class="skim-bar">
+    <span class="skim-title" id="skim-title">Skim</span>
+    <span class="skim-count" id="skim-count"></span>
+    <button class="skim-close" id="skim-close" aria-label="Close Skim">Done</button>
+  </div>
+  <div class="skim-track" id="skim-track"></div>
+</section>
+<template id="t-story">
+  <article class="story">
+    <a class="story-link" target="_blank" rel="noopener">
+      <figure class="story-photo" hidden><img alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></figure>
+      <div class="story-text">
+        <p class="kicker"></p>
+        <h2 class="hed"></h2>
+        <p class="dek"></p>
+      </div>
+    </a>
+    <div class="story-meta">
+      <span class="age"></span>
+      <button class="save" type="button" aria-pressed="false">Save</button>
+    </div>
+  </article>
+</template>
+</body>
+</html>
