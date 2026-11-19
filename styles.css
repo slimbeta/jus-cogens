@@ -3,10 +3,10 @@
 :root{
   --paper:#f5f3ef; --ink:#1a1719; --deck:#4a4549; --muted:#736d71; --line:#ddd7d2; --strong:#1a1719;
   --accent:#1f477a; --hot:#8c1d2c; --panel:#ece7e1; --focus:#1f5f8b;
-  --display:"Libre Caslon Display","Libre Caslon Text",Georgia,serif;
-  /* Atkinson Hyperlegible Next: designed by the Braille Institute for maximum character distinction */
-  --serif:"Atkinson Hyperlegible Next","Atkinson Hyperlegible",system-ui,-apple-system,sans-serif;
-  --sans:"Atkinson Hyperlegible Next","Atkinson Hyperlegible",system-ui,-apple-system,sans-serif;
+  --display:"Instrument Serif",Georgia,serif;
+  /* Atlantic-style: Instrument Serif stands in for Atlantic Condensed (a condensed Scotch serif) */
+  --serif:"Source Serif 4",Georgia,serif;
+  --sans:"Instrument Sans",system-ui,-apple-system,sans-serif;
   color-scheme:light;
 }
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
@@ -226,4 +226,27 @@ body{font-feature-settings:"kern"}
   .briefing{margin:18px -16px 0;padding:18px 16px 16px}
   .briefing-head{font-size:24px}
   .briefing-list{font-size:16px}
+}
+
+/* Atlantic-style type: condensed display serif for heads, Source Serif for reading, Instrument Sans for labels */
+.brand h1{font-family:var(--display);font-size:66px;letter-spacing:-.5px}
+.hed,.story.lead .hed,.skim-hed,.edition-date,.briefing-head{font-family:var(--display);font-weight:400;letter-spacing:-.1px}
+.hed{font-size:26px;line-height:1.08}
+.story.lead .hed{font-size:46px;line-height:1.02}
+.skim-hed{font-size:40px;line-height:1.04}
+.edition-date{font-size:34px}
+.briefing-head{font-size:38px;line-height:1.04}
+.dek,.skim-desc,.skim-excerpt,.briefing-list{font-family:var(--serif)}
+.skim-desc{font-weight:600}
+.story.lead .dek.dropcap::first-letter,.skim-excerpt.first::first-letter{font-family:var(--display);font-weight:400;font-size:3.6em;line-height:.8}
+.kicker,.sections button,.rule-heading,.save,.skim-read,.skim-close,.skim-count,.briefing-label,.story-meta,.tagline,.desk-note,.skim-meta,.tag{font-family:var(--sans)}
+.kicker{font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+.briefing-label{letter-spacing:.04em;text-transform:uppercase;font-size:13px}
+.rule-heading{font-size:14px;letter-spacing:.08em;text-transform:uppercase;font-weight:600}
+@media (max-width:720px){
+  .brand h1{font-size:clamp(34px,11vw,46px)}
+  .hed,.grid .hed,.side-col .story:not(.has-photo) .hed{font-size:24px}
+  .story.lead .hed{font-size:38px}
+  .skim-hed{font-size:34px}
+  .briefing-head{font-size:32px}
 }

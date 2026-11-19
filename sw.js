@@ -1,5 +1,5 @@
 // Offline support: app shell cache-first, articles network-first with cached fallback.
-const CACHE = "juscogens-v1";
+const CACHE = "juscogens-v2";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icons/icon.svg"];
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL))); self.skipWaiting(); });
 self.addEventListener("activate", (e) => {
