@@ -1,49 +1,305 @@
 {
- "updated": "2026-11-20T02:18:00+00:00",
+ "updated": "2026-11-20T11:30:22+00:00",
  "briefing": {
-  "headline": "The ICC, the Central African Republic and Sudan",
-  "period": "Nov 13–19",
-  "made": "2026-11-19T11:33:51+00:00",
+  "headline": "The ICC, the Central African Republic and genocide",
+  "period": "Nov 14–20",
+  "made": "2026-11-20T11:30:22+00:00",
   "bullets": [
    {
-    "text": "As the trial of former president Rodrigo Duterte is about to begin at the International Criminal Court in The Hague, a Philippine Truth Commission tries to uncover the truth about his “war on drugs”.",
-    "source": "Justice Info",
-    "url": "https://www.justiceinfo.net/en/168632-we-need-to-establish-the-truth-for-the-sake-of-history.html",
+    "text": "L'armée soudanaise a annoncé le 8 novembre 2026 avoir arrêté un ancien collaborateur de l'autocrate déchu Omar el-Béchir.",
+    "source": "RFI Afrique",
+    "url": "https://www.rfi.fr/fr/afrique/20261120-soudan-les-pressions-s-accentuent-pour-qu-un-ex-cadre-du-r%C3%A9gime-d%C3%A9chu-d-el-b%C3%A9chir-soit-livr%C3%A9-%C3%A0-la-cpi",
     "theme": "the ICC"
    },
    {
-    "text": "À la prison de Ngaragba à Bangui, les familles paient des taxes illégales sur la nourriture pendant que les détenus meurent de maladie sans soins.",
+    "text": "Découvrez pourquoi le lycée des martyrs à Bangui sombre dans la violence après l'intervention controversée de la police dans l'établissement.",
     "source": "Corbeau News Centrafrique",
-    "url": "https://corbeaunews-centrafrique.org/ngaragba-taxes-nourriture-prison-bangui/",
+    "url": "https://corbeaunews-centrafrique.org/crise-lycee-martyrs-daniel-kolikanga/",
     "theme": "the Central African Republic"
    },
    {
-    "text": "Sudanese authorities should immediately transfer former Interior Minister Ahmed Haroun to the International Criminal Court (ICC) to face charges in The Hague.",
+    "text": "The International Court of Justice’s (ICJ) landmark ruling that Myanmar committed genocide against the Rohingya is a historic milestone in their long quest for justice.",
     "source": "Human Rights Watch",
-    "url": "https://www.hrw.org/news/2026/11/18/sudan-transfer-war-crimes-suspects-to-icc",
+    "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide",
+    "theme": "genocide"
+   },
+   {
+    "text": "The International Federation for Human Rights (FIDH) and its member organizations Alternative ASEAN Network on Burma (ALTSEAN-Burma), Women’s (…)",
+    "source": "FIDH",
+    "url": "https://www.fidh.org/en/region/asia/myanmar/myanmar-world-court-issues-historic-first-judgment-recognizing",
+    "theme": "Myanmar"
+   },
+   {
+    "text": "The organization investigated nine RSF drone strikes in El Obeid and its surroundings, which killed 37 civilians and injured 10 between June and August 2026.",
+    "source": "Amnesty International",
+    "url": "https://www.amnesty.org/en/latest/news/2026/11/sudan-devastating-rsf-drone-strikes-on-civilians-in-el-obeid-should-be-investigated-as-war-crimes/",
     "theme": "Sudan"
    },
    {
-    "text": "During its 349 th bis (special) session, the Governing Body of the International Labour Organization (“ILO”) decided to request an advisory opinion from the International Court of Justice (“ICJ”): Is the right to strike…",
-    "source": "Opinio Juris",
-    "url": "https://opiniojuris.org/2026/11/18/how-much-weight-for-ilo-supervisory-bodies-the-icjs-one-size-fits-all-approach/",
-    "theme": "the ICJ"
-   },
-   {
-    "text": "An expert examines whether Russia’s strikes on Ukraine’s energy infrastructure constitute a war crime and crime against humanity.",
+    "text": "A preliminary analysis of the International Court of Justice's judgment in The Gambia v.",
     "source": "Just Security",
-    "url": "https://www.justsecurity.org/164565/russias-strikes-ukraines-energy-infrastructure-crime-against-humanity/?utm_source=rss&utm_medium=rss&utm_campaign=russias-strikes-ukraines-energy-infrastructure-crime-against-humanity",
-    "theme": "Ukraine"
-   },
-   {
-    "text": "“The premature closure of the formal complaint at the ILO against Saudi Arabia is a blow for the millions of migrant workers in the country.",
-    "source": "Amnesty International",
-    "url": "https://www.amnesty.org/en/latest/news/2026/11/saudi-arabia-un-closure-of-ilo-complaint-a-blow-for-migrant-workers/",
-    "theme": "migrants and refugees"
+    "url": "https://www.justsecurity.org/165228/icj-judgment-gambia-myanmar-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=icj-judgment-gambia-myanmar-genocide",
+    "theme": "the ICJ"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://www.amnesty.org/en/latest/news/2026/11/tunisia-authorities-escalate-assault-on-human-rights-with-five-year-prison-sentence-for-sihem-ben-sedrine/",
+   "title": "Tunisia: Authorities escalate assault on human rights with five-year prison sentence for Sihem Ben Sedrine",
+   "source": "Amnesty International",
+   "desk": "rights",
+   "published": "2026-11-20T11:06:28+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "description": "Responding to the sentencing of prominent human rights defender and former Truth and Dignity Commission (IVD) president Sihem Ben Sedrine to five years in prison, Heba Morayef, Regional Director for the Middle East and North Africa at Amnesty International, said today: “This new sentence compounds the outrageous injustice against Sihem Ben Sedrine, who is being…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.amnesty.org/en/wp-content/uploads/2026/11/320108-scaled.jpg",
+   "paragraphs": [
+    "“This new sentence compounds the outrageous injustice against Sihem Ben Sedrine, who is being punished for her historic work as head of the transitional justice commission to expose decades of state abuses and for her years of steadfast human rights work.",
+    "“Sihem Ben Sedrine has already been sentenced to 25 years in prison following an unfair trial on bogus charges in two cases linked to her leadership of the Truth and Dignity Commission. While she has so far remained free pending her appeal, she faces an imminent risk of imprisonment.",
+    "“Sihem Ben Sedrine has already been sentenced to 25 years in prison following an unfair trial on bogus charges in two cases linked to her leadership of the Truth and Dignity Commission.",
+    "“The targeting of Sihem Bensedrine is a blatant attempt to discredit the Truth and Dignitiy Commission’s findings on state abuses and corruption, erase its legacy and shield those alleged to be responsible from accountability. The Tunisian authorities must quash all these unjust convictions and drop all outstanding criminal cases against her stemming from her human rights work.”",
+    "The Truth and Dignity Commission (IVD) had been set up in the aftermath of the 2011 uprising to investigate gross human rights violations and state corruption as a means to deliver justice and reparations to victims. The latest verdict concerns an arbitration and reconciliation decision adopted by the IVD through its transitional justice mechanism, involving businessman Lazhar Sta.",
+    "Sihem Ben Sedrine faces seven criminal cases linked to her work as the commission’s president. On 26 June 2026, the Tunis Court of First Instance sentenced her to a combined 25 years in prison in two separate cases: five years in one case and 20 years in the other. The charges, which include “fraud”, “use of forged documents” and “abuse of official capacity to harm the administration” all relate to the contents of the IVD’s final report, particularly its findings relating to corruption in the banking sector, which are protected by freedom of expression.",
+    "The proceedings were marred by serious fair-trial violations. Sihem Bensedrine and her lawyers had not received the indictment decision or had the chance to review the grounds for the charges against her when the trial began, violating her right to defence. Hearings took place during a nationwide lawyers’ strike, while relatives, journalists, civil society representatives and Amnesty International observers were barred from attending without adequate justification.",
+    "Sihem Ben Sedrine spent more than six months in arbitrary pre-trial detention, from 1 August 2024, when a Tunis investigative judge ordered her detention, until her provisional release on 19 February 2025."
+   ],
+   "lede": "“This new sentence compounds the outrageous injustice against Sihem Ben Sedrine, who is being punished for her historic work as head of the transitional justice commission to expose decades of state abuses and for her…"
+  },
+  {
+   "url": "https://www.justiceinfo.net/en/168754-another-sentence-for-kosovo-former-president.html",
+   "title": "Another sentence for Kosovo former president",
+   "source": "Justice Info",
+   "desk": "courts",
+   "published": "2026-11-20T10:17:19+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "cats": [
+    "Mixed tribunals",
+    "Hashim Thaçi",
+    "Kosovo Specialist Chambers"
+   ],
+   "description": "On November 17, Hashim Thaçi was found guilty of different attempts to obstruct justice. He got 17 months’ jail time on top of his 25-year sentence for war crimes. Though it doesn’t change the controversy over the Kosovo Specialist Chambers.",
+   "image": "https://www.justiceinfo.net/wp-content/uploads/Kosovo_Hashim-Thaci_@Armend-Nimani-AFP.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "On November 17, the Hague-based Kosovo Specialist Chambers (KSC) handed down a second sentence to former Kosovo President Hashim Thaçi. He was found guilty of attempting to obstruct justice, disclosing confidential information about witnesses and trying to interfere with their testimonies in his war crimes trial, in which he was sentenced to 25 years' imprisonment just two months ago. Now, Thaci received another 17 months' jail time, to be served separately.",
+    "In front of an almost full public gallery, with family members of the accused attentively listening and leaning forward, single judge Christopher Gosnell spoke of the gravity of the crimes. “Obstruction of official duties relating to ongoing trial proceedings are an attack on the integrity of the judicial system, which is an essential foundation for the rule of law.”",
+    "On September 16, Thaçi and three other high-ranking figures of the Kosovo Liberation Army (KLA) were convicted of war crimes committed during the 1998-1999 Kosovo war to gain independence from Serbia, in a trial that started in the spring of 2023. Between July and October that year, the judge now found that Thaçi instructed two visitors to the detention centre to pass on instructions to prosecution witnesses Rrustem Mustafa and Bislim Zyrapi, both former KLA top figures, on how to testify, presenting a narrative that favoured him. He was also found to have revealed information about them, including in the case of a protected witness. None of the other co-defendants were found guilty of participating in the disclosure.",
+    "An indictment for this case of administration of justice arrived in late 2024, and alongside Thaçi, it included four other co-accused who visited him in detention: former Kosovo Intelligence Agency chief Bashkim Smakaj, former Malisheva mayor Isni Kilaj, former KLA member Fadil Fazliu and former minister of justice Hajredin Kuçi, who was working on the defence team of another man in the war crimes trial. They all shook hands and shared a few words with Thaci as he entered the courtroom for the trial verdict. All four were discharged by the judge. Fazliu and Smakaj received a 12-month sentence but had already served that time; Kuçi received a one-month conditional sentence, and Kilaj was found not guilty. Judge Gosnell said that Kosovo's former president and prime minister’s attempted obstruction “targeted prosecutors and judges” involved in the war crimes case. Thaci was also found guilty of leading and organising Fazliu and Smakaj, together with others, who collaborated in trying to influence witnesses.",
+    "The prosecution had asked for a six-year sentence for Thaci, to be added to his war crimes one, mentioning in their final brief the “deterrence” value this could have in other cases of obstruction in the Balkan country.",
+    "All parties will now have 30 days to say whether they want to appeal, while Thaçi, who pleaded not guilty, is expected to appeal his war crimes sentence by November 27.",
+    "The main evidence in the case was the audio recordings of the visits that the accused men paid to Thaçi in detention, and their transcripts, which the judge found “an accurate record of what was said during those visits,” dismissing the defence’s challenges to their credibility."
+   ],
+   "lede": "On November 17, Hashim Thaçi was found guilty of different attempts to obstruct justice. He got 17 months’ jail time on top of his 25-year sentence for war crimes.",
+   "tags": [
+    "icc"
+   ]
+  },
+  {
+   "url": "https://corbeaunews-centrafrique.org/crise-lycee-martyrs-daniel-kolikanga/",
+   "title": "Crise au lycée des martyrs, Daniel Kolikanga alias Daniel Nzéwé affirme que le proviseur a péché en appelant la police »",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-20T10:00:00+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "cats": [
+    "Éducation",
+    "Twitter"
+   ],
+   "lang": "fr",
+   "description": "Découvrez pourquoi le lycée des martyrs à Bangui sombre dans la violence après l'intervention controversée de la police dans l'établissement.",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/11/vincent-gueret-houkoto-cadet-du-ministre-zingas-proviseur-du-lycee-des-martyrs-tabasse-sorti-sous-escorte-policiere-du-lycee.webp",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Daniel Nzéwé, de son vrai nom Daniel Kolikanga, chargé de mission à la jeunesse au ministère de la Jeunesse et des Sports, condamne l’intervention policière au lycée des Martyrs.",
+    "La décision du proviseur du lycée des Martyrs de Bangui de faire intervenir les éléments de la Compagnie nationale de sécurité (CNS) pour régler un différend entre élèves a provoqué une vive réaction de Daniel Nzéwé, de son vrai nom Daniel Kolikanga. Invité de l’émission Patara sur Radio Ndeke Luka, le 7 novembre 2026, le chargé de mission à la jeunesse au ministère de la Jeunesse et des Sports a dénoncé une grave erreur de gestion qui a transformé un simple incident scolaire en affrontements violents entre policiers et lycéens.",
+    "Ancien dirigeant de l’Union scolaire centrafricaine (USCA) et de l’Association nationale des étudiants centrafricains (ANECA), Daniel Kolikanga estime que les événements survenus au lycée des Martyrs auraient pu être évités. Pour lui, le proviseur disposait de tous les moyens administratifs et disciplinaires nécessaires pour régler le problème sans recourir aux forces de l’ordre.",
+    "« Le proviseur a péché. Le fait d’appeler la police », a-t-il déclaré devant les autres invités de l’émission.",
+    "À lire aussi: Flash Info: des explosions minières font trembler Bossemptélé et provoquent des malaises dans une école privée",
+    "À l’origine des violences, une dispute entre deux élèves concernant un téléphone portable déclaré volé. Le différend, qui relevait initialement de la discipline scolaire, a pris une autre dimension lorsque le proviseur a sollicité l’intervention de la CNS. Des policiers sont entrés dans l’établissement et ont procédé à l’interpellation d’élèves.",
+    "À lire aussi: Centrafrique: le général Arda Hakouma échappe de justesse à une embuscade des mercenaires russes du groupe Wagner près de Sarajevo",
+    "Cette intervention a immédiatement provoqué la colère de leurs camarades. Des dizaines de lycéens ont protesté pour réclamer leur libération. Les affrontements se sont ensuite étendus aux abords du monument des Martyrs, où les policiers ont utilisé des gaz lacrymogènes et procédé à des tirs en l’air.",
+    "Plusieurs élèves ont perdu connaissance au cours des événements. Des parents, alertés par les violences, se sont précipités vers l’établissement pour récupérer leurs enfants. Des bureaux administratifs et le logement du proviseur ont également subi des dégradations.",
+    "Pour Daniel Kolikanga, la première responsabilité incombe au chef d’établissement, qui n’a pas utilisé les mécanismes internes de gestion des conflits."
+   ],
+   "lede": "Découvrez pourquoi le lycée des martyrs à Bangui sombre dans la violence après l'intervention controversée de la police dans l'établissement.",
+   "tags": [
+    "car"
+   ]
+  },
+  {
+   "url": "https://opiniojuris.org/2026/11/20/the-execution-of-two-bangladeshi-nationals-in-saudi-arabia-the-limits-of-human-rights-and-consular-protection/",
+   "title": "The Execution of Two Bangladeshi Nationals in Saudi Arabia: The Limits of Human Rights and Consular Protection",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-20T09:00:00+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "cats": [
+    "Asia-Pacific",
+    "Featured",
+    "General",
+    "International Human Rights Law",
+    "Middle East",
+    "Arab Charter on Human Rights",
+    "ARISWA",
+    "Bangladesh"
+   ],
+   "description": "[Oishe Rahman is a Lecturer in law at East West University, Dhaka, Bangladesh. Kazi Ayman Awsaf is a Teaching Assistant at East West University, Dhaka, Bangladesh.] On 14 October 2026, the Kingdom …",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/abstract-green-watercolour-4.jpg?fit=1200%2C821&ssl=1",
+   "paragraphs": [
+    "On 14 October 2026, the Kingdom of Saudi Arabia (KSA) executed two Bangladeshi nationals, Nazrul Islam Abdul Basir and Suety Akhter, in Makkah. According to the Saudi Interior Ministry, they were sentenced to death for committing an act of fahisha (indecency) inside a mosque. The punishment was described as qatl ta’ziran, i.e., death imposed as a discretionary punishment, on account of the alleged conduct’s gravity and the sanctity of the time and place. Bangladesh’s consulate in Jeddah had received a list of approximately 2,500 prisoners on 30 September 2026, just two weeks before the executions. Names of both the nationals in question appeared in the list, but the list did not disclose the sentences imposed upon them. Bangladesh’s Foreign Ministry later acknowledged that the list had not been properly examined by the Consulate. Bangladeshi authorities learned of the executions through the media, rather than through official notification.",
+    "This post examines two distinct but interconnected questions arising from the executions. First, were they compatible with KSA’s international human rights obligations, notwithstanding its non-party status to the ICCPR? Second, did KSA comply with its obligations towards Bangladesh and the two Bangladeshi nationals concerned under the Vienna Convention on Consular Relations (VCCR)?",
+    "Although KSA is not a party to the International Covenant on Civil and Political Rights (ICCPR), it ratified the Arab Charter on Human Rights in 2009. The Charter provides relevant protections against arbitrary deprivation of life and restricts the imposition of capital punishment. Article 5 protects the right to life and Article 6 permits imposition of death penalty only ‘for the most serious crimes’ and in accordance with the legislation in force at the time of the offence. Article 15 further provides that no crime or penalty may be established except by virtue of a prior legislative text.",
+    "These requirements raise particular concerns in the context of ta’zir. Unlike hadd offences, for which Islamic criminal jurisprudence prescribes fixed punishments, ta’zir offences and their punishments are generally left to judicial discretion. KSA’s basic law recognizes the application of Sharia, but the existence of a general authority to punish under Sharia does not, by itself, resolve whether the particular conduct and capital punishment satisfy the Arab Charter’s requirement of a prior legislative text.",
+    "The interpretation of Article 6 of the Charter may be informed by the Human Rights Committee’s (HRC) interpretation of the corresponding protection in ICCPR Article 6. Under the general rule of treaty interpretation reflected in Article 31(1) of the Vienna Convention on the Law of Treaties, relevant interpretative materials may assist in understanding the scope of comparable treaty language. This does not make the Committee’s interpretation binding on the KSA as an ICCPR non-party. It does, however, provide useful guidance on the meaning of ‘most serious crimes’. General Comment No. 36 explains that this category is limited to crimes of extreme gravity involving intentional killing. It also states that adultery may under no circumstances be punished by death ( paras 35-36 ). Further, a death sentence cannot rest on provisions whose application depends on subjective, discretionary and unforeseeable considerations ( para 38 )."
+   ],
+   "lede": "On 14 October 2026, the Kingdom of Saudi Arabia (KSA) executed two Bangladeshi nationals, Nazrul Islam Abdul Basir and Suety Akhter, in Makkah."
+  },
+  {
+   "url": "https://www.rfi.fr/fr/afrique/20261120-soudan-les-pressions-s-accentuent-pour-qu-un-ex-cadre-du-r%C3%A9gime-d%C3%A9chu-d-el-b%C3%A9chir-soit-livr%C3%A9-%C3%A0-la-cpi",
+   "title": "Soudan: les pressions s’accentuent pour qu’un ex-cadre du régime déchu d'el-Béchir soit livré à la CPI",
+   "source": "RFI Afrique",
+   "desk": "car",
+   "published": "2026-11-20T08:44:54+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "cats": [
+    "Afrique"
+   ],
+   "lang": "fr",
+   "description": "L'armée soudanaise a annoncé le 8 novembre 2026 avoir arrêté un ancien collaborateur de l'autocrate déchu Omar el-Béchir. Depuis, les pressions se multiplient pour qu’Ahmed Haroun, visé par un mandat…",
+   "image": "https://s.rfi.fr/media/display/316b7c76-e4bb-11f1-a8aa-e56ab3dc0809/w:1024/p:16x9/2026-11-08T133723Z-2143239888-RC2PJOA3QLTL-RTRMADP-3-SUDAN-POLITICS.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "L'armée soudanaise a annoncé le 8 novembre 2026 avoir arrêté un ancien collaborateur de l'autocrate déchu Omar el-Béchir. Depuis, les pressions se multiplient pour qu’Ahmed Haroun, visé par un mandat d'arrêt de la Cour pénale internationale (CPI) pour 22 chefs de crimes de guerre et crimes contre l'humanité lors du conflit au Darfour en 2003 et 2004, soit transféré à la CPI.",
+    "Le Soudan est sous pression pour livrer un haut cadre de l’ancien régime, recherché depuis 20 ans par la justice internationale. Il s’agit d’Ahmed Haroun, ex-proche du président déchu, Omar el-Béchir (1989-2019).",
+    "Ancien ministre de l'Intérieur, il est sous le coup d'un mandat d'arrêt de la Cour pénale internationale (CPI) pour crimes commis lors de la guerre au Darfour, au début des années 2000.",
+    "Société civile, organisations de défense des droits humains, personnalités publiques: elles sont depuis plus d'une douzaine à avoir appelé au transfert d’Ahmed Haroun à la CPI.",
+    "Dans un courrier envoyé à différentes instances internationales – dont le Conseil de sécurité de l’ONU – ces organisations accusent le général Abdel Fattah al-Burhan, qui est à la tête de l’armée officielle du Soudan, d’obstruction à la justice internationale. Elles demandent aux puissances mondiales de faire respecter les obligations juridiques du Soudan, en vertu de la résolution 1593 du Conseil de sécurité de l’ONU en livrant Ahmed Haroun à La Haye, aux Pays-Bas, où se trouve le siège de la CPI.",
+    "En fuite depuis des années, celui-ci a donc été interpelé, après être publiquement réapparu au Soudan lors d'une interview à la presse. Depuis, les autorités soudanaises n'ont pas communiqué sur son lieu de détention.",
+    "Différentes organisations – dont Human Rights Watch – ont appelé à son transfert immédiat, ainsi que celui de l’ancien chef d’État, Omar el-Béchir, également détenu à Khartoum.",
+    "À lire aussi Soudan: arrestation d'Ahmed Haroun, cadre de l'ancien régime, recherché par la CPI depuis 2007",
+    "La destitution d'Omar el-Béchir en avril 2019, après des manifestations massives, avait suscité l'espoir d'une transition démocratique, avant que le général al-Burhan et son ancien adjoint devenu son rival, le commandant des FSR Mohamed Hamdane Dogolo dit « Hemedti », n'évincent les civils du gouvernement de transition en 2021.",
+    "Leur rivalité latente a dégénéré en guerre en avril 2023, après une ultime lutte de pouvoir autour de l'intégration prévue des FSR dans l'armée régulière."
+   ],
+   "lede": "L'armée soudanaise a annoncé le 8 novembre 2026 avoir arrêté un ancien collaborateur de l'autocrate déchu Omar el-Béchir.",
+   "tags": [
+    "icc"
+   ]
+  },
+  {
+   "url": "https://corbeaunews-centrafrique.org/ville-morte-bangui-contestation-punicion/",
+   "title": "« La rue a obéi, le pouvoir a puni: quand la ville morte devient le crime d’avoir raison »",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-20T08:00:00+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "cats": [
+    "Société civile",
+    "Twitter",
+    "Gouvernement",
+    "politique"
+   ],
+   "lang": "fr",
+   "description": "La ville morte paralyse Bangui pour protester contre la hausse du carburant. Le pouvoir réprime le silence pacifique des Centrafricains en prison.",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/10/m-elysee-nguemale-coordonnateur-de-l-observatoire-pour-la-gouvernance-democratique-en-centrafrique-a-gauche-et-m-quentin-ngouando-coordonn.webp",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Il y a des victoires qui ressemblent à des défaites. Et des défaites que le pouvoir s’inflige à lui-même en croyant triompher. Le 12 octobre 2026, à Bangui, la rue a obéi. Pas à un ordre de l’État. À un mot d’ordre de la société civile. Les Centrafricains sont restés chez eux. Les étals sont restés fermés. Les administrations ont tourné à vide. Ce n’était ni une insurrection, ni une révolte, ni une déstabilisation. C’était une grève du quotidien, un silence collectif, une manière de dire non sans casser une vitre. Et c’est précisément parce que ce silence a fonctionné que le pouvoir a décidé de le punir.",
+    "Il faut mesurer ce qui s’est réellement passé ce matin-là. Un consortium de la société civile appelle à une ville morte pour protester contre une hausse de 150 francs sur les hydrocarbures. Aucun décret, aucun arrêté, seulement une communication orale du ministre de l’Énergie. Le mot d’ordre se diffuse. Et le 12 octobre, la ville s’arrête. Pas entièrement, pas totalement, mais suffisamment pour que les activités économiques, administratives et institutionnelles soient perturbées. C’est un fait. Personne ne le conteste. Ni le gouvernement, ni les organisations proches du pouvoir, ni les observateurs.",
+    "Ben Wilson-Gassan, leader de la plateforme Émergence 2025, le reconnaît lui-même sur le plateau de Radio Ndekeluka: « Il y a eu un lien de causalité entre l’appel lancé et les conséquences qui sont dommageables pour l’État centrafricain, dommageables pour les libertés publiques. » Il ne dit pas que la ville morte a échoué. Il dit qu’elle a réussi. Et c’est exactement ce qui dérange. Une manifestation qui ne rassemble personne ne dérange personne. Une ville morte qui vide les rues, elle, dérange. Elle prouve une chose simple: le peuple a entendu l’appel. Le peuple a compris. Le peuple a agi. La rue a obéi non pas au pouvoir, mais à ceux qui ont dit la vérité sur sa condition.",
+    "C’est là que le raisonnement du pouvoir se retourne contre lui-même. Ben Wilson-Gassan affirme que sa plainte ne vise pas l’appel à la ville morte, mais ses conséquences. Sur le papier, la distinction est habile. En pratique, elle est intenable. Car si le mot d’ordre n’avait pas été suivi, il n’y aurait eu aucune conséquence à poursuivre. La conséquence est la preuve que la rue a répondu. Poursuivre la conséquence, c’est donc poursuivre le fait que la rue a répondu. C’est poursuivre le succès de la contestation.",
+    "Oumaro Ousmane, juriste, le dit sans détour: « Si on pose un acte, il va produire des conséquences. Et pourquoi on le fait? On le fait pour que ceux qui ont pris la décision se rendent compte des conditions dans lesquelles vivent nos concitoyens. » Autrement dit, la perturbation n’est pas un effet secondaire malencontreux. C’est le but. Une ville morte qui ne perturbe rien n’est pas une ville morte. C’est un échec. Le pouvoir le sait. Et c’est pourquoi il ne peut pas punir la conséquence sans punir la réussite. La logique pénale se mord la queue: elle criminalise l’effet d’une cause qu’elle prétend ne pas criminaliser."
+   ],
+   "lede": "La ville morte paralyse Bangui pour protester contre la hausse du carburant. Le pouvoir réprime le silence pacifique des Centrafricains en prison.",
+   "tags": [
+    "car"
+   ]
+  },
+  {
+   "url": "https://corbeaunews-centrafrique.org/mort-detention-commercant-zemio-camp/",
+   "title": "Centrafrique: un commerçant de Zémio meurt en détention à la prison militaire du Camp de Roux, quatre détenus décédés en un mois",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-20T06:00:00+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "cats": [
+    "Actualités en Centrafrique",
+    "Twitter",
+    "FACA",
+    "Wagner"
+   ],
+   "lang": "fr",
+   "description": "Le décès tragique du commerçant Zémio incarcéré au Camp de Roux à Bangui relance l'angoisse face aux conditions carcérales en Centrafrique.",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/11/le-jeune-commercant-arrete-par-les-wagner-a-zemio-et-dececde-a-la-prison-du-camp-de-roux.webp",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Un jeune commerçant originaire de Zémio, identifié comme SIRO Félix, est décédé lundi 16 novembre 2026 à la prison militaire du Camp de Roux, à Bangui. Sa mort intervient après celles de trois détenus à la prison centrale de Ngaragba, en octobre dernier.",
+    "La mort de SIRO Félix pose de nouvelles interrogations sur les conditions de détention et la prise en charge médicale des prisonniers dans les établissements pénitentiaires de Bangui.",
+    "Ce jeune commerçant, qui faisait vivre sa famille grâce aux activités commerciales héritées de son père décédé, avait été arrêté à plusieurs reprises par les mercenaires russes avant d’être transféré dans différents lieux de détention de la capitale.",
+    "SIRO Félix est issu d’une famille connue dans le commerce à Zémio, dans le Haut-Mbomou. Après le décès de son père, un important commerçant qui possédait notamment des camions utilisés pour le transport de marchandises et mis en location auprès de certaines organisations humanitaires, le jeune homme avait repris et développé les activités familiales.",
+    "À lire aussi: Les professeurs de droit du MCU: entre amnésie juridique et contorsions verbales",
+    "Il était devenu le principal soutien économique de sa famille. Son activité commerciale a pourtant fini par attirer les soupçons des mercenaires russes. Ces derniers lui reprochaient notamment de pouvoir faire circuler ses marchandises et ses camions sur les axes routiers de la région sans subir les attaques des miliciens Azandés. Ils en avaient déduit qu’il entretenait des relations avec ces combattants et qu’il contribuait à leur financement.Arrêté une première fois, le jeune commerçant avait été transféré à Bangui.",
+    "À lire aussi: « La Septième République de honte nous a imposé la misère »: le pasteur Charles Talingano charge le régime de Touadéra",
+    "Après son passage devant la justice, il avait finalement été remis en liberté. Il était alors retourné à Zémio pour reprendre ses activités commerciales et retrouver sa famille. Mais cette liberté n’aura pas duré longtemps.",
+    "Quelques semaines après son retour à Zémio, les mercenaires russes, accompagnés de soldats des Forces armées centrafricaines ( FACA ), se sont de nouveau présentés à son domicile.",
+    "Au cours de cette intervention, ils ont emporté d’importantes sommes d’argent conservées dans la maison, selon les informations recueillies par la rédaction du CNC."
+   ],
+   "lede": "Le décès tragique du commerçant Zémio incarcéré au Camp de Roux à Bangui relance l'angoisse face aux conditions carcérales en Centrafrique.",
+   "tags": [
+    "car"
+   ]
+  },
+  {
+   "url": "https://corbeaunews-centrafrique.org/action-solidaire-protection-enfants-centrafrique/",
+   "title": "Centrafrique: Journée internationale des droits de l’enfant, l’Association Action Solidaire dénonce les promesses sans lendemain et réclame une véritable protection des enfants",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-20T05:00:00+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "cats": [
+    "Faits de société"
+   ],
+   "lang": "fr",
+   "description": "L'action solidaire exige des actes concrets pour garantir l'éducation et la santé des enfants vulnérables en Centrafrique dès aujourd'hui.",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/08/Madame-Nadine-Kossi.webp",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "À l’occasion du 20 novembre, l’ Association Action Solidaire demande aux autorités centrafricaines de garantir les droits fondamentaux de chaque enfant.",
+    "L’Association Action Solidaire profite de la Journée internationale des droits de l’enfant, célébrée ce vendredi 20 novembre 2026, pour interpeller les autorités centrafricaines sur les conditions de vie des enfants. Dans une déclaration consacrée à cette journée, l’organisation réclame des mesures concrètes pour garantir l’accès à l’éducation, aux soins de santé, à l’alimentation et à la protection sociale, particulièrement pour les enfants les plus vulnérables.",
+    "Dans son message, l’Association Action Solidaire rappelle que de nombreux enfants centrafricains sont privés de leurs droits fondamentaux. Les enfants déscolarisés, les orphelins, les enfants malades, ceux vivant avec un handicap et les petites filles exposées aux violences figurent parmi les catégories auxquelles l’organisation accorde une attention particulière.",
+    "À lire aussi: Centrafrique: après l’assassinat de deux jeunes parmi les douze arrêtés à Zemio, la tension monte, les miliciens Azandé menacent d’attaquer désormais la ville",
+    "« En Centrafrique, aucun enfant ne devrait avoir à se battre pour avoir le droit de vivre son enfance », déclare l’Association Action Solidaire.",
+    "À lire aussi: Vakaga: après l’enlèvement de deux jeunes à Ndiffa, les mercenaires russes menacent les familles et les chefs de village",
+    "Pour l’organisation, la célébration du 20 novembre ne doit pas se limiter aux discours officiels et aux manifestations symboliques. Les engagements pris en faveur des enfants doivent produire des résultats dans les familles, les établissements scolaires, les centres de santé et les institutions publiques.",
+    "L’Association Action Solidaire estime que l’accès à l’éducation constitue une priorité. Elle défend notamment le droit des enfants vivant avec un handicap à fréquenter les établissements scolaires dans les mêmes conditions de dignité que leurs camarades. Aucun enfant ne doit être privé d’instruction en raison de son état de santé, de son handicap ou des difficultés économiques de sa famille.",
+    "La protection des orphelins occupe également une place importante dans le message de l’organisation. L’Association Action Solidaire rappelle que ces enfants ont besoin d’affection, d’accompagnement et de sécurité pour grandir dans des conditions dignes. Leur prise en charge doit leur permettre de poursuivre leur scolarité et de bénéficier des mêmes possibilités d’avenir que les autres enfants.",
+    "Sur le plan sanitaire, l’organisation insiste sur la nécessité de garantir l’accès aux soins à tous les enfants, notamment ceux qui souffrent de maladies chroniques. L’Association Action Solidaire, engagée dans l’accompagnement des enfants atteints de drépanocytose, rappelle que la maladie ne doit pas devenir un obstacle à l’éducation, à la protection et à une vie digne."
+   ],
+   "lede": "L'action solidaire exige des actes concrets pour garantir l'éducation et la santé des enfants vulnérables en Centrafrique dès aujourd'hui.",
+   "tags": [
+    "car"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUszNnItRFg4bG9QMUhWUUhmRVhJT3hldnVnLTNWLU8wdWFDZWs5WWlnbFRKRmo5aUR4TURuVjdtMFd5T0JQcWsyWnYtTVhBS05tWmRGREhUZEdMbGV6b056NGhaNnAybXhrR1FSYlh1WXl1RFJIR3NoZ0dIVzMtMlk3U2w2THhLY0tiTFlyYkZIX0dIZFlod2Q2RVp0d2VMbWlJbGQwQWVfSHRmeC1ienF0M0k4RGpiYmFV?oc=5",
+   "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+   "source": "The Guardian",
+   "desk": "courts",
+   "published": "2026-11-20T04:20:00+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVkJYZUIyQTZLaUJBZk55RGpqa1E2MjViNXotTmRGNGpiZ0FKZ1VKZnRQNWpNcnFqNEU4N3lsa1BhSzBxMGlQR0pfNjh0aXM4MU9FTTRYam1rb0xlSHotZDlPVmFEd2FoVDRnSjhSWUdMVzZYYWJtVWpaOFk5ZlVwaXlkbGVWd05TVFJWejFkTmFZYXNtNlhwTW9yUjRRMG53Z2pjU1hEUk1nZUFWZzNvSUxaazByRU10WHNVaEMtWnhkSkJiR01yeVA4aXE5SVRfcWRqaUVzaUpHOElBVXNTTzZaNENFdVpLRW9xTnc3cFgzLWxt?oc=5",
    "title": "Rohingya: Historic International Court of Justice ruling finds Myanmar guilty of genocide",
@@ -104,6 +360,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40ZDhxQnJhZHdOVHhnbGlIc2VINXJ4dlhzaDlaMnhodVh2LWROWlpkczVSSmxmSUFQRFdrMTk1cmJ0bTh0bm1JQkhyUHI2ZFlrdXZ2LVBweldOUFA5TWg4WWhEc1BENkpxTDJUdFlLU1ZUaWxvNHc?oc=5",
+   "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+   "source": "The New York Times",
+   "desk": "courts",
+   "published": "2026-11-19T20:21:12+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSEJIakN1UGxNRm40ZUZ4ZkhTcEhmc29JNGZIUzZ4Nm5GU2l0WFZQUVVlVm1aeUtrU1VRaUlybnEwdmVJX1JaRGFjQzNpMmNSME05RHVQc0JRc1cwUktoa3pHVC1JQ1RfVFdheGhCcnYwQnFPQTRuQVZ1R2VISTlWdjd3bTRoOXJpdGRLdFRBeTF5OGFpOFV2WTRaVTRjYkFyQkFnbXdYYzM2Q05razNTUzVfdUVPNmdIeEVhdVYyY09Cb29oYlYxb3pzUkxmMG5UQ0tQTUlZZGxvdlFOTjdYZDZNSUVSRlN4TGhycjN4U0VjbGJwbG03MGJNMTVLTXZnVVg2MUFMZFFHZw?oc=5",
    "title": "The Guardian view on the international court of justice: the ruling against Myanmar should be only the start for the Rohingya",
    "source": "The Guardian",
@@ -151,6 +418,17 @@
    "tags": [
     "icc"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZU9QaTc2a3ZKbTlrMU1wckVWeEQ0X2VJN253Vm0yS0xlczQ5aWEtbXZIM1c0dUQ0VHNlWFZsMm9iLXNKakl5QXhsdjAtOUxlblN4ZHVwOWhzUnRqQzhCd0tHbWVadndVV3otVjc2bEc5OTZ1TzFibXpkSW1FSUtYa3Rab09CTEpFOU1mMGI2UEpwTWx6MGV0N1ZfOG1EMGZnXy10SHR3NWZTcEVrMXNjU0JJVUZ3V2ZrOVF6QlJpYW5nTnZvVTU1eV91LUNiaGhmc1VDc0VQci1SSTd5Y3lJdXRMcDk5a0JucURvcg?oc=5",
+   "title": "Myanmar genocide ruling is a watershed moment in international justice",
+   "source": "Center for International Policy",
+   "desk": "courts",
+   "published": "2026-11-19T18:28:18+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjdIQ1QyMEJYRjN4U3NyWnNQR3lCbjZrVjZ1bmh0b1NGVzZpeWltSTUwNi1tNXgwUFdGQVhiSjl5SFNyOWpqNWJieGdyc0lTMldicHBkSkJYSzlZQko5bUJfdjFTTTQ3SlhmRVN6VnU2cmZhNlJUYi1MWXBkNmRmY1NSRzkzRWhMTEU0N3I3VFFpS0RGb0k1X2pORWc1RnlTMGliVUdtRWY3RGlIUkxjNU9QZVRjeVV3QXl5TWw0LWtCakRYVEVmLU5sR0FhMDFqb2ZhRUtvUkhFanZHak5PMmU3Yw?oc=5",
@@ -313,6 +591,17 @@
    "desk": "courts",
    "published": "2026-11-19T14:51:23+00:00",
    "seen": "2026-11-19T20:31:58+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GSndNQ090bUVpMllhMzhkcVZvckNZSy1oS3ltUmozQ3I4VG9VcXBqQlBXSTQzekhSYnNqYnhIVktTcFFmbEJNMkJKSE9WbE1UOUplQUV4RFkyTU9icVZFOTdQdzZyRzA0dXVXWTZuX3U?oc=5",
+   "title": "Myanmar Government Guilty of Genocide, International Court of Justice Says in Historic Ruling",
+   "source": "Common Dreams",
+   "desk": "courts",
+   "published": "2026-11-19T14:46:53+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -668,6 +957,17 @@
     "The committee warned against misusing counter-terrorism and national security laws, including vaguely worded laws targeting so-called “extremist” or “undesirable” organizations."
    ],
    "lede": "People do not need their government’s permission to form or join an association, the UN Human Rights Committee said on Thursday, issuing new guidance as civic space shrinks around the world."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOFpKNWxON2hXTERXRXFUbVA5M2pla1cyTjYzWWxJSmt2anpudW9KbjhIMzJSdXBDSXJhUlZHYVI5UUtncE9yQjlaZUtqbU42MFBPQTR4NlJvOHVzek9ZVE5JTW1mRkZHY3hwRE5Cdk40TmNHWVlGckpZWDRPWTNzQXhLeVU2azlxaVlfNFdYakM0Zi1zc3hQMDFBSkFnZENzOG9Cd21aOEFXa3BPZ3k5REJsaUI5Ml9KQWVtLWhEaElIRU9rMVF0UzVUeHJudEw0a1VhS3lUYl9XRFpxWURiOHNESW9Bbk9teHF1WTFEOWY4dw?oc=5",
+   "title": "Foley Hoag Leads The Gambia to Landmark Victory in Genocide Case Against Myanmar at the International Court of Justice",
+   "source": "Foley Hoag",
+   "desk": "courts",
+   "published": "2026-11-19T11:57:38+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.rfi.fr/fr/afrique/20261119-d%C3%A9tention-de-moussa-kaka-au-niger-l-union-des-journalistes-de-rca-appelle-%C3%A0-la-solidarit%C3%A9-de-toute-la-profession",
@@ -1067,6 +1367,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDBmQlh6bmJPWUFLQ1dpaXJGVHF3anN6UGJ1Mm9VUWpPY190UVlJOW1HaVhnbGE2Qzl0by02T3VoQUhjbkxzWUZaVlV3SnJxRnJianktREZBOTJPUjJOTkNUM0xXaDlLbkFEUnFaaGFsdzRQMGpZb3dmdzhpdVllemZISUg5THlndlFEWnBkYXhQUWVmMUVmYnlVMGJtSHpxSlh1NTZiYThvOHEzdUFN0gG0AUFVX3lxTE9aMmVQY2lNRFRVNUh4V05CbzNfZTltZ0RiRFBETEdrMmpsbzRGRmZ0Zk5lVlB3aU1fY19jeG5XVkFkcjh0dmpPNkpwSjJ6bnRHTEw5X1ZQR1NSRFpIMEU4RkpRS3dzWW1md1BYdWQ2bk5VdWkwa1hJcDcwT0FaZlU2RUpKRjlETElyU3FoWmxkaHZycFA4eFZMYkJ4Tk9nYUlWOG1Kd3pXMVlsLXRWSm5iX0VJbA?oc=5",
+   "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+   "source": "Al Jazeera",
+   "desk": "courts",
+   "published": "2026-11-19T05:19:59+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.justsecurity.org/165176/guantanamo-uss-cole-jury/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-uss-cole-jury",
    "title": "Guantanamo Dispatches: USS Cole Bombing Trial Recesses With First 8 Jury Members Chosen",
    "source": "Just Security",
@@ -1166,6 +1477,17 @@
    "desk": "courts",
    "published": "2026-11-18T23:25:38+00:00",
    "seen": "2026-11-19T02:25:34+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGtSVDRwdUtMc3lyTmxTN1FCam5Fai1UaTdDZ1E3YXM4M3lfZk5yQXduaF9Uc3VjSVJuSzRwOG0wVFY0LURKWnVlR1gtNWZHaHlWaXBmazZlVzh4TGZHb0VfM3NTSHFZS29QMTlZV3Y3dm1GVmJzcHRQaW5yaTJacmV0ZnQ2Z0JrYWxIT3l4UUdTSDlDTnlLaTNERlF0NVF2U3lHR29tdWdabGc?oc=5",
+   "title": "Top UN court finds Myanmar committed genocide against Muslim Rohingya",
+   "source": "Reuters",
+   "desk": "courts",
+   "published": "2026-11-18T23:06:00+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2283,6 +2605,17 @@
    "tags": [
     "car"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXN2b19jVXBDMm1xOGstNFEwVHk1MEktMEdIM3hpZWJFOGs5a0l1cHh3UDFOWTBSd1RzTkpTVHFlY3M2S2h1eGRhQUk4TXMtN044bWt4QTB6MnFfZ0tSUTl0Y3EtdlVyN1V3QkMwLVc4REswbWpiQ1hIYjA0N0h2TEJSaWJQQjE4dGU1Q2VxUk5uN1Zs?oc=5",
+   "title": "What is the International Court of Justice?",
+   "source": "Reuters",
+   "desk": "courts",
+   "published": "2026-11-17T15:09:00+00:00",
+   "seen": "2026-11-20T11:30:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.amnesty.org/en/latest/news/2026/11/turkiye-lgbti-rights-defenders-must-be-immediately-released-and-charges-against-them-dropped/",
