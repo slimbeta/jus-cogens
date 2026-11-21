@@ -1,49 +1,149 @@
 {
- "updated": "2026-11-21T09:45:14+00:00",
+ "updated": "2026-11-21T17:28:09+00:00",
  "briefing": {
-  "headline": "The ICC, the Central African Republic and genocide",
-  "period": "Nov 14–20",
-  "made": "2026-11-20T11:30:22+00:00",
+  "headline": "The ICC, Myanmar and genocide",
+  "period": "Nov 15–21",
+  "made": "2026-11-21T17:28:09+00:00",
   "bullets": [
    {
-    "text": "L'armée soudanaise a annoncé le 8 novembre 2026 avoir arrêté un ancien collaborateur de l'autocrate déchu Omar el-Béchir.",
-    "source": "RFI Afrique",
-    "url": "https://www.rfi.fr/fr/afrique/20261120-soudan-les-pressions-s-accentuent-pour-qu-un-ex-cadre-du-r%C3%A9gime-d%C3%A9chu-d-el-b%C3%A9chir-soit-livr%C3%A9-%C3%A0-la-cpi",
+    "text": "The United States has recently made a concerted effort to water down draft resolutions at the United Nations that reference the rights of women and girls, sexual orientation and gender identity, and the ICC.",
+    "source": "Human Rights Watch",
+    "url": "https://www.hrw.org/news/2026/11/20/us-tries-but-fails-to-dilute-un-human-rights-resolutions",
     "theme": "the ICC"
    },
    {
-    "text": "Découvrez pourquoi le lycée des martyrs à Bangui sombre dans la violence après l'intervention controversée de la police dans l'établissement.",
-    "source": "Corbeau News Centrafrique",
-    "url": "https://corbeaunews-centrafrique.org/crise-lycee-martyrs-daniel-kolikanga/",
-    "theme": "the Central African Republic"
-   },
-   {
-    "text": "The International Court of Justice’s (ICJ) landmark ruling that Myanmar committed genocide against the Rohingya is a historic milestone in their long quest for justice.",
-    "source": "Human Rights Watch",
-    "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide",
-    "theme": "genocide"
-   },
-   {
-    "text": "The International Federation for Human Rights (FIDH) and its member organizations Alternative ASEAN Network on Burma (ALTSEAN-Burma), Women’s (…)",
-    "source": "FIDH",
-    "url": "https://www.fidh.org/en/region/asia/myanmar/myanmar-world-court-issues-historic-first-judgment-recognizing",
+    "text": "In the first part of this post, I looked at explicit efforts within the Court in GvM to change its approach when compared to its Bosnia and Croatia cases.",
+    "source": "EJIL:Talk!",
+    "url": "https://www.ejiltalk.org/did-the-court-change-its-approach-to-defining-or-proving-genocidal-intent-in-gambia-v-myanmar-and-did-it-get-it-right-part-ii/",
     "theme": "Myanmar"
    },
    {
-    "text": "The organization investigated nine RSF drone strikes in El Obeid and its surroundings, which killed 37 civilians and injured 10 between June and August 2026.",
-    "source": "Amnesty International",
-    "url": "https://www.amnesty.org/en/latest/news/2026/11/sudan-devastating-rsf-drone-strikes-on-civilians-in-el-obeid-should-be-investigated-as-war-crimes/",
-    "theme": "Sudan"
+    "text": "Much has already been written on the ICJ’s landmark judgment in The Gambia v.",
+    "source": "Opinio Juris",
+    "url": "https://opiniojuris.org/2026/11/21/the-relationship-between-ihl-and-genocide-in-the-gambia-v-myanmar-case/",
+    "theme": "genocide"
+   },
+   {
+    "text": "Plus de 36 femmes et jeunes filles venues des 3e, 4e et 9e arrondissements de Bangui ont apprises pendant une journée, comment s’affirmer, connaître ses droits et à transformer leurs idées en projets économiques.",
+    "source": "Oubangui Médias",
+    "url": "https://oubanguimedias.com/2026/11/20/bangui-36-femmes-et-jeunes-filles-formees-au-leadership-aux-droits-humains-et-a-lentrepreneuriat/",
+    "theme": "the Central African Republic"
    },
    {
     "text": "A preliminary analysis of the International Court of Justice's judgment in The Gambia v.",
     "source": "Just Security",
     "url": "https://www.justsecurity.org/165228/icj-judgment-gambia-myanmar-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=icj-judgment-gambia-myanmar-genocide",
     "theme": "the ICJ"
+   },
+   {
+    "text": "L'armée soudanaise a annoncé le 8 novembre 2026 avoir arrêté un ancien collaborateur de l'autocrate déchu Omar el-Béchir.",
+    "source": "RFI Afrique",
+    "url": "https://www.rfi.fr/fr/afrique/20261120-soudan-les-pressions-s-accentuent-pour-qu-un-ex-cadre-du-r%C3%A9gime-d%C3%A9chu-d-el-b%C3%A9chir-soit-livr%C3%A9-%C3%A0-la-cpi",
+    "theme": "Sudan"
    }
   ]
  },
  "articles": [
+  {
+   "url": "http://www.scp-ks.org/en/blogs/live-update-court/jakup-krasniqi-returns-custodial-visit-kosovo",
+   "title": "Jakup Krasniqi returns from custodial visit to Kosovo",
+   "source": "Kosovo Specialist Chambers",
+   "desk": "courts",
+   "published": "2026-11-21T16:41:41+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
+   "description": "Jakup Krasniqi returned to The Hague today following a visit ordered by the Trial Panel due to compelling humanitaria",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Jakup Krasniqi returned to The Hague today following a visit ordered by the Trial Panel due to compelling humanitarian reasons. This was the 15th such visit by a detainee to Kosovo ordered by the judges of the Specialist Chambers for humanitarian reasons and managed by the court to date."
+   ],
+   "lede": "Jakup Krasniqi returned to The Hague today following a visit ordered by the Trial Panel due to compelling humanitarian reasons.",
+   "tags": [
+    "icc"
+   ]
+  },
+  {
+   "url": "https://www.amnesty.org/en/latest/news/2026/11/global-states-failure-to-launch-negotiations-on-an-autonomous-weapons-treaty-is-a-wasted-opportunity/",
+   "title": "Global: States’ failure to launch negotiations on an autonomous weapons treaty is a wasted opportunity",
+   "source": "Amnesty International",
+   "desk": "rights",
+   "published": "2026-11-21T14:54:50+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
+   "description": "Responding to news that states at the seventh Review Conference of High Contracting Parties to the Convention on Certain Conventional Weapons (CCW) have failed to agree to negotiate a global treaty to address the growing threat posed by autonomous weapons systems, instead adopting a watered-down mandate for the development of an instrument with ambiguous legal…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.amnesty.org/en/wp-content/uploads/2026/11/GettyImages-2304868524.jpg",
+   "paragraphs": [
+    "Responding to news that states at the seventh Review Conference of High Contracting Parties to the Convention on Certain Conventional Weapons (CCW) have failed to agree to negotiate a global treaty to address the growing threat posed by autonomous weapons systems, instead adopting a watered-down mandate for the development of an instrument with ambiguous legal status, Erika Guevara Rosas, Senior Director of Research Advocacy, Policy and Campaigns at Amnesty International said:",
+    "“Agreement to continue discussions for a further two years without a clear legal objective on the regulation of autonomous weapon systems (AWS) falls shamefully short of what is needed to meet the reality of the moment. If states are truly committed to tackling the risks of increasing autonomy in warfare, they must redouble their efforts to ensure that agreed norms are integrated into a robust, global legally binding treaty, probably outside the CCW. In addition to ensuring meaningful human control over the use of these weapons systems, states must also push for a ban on autonomous weapons systems that target humans.",
+    "After 13 years of talks at this forum, this week’s meeting was the final test of whether the CCW can face one of the most consequential challenges of our time: the urgent need for a robust, global legally binding treaty setting out the rules on using autonomous weapons systems. It failed.",
+    "Erika Guevara Rosas, Senior Director of Research Advocacy, Policy and Campaigns at Amnesty International",
+    "“A majority of states supported the establishment of a global treaty on autonomous weapons systems, but the CCW’s stubborn reliance on consensus has allowed spoiler states to block progress, with catastrophic consequences for civilians caught up in armed conflict.",
+    "“Autonomous weapon systems are machines that once activated, select and strike without human intervention and are being developed at breathtaking speed. Ceding control of lethal force to machines on the battlefield threatens a dystopian, dehumanizing future. The unrestricted use of autonomous weapons systems could lead to a disastrous escalation in automated killing, causing untold suffering and fundamentally undermining human rights and dignity.",
+    "“After 13 years of talks at this forum, this week’s meeting was the final test of whether the CCW can face one of the most consequential challenges of our time: the urgent need for a robust, global legally binding treaty setting out the rules on using autonomous weapons systems. It failed.”",
+    "Amnesty International is part of the Stop Killer Robots campaign, an international coalition of over 330 civil society organizations in 78 countries, calling for the negotiation of a global treaty on autonomous weapons systems (AWS).",
+    "The highly successful Anti-Personnel Mine Ban and the Cluster Munitions Convention were rapidly negotiated in multi-lateral meetings after failures to make progress in the CCW. These treaties have established a strong international norm against the production, stockpiling, transfer and use of these inhumane weapons and greatly curtailed their use, protecting countless civilians from death and injury."
+   ],
+   "lede": "Responding to news that states at the seventh Review Conference of High Contracting Parties to the Convention on Certain Conventional Weapons (CCW) have failed to agree to negotiate a global treaty to address the…"
+  },
+  {
+   "url": "https://www.ejiltalk.org/did-the-court-change-its-approach-to-defining-or-proving-genocidal-intent-in-gambia-v-myanmar-and-did-it-get-it-right-part-ii/",
+   "title": "Did the Court Change its Approach to Defining or Proving Genocidal Intent in Gambia v. Myanmar and Did it Get it Right? Part II",
+   "source": "EJIL:Talk!",
+   "desk": "analysis",
+   "published": "2026-11-21T14:13:29+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
+   "cats": [
+    "EJIL Analysis",
+    "Genocide",
+    "International Court of Justice",
+    "Myanmar",
+    "State Responsibility",
+    "burden of proof",
+    "genocidal intent",
+    "genocide"
+   ],
+   "description": "In the first part of this post, I looked at explicit efforts within the Court in GvM to change its approach when compared to its Bosnia and Croatia cases. In this part, I will look at the innovatio…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.ejiltalk.org/wp-content/uploads/2023/06/1599px-Peace_Palace_The_Hague_9264238542-scaled.jpeg",
+   "paragraphs": [
+    "In the first part of this post, I looked at explicit efforts within the Court in GvM to change its approach when compared to its Bosnia and Croatia cases. In this part, I will look at the innovations that the Court made that do not depart from prior case law, but rather develop it as necessary. I will also examine how the Court reiterated prior views on standards and methods of proof, and how it then proceeded to apply them to the facts. And I will try to give an answer to the questions I posed – did the Court change its approach to defining and proving genocide, and if so, did it get it right?",
+    "Much of the Court’s discussion of the definition of genocide (paras. 284 et seq.) simply restates orthodox positions previously taken by the ICJ and international criminal tribunals. So does most of the Court’s discussion of matters evidence. Thus, despite Judge Charlesworth’s invitation discussed in my previous post, the Court affirmed that proving genocide requires ‘fully conclusive’ evidence, and that the level of certainty needed depends on the seriousness of the allegation (para. 80). Contra Judge Charlesworth, my sense is that this standard of proof would under the Court’s existing jurisprudence apply equally to findings of crimes against humanity and war crimes; it is not confined to genocide, and the Court has never said that it is confined to genocide. In Bosnia and Croatia, the Court avoided using the ‘beyond a reasonable doubt’ (BARD) standard because of its association with a criminal trial, but for all practical purposes the two standards were indistinguishable.",
+    "At paras. 97 et seq. of the judgment, the Court deals with third-party fact-finders, i.e. the IIFFM and the IIMM. Regarding the IIFFM, the Court noted that it applied a lower, ‘reasonable grounds to believe’ standard of proof, which warranted some caution in relying on its findings, but also held that it found its methodology to be rigorous and on the whole even more credible than similar sources it had relied upon in prior cases (paras. 109-122). As for the IIMM, which collected evidence subject to a BARD standard, the Court decided to give its reports considerable weight (para. 119). None of this is terribly novel when compared to prior cases (and not just the genocide ones).",
+    "There are a number of points in the judgment that provide welcome clarification on matters that were previously left open or otherwise caused confusion. I will not examine them exhaustively, but will only look at some key examples. The first is the question of the relationship between genocide and IHL, which the Court examines at paras. 296-305 of the judgment.",
+    "That question has become of critical importance especially in light of Gaza; it was practically of much less import in GvM, simply because the vast majority of killings and other violent acts at issue were done against persons already in the power of Myanmar’s military, i.e. not as part of attacks in the course of conduct of hostilities that could even plausibly be justified under the targeting rules of IHL. This is unlike the situation in Gaza, where most deaths were caused precisely by the hostilities. On this question, see further the excellent recent symposium in the JICJ edited by Paola Gaeta and Giulia Pinzauti."
+   ],
+   "lede": "In the first part of this post, I looked at explicit efforts within the Court in GvM to change its approach when compared to its Bosnia and Croatia cases."
+  },
+  {
+   "url": "https://opiniojuris.org/2026/11/21/the-relationship-between-ihl-and-genocide-in-the-gambia-v-myanmar-case/",
+   "title": "The Relationship Between IHL and Genocide in The Gambia v. Myanmar Case",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-21T12:06:24+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
+   "cats": [
+    "Courts & Tribunals",
+    "Featured",
+    "International Criminal Law",
+    "International Human Rights Law",
+    "International Humanitarian Law"
+   ],
+   "description": "Much has already been written on the ICJ’s landmark judgment in The Gambia v. Myanmar case (GvM), and much more will no doubt be written in the coming days. In this post, I want to focus on h…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/11-2-scaled-1.jpg?fit=1200%2C774&ssl=1",
+   "paragraphs": [
+    "Much has already been written on the ICJ’s landmark judgment in The Gambia v. Myanmar case ( GvM ), and much more will no doubt be written in the coming days. In this post, I want to focus on how the Court dealt with a specific — and admittedly narrow — issue I recently addressed in an article in the Journal of International Criminal Justice: whether genocide can be committed through acts that comply with IHL, such as killing a combatant who is a member of a protected group.",
+    "Neither of the ICJ’s two previous genocide decisions, Bosnia v. Serbia and Croatia v. Serbia, specifically resolved that issue. They did, however, suggest that genocide could potentially be committed through IHL-compliant acts. In the Bosnia case, the Court rejected Serbia’s argument that it could not be found responsible for genocide because its deportation of the Bosniaks complied with IHL, noting in para. 334 that “no such justification could be accepted in the face of proof of specific intent.” In the Croatia case, the Court did not address the genocide issue directly, but acknowledged in para. 474 that because “a particular act may be perfectly lawful under one body of legal rules and unlawful under another… it cannot be excluded in principle that an act carried out during an armed conflict and lawful under international humanitarian law can at the same time constitute a violation by the State in question of some other international obligation incumbent upon it.”",
+    "There is no equivocation in GvM. On the contrary, the majority explicitly rejected the idea that that genocide cannot be committed through acts that comply with IHL:",
+    "305. Accordingly, the Court concludes that although compliance with another body of international law, including international humanitarian law, may inform the identification of intent with respect to the actus reus of genocide, as well as genocidal intent, such compliance does not exclude conduct from the scope of the Genocide Convention.",
+    "The majority’s analysis is extremely brief — barely two paragraphs. The first paragraph (303) simply notes, with regard to the actus reus of genocide, that “[t]he text of Article II of the Convention does not require that the acts enumerated therein be unlawful pursuant to a distinct body of international law.” The second paragraph (304), which addresses genocide’s mens rea, is a bit more substantive, pointing out that although compliance with IHL is relevant to the existence of specific intent, IHL-compliance and specific intent can nevertheless coexist in the same act:",
+    "With respect to genocidal intent, the Court likewise has considered that compliance or non-compliance with international humanitarian law, including whether attacks “caused casualties and damage far in excess of what was justified by military necessity”, may be relevant in inferring the presence or absence of the specific intent to commit genocide. On the other hand, the fact that members of a protected group could be lawfully targeted or incidentally harmed under international humanitarian law does not exclude the possibility that they may be killed or harmed with genocidal intent (citation omitted)."
+   ],
+   "lede": "Much has already been written on the ICJ’s landmark judgment in The Gambia v. Myanmar case ( GvM ), and much more will no doubt be written in the coming days."
+  },
   {
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHFRd2lyTUVtY3UtZ0o0MUtLNF9BTEtPd0R5NFJiT3JMUDhTRm1QMWlLa2oyaHJ1ZTBuZmtLTnAzdmEzd1ExR2ZRNFliQ3AzUWczTktZME8xTTZ1Uy1LYjR3bnVGVXRnZ3N6XzZjb0QzSUhndVBuNmx3bTRFWVR2cWhTUVBwZVNrM0RTMXlGT3JiS3BtcnUwQ0YtU3VxMndTU2FuZDlEZHFVTGd6TXBoY0pzQ0xndHZnSFItTF92T0fSAcYBQVVfeXFMTlZQMjJNTmdZam10REtzMEVTQXF3dm8zX18wM2RCalFfTXpIY0tOUmNQRUhFTE5HbUw2NWJuSkdDNnV3STNjRVVLVzY1S0FLb3hvbHY4Y3EyUEh4VUpXRHlSZlhDbGJmLThGa2JidzN4VFdYRm5yajR5Z2pNMTZxNHZhdTZJNG1xMjNXUkduME9lN2NJTE1wZjFFRTdmRGJ4RUlpMjlxUlFSSXVQQ1M4bl9vazZVVkZtU3N1Z3VmZjd5Q0xhYmdB?oc=5",
    "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
@@ -95,6 +195,17 @@
    "desk": "courts",
    "published": "2026-11-20T19:39:31+00:00",
    "seen": "2026-11-21T09:45:14+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLW0zUGZaSkJoZHB5cERNZzFOdzRkUEpwR0JrRkFVbjRJZGZWNVpVSElvV3lGVVZHY2ZLQUxNTkZjNTNOZ0pWQ0FrazJwaUFTTmhIN2JrUjdFUVdUTlMwV0FYQmx4dFFGVWtIV2wySDFyei1UandIUzFDMGhkRzg3SEgzVFh2ZDBtZ09fTnFsQnQyYkpUb3NTTWNubTdneEtaUk1wQWZtcUE4ZXNGNXYxMTlzMGt6NVpqME9RUXM3dHdacjlfNjFJ?oc=5",
+   "title": "Myanmar dismisses the UN court's ruling on its responsibility for Rohingya genocide as 'unfair'",
+   "source": "WRAL",
+   "desk": "courts",
+   "published": "2026-11-20T19:39:07+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -234,6 +345,17 @@
    "desk": "courts",
    "published": "2026-11-20T16:36:55+00:00",
    "seen": "2026-11-20T20:10:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOV9NRExId2Y3RVhaR3ZDLVhQUnRmY1JGQllxRURYWVhqSjJFTjFtOW9CbTU1T25idkNBRHF5N29QLXdaWENzeVJMYTlSR1dVUFlnVWRqZlNhaEdoZWo5OW1UcmUzTERIWEZUTlNGbllOZS1qR2pkNVhKVHB0ZkZTZnlueDhSdXBzN29MZ2xKVjBVMWtBaWVCNjl0OU4yV2RJb0hsNjdGS1RhcHdOVjBvdG1jSmF1SjlNczB6ZDNBY09MYkJZZHlLOWprNNIB0AFBVV95cUxPVDMxeWlhUnU2ZXhteTBaMWlRODlsd2xvaW1rU2ZHTjE5NWJ6LW5saFQ2V1EtZF9HUUJrcUlVMlZzUlV5d2lpSE9ldkFxMXRqNjJuQVpYbTFXVkpXbTVZT1RvRXVIQ1prVGd0b08waDdzZFh2QVJ5SnZydGhEZF91WUNVNEoxcU5jOGpRWHNVbnRWbmVlaGNmSDZZQ0l2VHNTVkZqMHNFMzFlMzBCLU1sYUhBUm1mYXJhVHMxbnhuYzl1V3ZBLWx0aDFLNTc3bG9X?oc=5",
+   "title": "Myanmar is the first state found responsible for genocide. Here's how the ICJ ruled in other cases",
+   "source": "PBS",
+   "desk": "courts",
+   "published": "2026-11-20T16:03:40+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -386,6 +508,17 @@
    "lede": "On 27 August 2026, the Danish Parliament approved, by a large cross-party majority, a tax-free lump-sum payment of 300,000 Danish kroner (around €40,200) to every Greenlandic woman or girl who can plausibly attest to…"
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkh4SVYzTWpFakpiOEtPTktzU2NMNll4RGdJYW9BRXpzRjUyd2o4MldUWTVXZXJjcFpaTEZGT21JU1lXak9ibl9ydWdjdENmMWFJMGc1bW91cTFQWjBiQkQ5NUJVU1VMMVZsWXBjUG02ek9aTFU3Q2FqLVVjQUhiMGV5bWR5TzRHaE9ZYUhxZ2dDUEQyY2NjRkxtaHB6dkRY0gGmAUFVX3lxTE9LckZtb1FJbkhUZ3ItX043ZDJ6QWVxblBWS2NsOUxsS1JibEJxYU05bDlIWGZVaTNuODZwbF9aS1dpZnY5WU1sbFlDU2g5VFZZQ2pzc0hOS21nOUR6X2wwWERCSWRCLWpLVW1ob3R0YlpJXzNiSzZvNXdwbXB0OXRGRklxSHBNZjIxM1gwZ0ttX3cwVXRfTERQc252NW5fNkh3MzR2ZVE?oc=5",
+   "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
+   "source": "Al Jazeera",
+   "desk": "courts",
+   "published": "2026-11-20T12:26:09+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://oubanguimedias.com/2026/11/20/bangui-36-femmes-et-jeunes-filles-formees-au-leadership-aux-droits-humains-et-a-lentrepreneuriat/",
    "title": "Bangui: 36 femmes et jeunes filles formées au leadership, aux droits humains et à l’entrepreneuriat",
    "source": "Oubangui Médias",
@@ -520,6 +653,17 @@
     "Sihem Ben Sedrine spent more than six months in arbitrary pre-trial detention, from 1 August 2024, when a Tunis investigative judge ordered her detention, until her provisional release on 19 February 2025."
    ],
    "lede": "“This new sentence compounds the outrageous injustice against Sihem Ben Sedrine, who is being punished for her historic work as head of the transitional justice commission to expose decades of state abuses and for her…"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTk0QU1KZFd5SHFtcndhVEx2RV81V3l0RC1pWFU4NmpHcFBvM0pqX1pNNW1ITW1JeG5pcWpPM1RsNW1tMUNKcm90bzlCMndBZ1VsUVpwWk1CTVF5NV9obkFBb2tTSHR5Qnd5RTc5ZUdNUi1wU29FckdVcGgtMFdmVXZDeGpaV1dB?oc=5",
+   "title": "What Comes Next After Historic Myanmar Genocide Ruling",
+   "source": "Time Magazine",
+   "desk": "courts",
+   "published": "2026-11-20T10:30:00+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.justiceinfo.net/en/168754-another-sentence-for-kosovo-former-president.html",
@@ -677,6 +821,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaE5XQjFLTU1NN3pncm1jUFZWRGY1cUlNbmNTUUFxMXFnSVZPM1BxYnZYbTg1aXJWTW1OdjMwVjBGM3p4VlFrU0tMbk44LVVsRUJ2VjdMM2hSN19RR0lQN0cxQnVyYVVXTTd6SzlDLWJDbmlETDd1b2N4OWZtaTBxQW82TWY4aHFjUGYxejJnTHItUGdzOTFYNm1JaWJvQmxLOFoxd2NFZDRmSXFHMkZXMUFYMEY2WFF0OTF1a3EzbGVxRHR4LUpZTUNoQnpZWW9GemtqUGNiWHBOdWpX?oc=5",
+   "title": "APHR Welcomes Historic ICJ Judgment on Genocide Against the Rohingya, Calls for Justice and Accountability",
+   "source": "ASEAN Parliamentarians for Human Rights",
+   "desk": "courts",
+   "published": "2026-11-20T06:03:24+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://corbeaunews-centrafrique.org/mort-detention-commercant-zemio-camp/",
    "title": "Centrafrique: un commerçant de Zémio meurt en détention à la prison militaire du Camp de Roux, quatre détenus décédés en un mois",
    "source": "Corbeau News Centrafrique",
@@ -794,6 +949,17 @@
    "desk": "courts",
    "published": "2026-11-19T23:35:01+00:00",
    "seen": "2026-11-20T02:18:00+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlVJMFB2LTBJSy1GZTRmQV9OVllvS0xMSHIxdWlyZWlwWnoxVFVxOENoOVNSYUdZSEZNSGkycVFxQlRTZ1JrZlNXcGNOTGRGZnlrWHpDSjBDTVBmLUpWVFJrdHBFM1FtY0lzM1JlazVJcTc1dUM2UVlYQ2Npc3ozZE0wdFl3bV9iamZLNTFuQ1VhS0hkNnh5cDgyUlRWWmh2SnJVbjE4bWVRTENEOTJjdFo3cm5ZdVdVRDlVXw?oc=5",
+   "title": "Myanmar committed genocide against its Rohingya Muslim minority, court rules",
+   "source": "NPR",
+   "desk": "courts",
+   "published": "2026-11-19T22:56:08+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -957,6 +1123,17 @@
    "desk": "courts",
    "published": "2026-11-19T18:28:18+00:00",
    "seen": "2026-11-20T11:30:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0lYOWdUaXBERUR2NWxKZWpzcEg1bjJ2aC0xaFJkU1VpUXg2STFQQzZIU3BYTXVWZWljR0x4dDI4ZDhrdTdnV2VPdV84eWhrU3RRN09CV3F5SzkyZGhvMVZ3YzBUTFlrR20zZlEtcnNqYVZOVkIwckVMWjZ3M09NV2VDT0YwTkRlRHJIRjJfNlByVzBUVzVGdllaaFVjdw?oc=5",
+   "title": "DW News.. A judgment of genocide has been delivered against Myanmar at the International Court of Justice for its 2017 acts against the Rohingya Muslims. It's the first time court judges have ruled that a country has perpetrated what is considered the worst cr",
+   "source": "Facebook",
+   "desk": "courts",
+   "published": "2026-11-19T18:23:30+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1841,6 +2018,17 @@
     "At its General Assembly in Glasgow in November 2024, INTERPOL adopted the current text of Article 22(6) of the RPD. Where the General Secretariat “is not a recipient of, or has not accessed the exchange”, its role is now primarily to keep the channel secure. It must act to examine compliance when it “becomes aware of a potential violation” of the rules, but otherwise may not access the content without “explicit authorization by the entity concerned”. The provision applies notwithstanding the General Secretariat’s obligations under Title 1, Chapter II of the RPD (Articles 10 to 18, including the rights of access in Article 18) and Article 22(5), under which it manages data processing in the system, including through spot checks. In other words, the General Secretariat cannot access direct messages it was not copied in on unless it has explicit permission or becomes aware of a potential breach of INTERPOL’s rules."
    ],
    "lede": "In 2024 and 2025, INTERPOL restricted oversight of the largest channel of police cooperation it operates: direct messages between national police bureaus."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd29RUzR1NkVxX29MN1FQX1dSSWJiaU05YjhHNERlX1M3cDEwWG4xRkVTLTVDRXpmQ0N4Uk5zbTh6Wi00NFhXbkNCNi1lQ1FDeXFCX0lyTTRQX0xiUW5wbVloa0x2dFV0emo1RVFnTWhZOEc3aF9wWGgxY1BoRy01WGtZdmtPZ3d0WGcxYjFQOA?oc=5",
+   "title": "Following ICJ Ruling on Myanmar Genocide, Is Israel Next?",
+   "source": "Truthout",
+   "desk": "courts",
+   "published": "2026-11-19T08:00:00+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://blogs.icrc.org/law-and-policy/2026/11/19/beyond-the-blast-radius-climate-harm-and-ihls-widespread-long-term-and-severe-threshold-for-absolutely-prohibited-environmental-damage/",
@@ -6344,6 +6532,21 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1czRWxWblMteUhDcm5TQjFLeWlSMUtuYjV2M2pHVTdXRjMzcUh2V2RKekJxT1Uyck95TEVLb053ckJFbjhIZTNVdDVGQXEteWNOSVpBalRFNTlnWEFLNC10V0s3MHFFQkZMSG56N3FEXzB4eWFzVzN6ekliMDhPbFBDSU9CSm5oSTB3WTF5dmRHSkI1WXJTSzM2RFNCTm5rOHc?oc=5",
+   "title": "La Cour pénale spéciale pour la Centrafrique est en sursis, alerte Amnesty",
+   "source": "Ouragan.cd",
+   "desk": "car",
+   "published": "2026-10-27T07:00:00+00:00",
+   "seen": "2026-11-21T17:28:09+00:00",
+   "tags": [
+    "car"
+   ],
+   "via_google": true,
+   "lang": "fr",
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUkZCaDRLOEZINVB6aXlFeXhZTU15aDJsR1dmaFlpd2pEaEJwc1Nad2lyeGxfZkFwaXpVVGR0V1UyejNranZEUjdQX2FjS1NrWG1ESjVvT0V0SHNfcDFsQ0xXMkJHbWg1dWZBd3NTZ2xCSlNUMGJET2YybVc0UWlsUzRLNjhXVUx6dThmdGhDVm5ycUlsdzViTUlUckxnZw?oc=5",
    "title": "Centrafrique: l'avenir de la Cour pénale spéciale menacé selon Amnesty",
    "source": "Alwihda Info",
@@ -7508,46 +7711,13 @@
     "The Optional Protocol on the Protection of Children in Armed Conflict (OPAC). The 173 States Parties to OPAC are prohibited from unlawfully recruiting children to their own armed forces, including using online means, in line with the specifications in OPAC Articles 2 and 3. They must also “ take all feasible measures to prevent” the recruitment or use in hostilities of persons under 18 by non-state armed groups, “ including the adoption of legal measures necessary to prohibit and criminalize such practices” (Art. 4.2). For their part, non-state armed groups are prohibited from recruiting or using in hostilities anyone under 18 (Art. 4.1). Finally, under Article 6.1 and 6.2, States Parties must take “ all necessary legal, administrative and other measures to ensure the effective implementation and enforcement of the provisions of the present Protocol within its jurisdiction ”."
    ],
    "lede": "Online child recruitment is entering the digital age. From gaming to social media, discover how technology is changing the way children are drawn into armed conflict."
-  },
-  {
-   "url": "https://lieber.westpoint.edu/on-interpretive-methodology/",
-   "title": "GC IV Commentary Series",
-   "source": "Articles of War",
-   "desk": "analysis",
-   "published": "2026-10-07T17:26:50+00:00",
-   "seen": "2026-11-19T11:33:51+00:00",
-   "cats": [
-    "AoW Posts",
-    "Blog",
-    "GC IV Commentary Series",
-    "Interpretation & Development",
-    "Law of Armed Conflict",
-    "CIL",
-    "commentary",
-    "customary international law"
-   ],
-   "byline": "Lieber Institute",
-   "description": "In its recently updated commentary of Geneva Convention IV, the ICRC explains its interpretive methodology.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/10/260928-M-DQ946-1997.jpg",
-   "paragraphs": [
-    "Editors’ note: The following series considers ICRC’s 2025 updated Commentary on the Fourth Geneva Convention. Rosa-Lena Lauterbach, Liisi Adamson, and Sean Watts’s introduction to the series is available here.",
-    "In its recently updated commentary of Geneva Convention IV, the International Committee of the Red Cross (ICRC) explains the interpretive methodology it has adopted as follows:",
-    "The updated Commentary applies the methodology for treaty interpretation set out in the 1969 Vienna Convention on the Law of Treaties (hereinafter ‘Vienna Convention’), in particular Articles 31-33. These rules are now generally considered to reflect customary international law. As such, they are applicable to the interpretation of the Geneva Conventions, even though the Conventions were concluded before the entry into force of the Vienna Convention (para. 98. Internal references omitted).",
-    "This methodology underpins the commentary’s frequent recourse to subsequent practice as an aid to interpretation, including its use as a supplementary means of interpretation where the practice in question falls short of establishing a general agreement among the parties as required under Article 31(3)(b) of the Vienna Convention on the Law of Treaties.",
-    "Such an interpretive approach reflects two propositions that have emerged in recent decades. First, the rules of treaty interpretation set forth in Articles 31-33 of the Vienna Convention are regarded as reflecting customary international law and, as such, are applicable to earlier treaties, including 1949 Geneva Conventions, which were adopted prior to the Vienna Convention’s entry into force in 1980. Second, the applicable rules of interpretation permit recourse to subsequent practice in the application of a treaty, even where that practice does not establish the agreement of the parties regarding the treaty’s interpretation, as a supplementary means of interpretation in the sense of Article 32 of the Vienna Convention.",
-    "These propositions are by no means unique to the ICRC’s commentaries. They are frequently assumed in legal scholarship and have increasingly found endorsement in official documents and institutional practice. However, their growing and often unqualified acceptance, without critical reflections, has long troubled me. In this post, I take the opportunity to explain my reservations concerning these two propositions and to suggest reasons for exercising caution when reading or relying on this commentary.",
-    "The four Geneva Conventions of 1949 entered into force in 1950, three decades before the Vienna Convention on the Law of Treaties entered into force in 1980. As a technical matter, therefore, the interpretive rules codified in Articles 31-33 of the Vienna Convention are not directly applicable to the Geneva Conventions, given the principle of non-retroactivity set forth in Article 4 of the Vienna Convention.",
-    "The first of the interpretive propositions introduced above seeks to overcome this difficulty by drawing a distinction between the treaty rules embodied in the Vienna Convention and their equivalent in customary international law. According to this view, the interpretive rules codified in Articles 31-33 did not originate with the Vienna Convention but rather reflected pre-existing customary law that was already binding when the Geneva Conventions were adopted and entered into force."
-   ],
-   "lede": "In its recently updated commentary of Geneva Convention IV, the ICRC explains its interpretive methodology."
   }
  ],
  "dropped": [
   "https://lieber.westpoint.edu/can-we-design-military-ai-to-follow-ihl-by-default/",
   "https://lieber.westpoint.edu/de-jure-necessity-de-facto-improbability-establishing-new-military-ai-treaty/",
   "https://lieber.westpoint.edu/dignitary-design-embedding-human-dignity-military-ai/",
-  "https://lieber.westpoint.edu/martens-clause-international-laws-favourite-rule-nobody-uses/"
+  "https://lieber.westpoint.edu/martens-clause-international-laws-favourite-rule-nobody-uses/",
+  "https://lieber.westpoint.edu/on-interpretive-methodology/"
  ]
 }
