@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T03:07:56+00:00",
+ "updated": "2026-11-22T11:16:29+00:00",
  "briefing": {
   "headline": "The ICC, Myanmar and genocide",
-  "period": "Nov 15–21",
-  "made": "2026-11-21T17:28:09+00:00",
+  "period": "Nov 16–22",
+  "made": "2026-11-22T11:16:29+00:00",
   "bullets": [
    {
     "text": "The United States has recently made a concerted effort to water down draft resolutions at the United Nations that reference the rights of women and girls, sexual orientation and gender identity, and the ICC.",
@@ -24,9 +24,9 @@
     "theme": "genocide"
    },
    {
-    "text": "Plus de 36 femmes et jeunes filles venues des 3e, 4e et 9e arrondissements de Bangui ont apprises pendant une journée, comment s’affirmer, connaître ses droits et à transformer leurs idées en projets économiques.",
-    "source": "Oubangui Médias",
-    "url": "https://oubanguimedias.com/2026/11/20/bangui-36-femmes-et-jeunes-filles-formees-au-leadership-aux-droits-humains-et-a-lentrepreneuriat/",
+    "text": "Martin Ziguélé réclame la publication des résultats des enquêtes ouvertes après des décès et des disparitions dans des circonstances inexpliquées en Centrafrique.",
+    "source": "Corbeau News Centrafrique",
+    "url": "https://corbeaunews-centrafrique.org/martin-ziguele-reclame-la-publication-des-resultats-des-enquetes-sur-les-morts-et-disparitions-en-centrafrique/",
     "theme": "the Central African Republic"
    },
    {
@@ -36,14 +36,137 @@
     "theme": "the ICJ"
    },
    {
-    "text": "L'armée soudanaise a annoncé le 8 novembre 2026 avoir arrêté un ancien collaborateur de l'autocrate déchu Omar el-Béchir.",
-    "source": "RFI Afrique",
-    "url": "https://www.rfi.fr/fr/afrique/20261120-soudan-les-pressions-s-accentuent-pour-qu-un-ex-cadre-du-r%C3%A9gime-d%C3%A9chu-d-el-b%C3%A9chir-soit-livr%C3%A9-%C3%A0-la-cpi",
-    "theme": "Sudan"
+    "text": "The Trust Fund for Victims (TFV) at the International Criminal Court (ICC) has concluded a contribution agreement with the Kingdom of Norway, through the Norwegian Agency for Development Cooperation (Norad), for 10…",
+    "source": "International Criminal Court",
+    "url": "https://www.icc-cpi.int/news/norway-reaffirms-its-commitment-victims-eur-900000-unrestricted-contribution-trust-fund",
+    "theme": "victims and reparations"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://www.ejiltalk.org/announcement-call-for-expressions-of-interest-for-a-new-co-editor-in-chief-of-ejil-2/",
+   "title": "Announcement: Call for Expressions of Interest for a new Co-Editor-in-Chief of EJIL",
+   "source": "EJIL:Talk!",
+   "desk": "analysis",
+   "published": "2026-11-22T10:00:22+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "cats": [
+    "Announcements and Events",
+    "EJIL",
+    "announcements"
+   ],
+   "description": "The European Journal of International Law welcomes expressions of interest in fulfilling the role of Co-Editor-in-Chief. The role involves, among others:",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.ejiltalk.org/wp-content/uploads/2025/09/EJIL-Cover-scaled.png",
+   "paragraphs": [
+    "The time commitment is, at present, approximately two days per week. There is no financial compensation for the role.",
+    "The new Co-Editor-in-Chief will serve for a term of five years, renewable once. The new Co-Editor-in-Chief will work with incumbent EiC Michael Waibel, who started his five-year term in January 2026.",
+    "A committee will evaluate the applications. This committee will draw up a shortlist, which will then be taken to the Management Board for the final decision.",
+    "To express your interest, please send a letter of motivation and CV to Urmila Dé, EJIL Managing Editor, at EJIL {at} eui(.)eu by 10 December 2026. The new co-EiC is expected to start in March 2027."
+   ],
+   "lede": "The time commitment is, at present, approximately two days per week. There is no financial compensation for the role."
+  },
+  {
+   "url": "https://corbeaunews-centrafrique.org/martin-ziguele-reclame-la-publication-des-resultats-des-enquetes-sur-les-morts-et-disparitions-en-centrafrique/",
+   "title": "Martin Ziguélé réclame la publication des résultats des enquêtes sur les morts et disparitions mystérieuses en Centrafrique",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-22T09:00:00+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "cats": [
+    "Opposition"
+   ],
+   "lang": "fr",
+   "description": "Écouter l'articleTélécharger Martin Ziguélé réclame la publication des résultats des enquêtes ouvertes après des décès et des",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/08/martin-ziguele-1.webp",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Martin Ziguélé réclame la publication des résultats des enquêtes ouvertes après des décès et des disparitions dans des circonstances inexpliquées en Centrafrique.",
+    "Le président du Mouvement de libération du peuple centrafricain (MLPC) s’est exprimé sur cette question lors d’un entretien accordé à Channel Africa. Il estime que les autorités doivent apporter des réponses aux familles et à la population.",
+    "Selon Martin Ziguélé, ces affaires concernent aussi bien des Centrafricains que des ressortissants étrangers. Il évoque plusieurs cas de disparitions, de décès et d’accidents dont les circonstances restent, selon lui, insuffisamment expliquées.",
+    "À lire aussi: Tensions Bangui Kigali: le Rwanda exige le retrait de ses troupes après la signature de deux mémorandums d’entente militaire RDC-RCA",
+    "« Rituellement, quand il y a des disparitions d’hommes dans notre pays, qu’ils soient centrafricains, qu’ils soient étrangers, que ce soit des présomptions d’assassinat, de disparition de personnes, d’accidents, etc., on nous promet toujours des enquêtes qui n’aboutissent jamais », déclare-t-il.",
+    "À lire aussi: MLPC: le bilan des gouvernements Moloua est un « naufrage économique et social »",
+    "Pour le président du MLPC, l’annonce d’une enquête ne suffit pas. Il demande que les investigations soient menées jusqu’à leur terme et que leurs conclusions soient rendues publiques.",
+    "« Il faut qu’il y ait des enquêtes et que les résultats de ces enquêtes soient publiés », affirme Martin Ziguélé.",
+    "L’ancien Premier ministre estime également que les autorités judiciaires doivent être saisies lorsque les investigations permettent d’établir des responsabilités. Il considère que les personnes impliquées dans des faits criminels doivent être poursuivies conformément à la loi.",
+    "Martin Ziguélé rattache cette exigence au fonctionnement d’un État de droit. Selon lui, les décès et disparitions dans des circonstances inexpliquées doivent faire l’objet d’investigations permettant d’établir les faits et les éventuelles responsabilités."
+   ],
+   "lede": "Martin Ziguélé réclame la publication des résultats des enquêtes ouvertes après des décès et des disparitions dans des circonstances inexpliquées en Centrafrique.",
+   "tags": [
+    "car"
+   ]
+  },
+  {
+   "url": "https://corbeaunews-centrafrique.org/touadera-et-wagner-un-pacte-criminel-pour-maintenir-un-regime-illegitime/",
+   "title": "Touadéra et Wagner: Un pacte criminel pour maintenir un régime illégitime",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-22T06:00:00+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "cats": [
+    "Gouvernance",
+    "Twitter",
+    "Corruption",
+    "Gouvernement",
+    "Wagner"
+   ],
+   "lang": "fr",
+   "description": "Découvrez comment Touadéra utilise Wagner pour maintenir son pouvoir et ce que cela signifie pour la Centrafrique. Des révélations choquantes à lire.",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/08/Faustin-Archange-Touadera-sous-la-protection-des-mercenaires-du-groupe-Wagner-en-Russie.webp",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Dans une déclaration diffusée en direct sur Facebook, l’analyste politique Madame Luka-Luka accuse le président Faustin-Archange Touadéra d’avoir scellé un pacte dangereux avec le groupe Wagner, ces mercenaires russes accusés de crimes de guerre dans plusieurs pays africains. « Il va chercher des mercenaires, des voleurs, des criminels… le Wagner », dénonce-t-elle. Pour elle, cette alliance vise un seul objectif: maintenir un régime illégitime au pouvoir, coûte que coûte.",
+    "Touadéra n’aurait jamais bénéficié d’une véritable légitimité populaire, selon Luka-Luka. « On n’a jamais voté pour lui. On n’a jamais élu Touadéra », martèle-t-elle. Elle affirme qu’il serait arrivé au pouvoir de manière brutale, comme un sac de manioc jeté depuis le haut du camion, sans réel mandat populaire, et que ni la population ni la communauté internationale ne lui accorderaient aujourd’hui leur confiance. Face à cette fragilité, le président se serait tourné vers Wagner pour asseoir son autorité et écraser toute forme d’opposition. « Sans Wagner, Touadéra serait déjà parti. Ils sont son assurance-vie », résume la militante.",
+    "À lire aussi: Albert Yaloké Mokpeme, si on ne sait pas mentir, la meilleure solution est de se taire sur le conflit entre les mercenaires russes et les soldats FACA à Zemio",
+    "Pour entretenir cette alliance, Touadéra détournerait l’argent public et les aides internationales afin de financer les mercenaires, selon Luka-Luka. « Il détourne une partie de l’aide du pays, l’aide au développement, et il la donne aux Wagner. Tout se fait dans la discrétion totale, sans traçabilité », affirme-t-elle. Elle évoque un endettement occulte envers le groupe russe, financé notamment par les recettes douanières et fiscales. « Est-ce normal qu’un président utilise l’argent du peuple pour payer des criminels étrangers? », interroge-t-elle.",
+    "À lire aussi: Des réseaux sociaux à l’intelligence artificielle: Comment la vitesse de la technologie panique le régime obsolète de Bangui",
+    "Les mercenaires de Wagner ne se limiteraient pas à la protection du président: ils contrôleraient une large partie du pays, selon la militante. Elle affirme qu’ils disposent d’un accès illimité aux institutions centrafricaines ainsi qu’aux ressources minières et forestières, et qu’ils agissent en toute impunité. « Les Wagner sont cramponnés chez nous. Ils sont installés », dénonce-t-elle, décrivant un pays devenu, selon elle, leur terrain de manœuvre.",
+    "À lire aussi: Insécurité chronique en Centrafrique, monsieur Bakonvoyo Dix Heures Odon décrypte les enjeux et origine du problème",
+    "L’alliance entre Touadéra et Wagner irait au-delà des questions sécuritaires et menacerait la souveraineté du pays, selon Luka-Luka. Elle accuse le président de vouloir modifier la constitution pour se maintenir indéfiniment au pouvoir. Elle affirme également que des membres de Wagner seraient allés menacer Madame Darlan, ancienne présidente du Conseil constitutionnel, pour qu’elle accepte cette révision. « Un pays souverain ne devrait jamais laisser des mercenaires réécrire ses lois », rappelle-t-elle."
+   ],
+   "lede": "Découvrez comment Touadéra utilise Wagner pour maintenir son pouvoir et ce que cela signifie pour la Centrafrique. Des révélations choquantes à lire.",
+   "tags": [
+    "car"
+   ]
+  },
+  {
+   "url": "https://corbeaunews-centrafrique.org/de-la-sorbonne-a-bangui-premier-coup-juridique-mondial-contre-les-bourreaux-de-wagner-les-victimes-centrafricaines-ne-sont-plus-oubliees/",
+   "title": "De la Sorbonne à Bangui: premier coup juridique mondial contre les bourreaux de Wagner, Les victimes centrafricaines ne sont plus oubliées",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-22T05:00:05+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "cats": [
+    "Crimes et Justice",
+    "Twitter"
+   ],
+   "lang": "fr",
+   "description": "Écouter l'articleTélécharger De la Sorbonne à Bangui : premier coup juridique mondial contre les bourreaux de Wagner, Les victimes centrafricaines ne",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/08/Professeur-Jean-Francois-Akandji-Kombe.webp",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "De la Sorbonne à Bangui: premier coup juridique mondial contre les bourreaux de Wagner, Les victimes centrafricaines ne sont plus oubliées",
+    "Le 2 mars 2026, sous les voûtes historiques de la Sorbonne à Paris, dans l’amphithéâtre Gaston Bachelard, un événement sans précédent a eu lieu: le tout premier colloque international dédié exclusivement à la responsabilité juridique des crimes commis par le groupe Wagner et ses filiales. Ce n’est pas une simple conférence d’universitaires. C’est un signal fort envoyé depuis la France jusqu’aux villages de la Lobaye, de la Nana-Mambéré, de l’Ouham-Pendé et de bien d’autres régions de Centrafrique: vous n’êtes plus invisibles, vos souffrances sont enfin reconnues au plus haut niveau mondial.",
+    "Organisé par l’Institut de recherche en droit international et européen de la Sorbonne (IREDIES), en partenariat avec le Conseil des droits de l’Homme des Nations Unies, la FIDH, TRIAL International, Truth Hounds, le projet All Eyes on Wagner, la Geneva School of Diplomacy et la Coalition africaine pour la justice et contre l’impunité, ce colloque a réuni les meilleurs experts mondiaux sur Wagner: enquêteurs de terrain, avocats internationaux, universitaires et défenseurs des droits humains.",
+    "Le message central est limpide: le voile d’impunité qui protégeait Wagner depuis des années commence à se déchirer. Les contrats opaques, les changements de nom (de Wagner à Africa Corps ou autres appellations), le flou sur son statut (entreprise militaire privée ou bras armé direct de l’État russe) ne suffiront plus à échapper à la justice. Les participants ont posé les premières pierres d’un véritable arsenal juridique:",
+    "– poursuites individuelles pour crimes de guerre, crimes contre l’humanité et violations graves du droit international humanitaire",
+    "Dans son discours d’ouverture, le coordinateur scientifique du colloque a touché droit au cœur:",
+    "« En amont des questions de responsabilité qui vont nous occuper, il y a des violations graves du droit et des victimes de ces violations, des victimes qui souffrent dans leur chair et qui appellent, qui espèrent et qui ont foi dans la protection juridique, en République Centrafricaine, au Mali, au Burkina Faso, en Syrie, en Ukraine et j’en passe. »",
+    "Ces mots ont retenti particulièrement fort pour les Centrafricains. Parce que ce sont vos noms, vos villages, vos familles qui ont été cités parmi les victimes. Exécutions sommaires, viols systématiques, pillages, tortures, enlèvements, mines antipersonnel, destructions de biens: tout cela n’est plus relégué dans des rapports confidentiels. Aujourd’hui, des experts du monde entier, certains au péril de leur vie (car des menaces réelles ont été évoquées), travaillent à ce que les responsables répondent de leurs actes.",
+    "De la Sorbonne à Bangui, la distance n’est plus si grande. Ce colloque n’est pas une fin, mais un début concret:",
+    "– des preuves accumulées par les ONG et les enquêteurs locaux sont désormais protégées et valorisées au niveau mondial"
+   ],
+   "lede": "De la Sorbonne à Bangui: premier coup juridique mondial contre les bourreaux de Wagner, Les victimes centrafricaines ne sont plus oubliées",
+   "tags": [
+    "car"
+   ]
+  },
   {
    "url": "http://www.scp-ks.org/en/blogs/live-update-court/jakup-krasniqi-returns-custodial-visit-kosovo",
    "title": "Jakup Krasniqi returns from custodial visit to Kosovo",
@@ -211,6 +334,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uU2xtNklMZ1dfMTh6bEYtRE10RnI5cXV5eENaelZORkZ2dHVYcDJKXzNhYXE1NzZzaExFaUZGaFRTZUowYzNRUHFHdk1kdXBvTkxpel9LYw?oc=5",
+   "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+   "source": "UN News",
+   "desk": "courts",
+   "published": "2026-11-20T20:01:17+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UM2pUcVBJamZHU2tDSWpqNjgwVnhRQWhYVEpEbHFUQVc0T09fZVh2WEZUQ0tneVhrbkdFNmMtVlpkQ003aXRmdWhqV0VwZjFacjMzRWQ0c3ZhdVlDWnlxcG9jc1hHZlp6dlJhM1FWLUh3S1hMRHdzYQ?oc=5",
    "title": "McGovern Statement on International Court of Justice finding of genocide against the Rohingya",
    "source": "Congressman Jim McGovern (.gov)",
@@ -357,6 +491,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkt2QS0xejNud1VXdERaczRlMTliUjF5end0V2tLdk5Na0dSTzh2MjFSSmtlQXI0bWdFZVlMaGpzd3JzTWpseDhuQUQzeXBzUlNVbHJnMGNXV0hPdkFwbVVGYXQxZ1MzM1o3UW1iTXpUM0lSUU1zVWcxMURrZl93M2Nja0JNcTJLcDBIcHpJaW9IRXlzOEZqZ1llRXFNZXlIaFFNaWx6THYyUDVlcTBQVUNpWmFlM0pNOENvaFViVGw?oc=5",
+   "title": "Change for Rohingya after genocide ruling hinges on international action: UN investigator",
+   "source": "Anadolu Ajansı",
+   "desk": "courts",
+   "published": "2026-11-20T17:30:32+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.hrw.org/news/2026/11/20/us-tries-but-fails-to-dilute-un-human-rights-resolutions",
    "title": "US Tries but Fails to Dilute UN Human Rights Resolutions",
    "source": "Human Rights Watch",
@@ -381,6 +526,17 @@
    "tags": [
     "icc"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlaXRDYTVpZll4Q3diVmZNUllRU3FydENENkdNcW1tRjFuNk0tVnRvTE1HRmtodkhucTllNTJFZDIxWnkzLS1OZG5MMkJXcTJ2a19iMW5McThVZEt3UXJsTg?oc=5",
+   "title": "How the Campaign Against Israel Rewrote the Law of Genocide",
+   "source": "The Free Press",
+   "desk": "courts",
+   "published": "2026-11-20T16:56:49+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazVmQWNON0pUR1lkMG9ESFlrYjhtOUtQRGNJREZ0cWpPNWIxYTNYaWxjQUN4cUxHU3BVX05BTUc0SlBsblFmQmJ5YjJiOUhHV1RuQTk0OGNLWTFoaWhudm9XS193THFlcU9xbHZqS2w0TGlyOEpRU2Y2dXhDcmFLZXhncDNHa1ctVGFoRFhRcXZROVpYdzZrTWdYbw?oc=5",
@@ -583,6 +739,17 @@
     "Some points are not legally contested. A state health system that inserts a contraceptive device into a woman’s body without her informed consent, in many cases without telling her that anything has been done, violates Articles 3 and 8 ECHR. The European Court of Human Rights has said as much three times, in V.C., N.B., and I.G. and Others v. Slovakia, on the non-consensual sterilization of Roma women in Slovak hospitals. The Court’s reasoning in that line of cases rests on two grounds. The first is the incompatibility of non-consensual reproductive intervention with the respect owed to autonomy and dignity under Article 8. The second applies where the intervention causes lasting physical or psychological harm and is compounded by institutional indifference: the treatment then reaches the level of severity required by Article 3. The parallel with the Slovak cases is close, and in one respect Greenland’s case is graver. In both, a State health system intervened in the reproductive lives of women from a minority historically subject to demographic policy, under the label of family planning. The Slovak women knew, at least afterward, what had been done to them. Many Greenlandic women did not, and some were children. If secrecy and age aggravate a violation, as I believe they do, the Slovak judgments set the minimum that Denmark must meet."
    ],
    "lede": "On 27 August 2026, the Danish Parliament approved, by a large cross-party majority, a tax-free lump-sum payment of 300,000 Danish kroner (around €40,200) to every Greenlandic woman or girl who can plausibly attest to…"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPM2pMbGZFUmo0WnpJRlFOb3N5WHdZc3ZYcmJVeWhlMzl3V3lnR0Vad2hBTG1ld3VPZnhSWjJjWmxGUHl5STdvT3ozbUxGZTY3Y3lVakNuV1VNX1plYlNqMERoZHdNYm8zZUF3bHB2RGhfVUt6LU5nVU5Ld2U3eTc1Z09XbzR1OFhCVE5OVmZCSFhhOHl5M01mNllSckVRdGpkRkgtSE5uOVowaWI1Q2pqelJoM3F6ZFR4cS1lM2JJX01sN3hQTGdOeF9hdnNpVXM1RjVNbkRBek9WM0thOTY4MG1IZkwwTTZVc3h3WDJ4aHhleGN1TVFSNlM2RV9Ga01PT0tnOHI0cjQ5WmNOV1h6WWcxRzdBaC1NdXdxQ3pIX21nNldVV2hFMXZ3?oc=5",
+   "title": "Analysis • Myanmar's genocide conviction should terrify Israel",
+   "source": "Haaretz",
+   "desk": "courts",
+   "published": "2026-11-20T12:44:00+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkh4SVYzTWpFakpiOEtPTktzU2NMNll4RGdJYW9BRXpzRjUyd2o4MldUWTVXZXJjcFpaTEZGT21JU1lXak9ibl9ydWdjdENmMWFJMGc1bW91cTFQWjBiQkQ5NUJVU1VMMVZsWXBjUG02ek9aTFU3Q2FqLVVjQUhiMGV5bWR5TzRHaE9ZYUhxZ2dDUEQyY2NjRkxtaHB6dkRY0gGmAUFVX3lxTE9LckZtb1FJbkhUZ3ItX043ZDJ6QWVxblBWS2NsOUxsS1JibEJxYU05bDlIWGZVaTNuODZwbF9aS1dpZnY5WU1sbFlDU2g5VFZZQ2pzc0hOS21nOUR6X2wwWERCSWRCLWpLVW1ob3R0YlpJXzNiSzZvNXdwbXB0OXRGRklxSHBNZjIxM1gwZ0ttX3cwVXRfTERQc252NW5fNkh3MzR2ZVE?oc=5",
@@ -915,6 +1082,17 @@
    "tags": [
     "icc"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2p6cG1iemdLRkdYd2d2WUpEX3FqUDFLSFpaVmc0Z2ZMSXdrSktHTzQ0RERoUEFrbHdMZ0Flek1GOHNvTmNrSU1Qby1vRklyc3dXVWxYZS03dGtaN05ERkRVQ2k0V3V2UXpDUXduWFBYeVZnVUdINW5uTld6SDlTdEMxdTNlcVlEaE01b2wxRm11YzNEZnp4RVFZYlVHQWlZVWdraFZ1blBsRnNMaUhnUVZ2OHlHYW1BSmV2RGdWbU5pUQ?oc=5",
+   "title": "Friday briefing: ​What are the implications of the ICJ’s landmark genocide ruling?",
+   "source": "The Guardian",
+   "desk": "courts",
+   "published": "2026-11-20T08:22:00+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://corbeaunews-centrafrique.org/ville-morte-bangui-contestation-punicion/",
@@ -1395,6 +1573,17 @@
    "lede": "The International Federation for Human Rights (FIDH) and its member organizations Alternative ASEAN Network on Burma (ALTSEAN-Burma), Women’s (…)"
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTDdyLXlfRVdfU0IySnJTTXN2anVRcHgzcEV1SnVjRnhHYTZhVE1EUkFmOWRndFNycWNjeFducV9RLUZWTWM1c2hwejF6eWN4SEZ5QlZuTkozeGJfYnpPdjRyNThRa19QQS0wZC1SR083cXdQdGFTbV9abU9pS210Zl93?oc=5",
+   "title": "Reactions as top UN court finds Myanmar guilty of genocide against Rohingya",
+   "source": "Idaho Statesman",
+   "desk": "courts",
+   "published": "2026-11-19T16:49:09+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qLUhZWS1IeE93REZvbWFfdUpvcnEyOG1kZjU5M2dMV3N2TFFtZEZsVll5eUx4MWxhcTRaWFlqSndxaVhtRWNrel94QVVCcWgtSGdvd2xvRHZNdm9rNDhJbmhpeWNmSW41bnRZaHo1a0xuRTZmODVXc3Yxemh3QQ?oc=5",
    "title": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
    "source": "The New York Times",
@@ -1468,6 +1657,17 @@
    "desk": "courts",
    "published": "2026-11-19T16:01:50+00:00",
    "seen": "2026-11-19T20:31:58+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84M0U2Mk44bFB1MlVNTVEzZmxna3R5djd3NVJBRmN3SXE0aTQtRUdZMWRDNTl1MkVWVF85U3ZWa2xuUFRtT2g5a1VWTllDSmZVOFFEdklyQzlSSGthX2ZWMWZWR3VYLVBwZG5FUHZDM194d28wbzFZaA?oc=5",
+   "title": "Myanmar guilty of genocide: top UN court",
+   "source": "Taipei Times",
+   "desk": "courts",
+   "published": "2026-11-19T16:00:00+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1699,6 +1899,28 @@
    "desk": "courts",
    "published": "2026-11-19T13:29:00+00:00",
    "seen": "2026-11-19T20:31:58+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQkx1Y0xjQVZBM21NNW0xTmFEanNMTzVKWW9hYlN5T3NhM0Z6aHB3aWJoZ21XQkRBNnZyMERRRzB0LXh6WlRwR1JiUjFTU04wQ2g1MXFXNzM5NHhJSGZYN3NSd215RDVjUWxGdmtVcmhOQ0ZpQjdaOWY4MUY1NG1FbDJ2dTZxclE4SzJoUS0yX25iaF9iSGRhMnNQN0pseXRlcEhBQUs4YVcwOWh4QXZtYXJ3RTdRajQ0M21CQlpTcG12X0tVUU1HTmtvWFZ6b2NfaDJEeTA0T3dGZw?oc=5",
+   "title": "This is Not South Africa’s Definition: A New Report on Apartheid in the Draft Crimes Against Humanity Treaty",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-19T13:23:44+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWUx4YWpDSTF1WGt2NlVydDh3ZTNnUnFfU3lGU3JsWXlBM0VRUnNUS2w0UC1PY3NEdU1yN0pHYWpMZW9lY2t0bW1odmZhVHE2MENIMHZkbS1lajRNLS15Qi1LdVhFN2hDQldzQnpIZTVQNldGc09iSUpsLXQySXZ6eU5JRWloNHVSeG5ITFdRaHlCcXk2QkNqZ1dtWHpLaHpfVWRJeDZWcElKQW54cmx4RTR5aVA2TmJjRkVkSHNNTnpQVnRr?oc=5",
+   "title": "Foreign Secretary statement on International Court of Justice Myanmar judgment: 19 November",
+   "source": "GOV.UK",
+   "desk": "courts",
+   "published": "2026-11-19T13:15:32+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -3771,6 +3993,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MXzExcGxFTFgyb0FPSlpuVEgweGVxQ2Y3Ty0xM3ZGNVZUekFncDJLNEJkRl9zQUl5LThfT0w2VGRrNDFSck8zR0VYdENtZmE1RXdWaTVfbk1ZQW5MLURmZXpPQ3I?oc=5",
+   "title": "Beyond Only Intent",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-17T13:31:22+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.amnesty.org/en/latest/news/2026/11/azerbaijan-abzas-media-staff-endure-three-years-behind-bars-for-independent-journalism/",
    "title": "Azerbaijan: Abzas Media staff endure three years behind bars for independent journalism",
    "source": "Amnesty International",
@@ -3832,6 +4065,17 @@
    "desk": "courts",
    "published": "2026-11-17T13:13:00+00:00",
    "seen": "2026-11-19T02:21:19+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3BuOE91a1pTYVJVVXFIeHg4c3pQcXl0azhPeENhUWxEZVFybkh5Rm8xODl5UGlVa0dwQzQwRkVWeTMzTUZXUXJsOWJVdHpR?oc=5",
+   "title": "Recent Posts",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-17T13:11:10+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -4580,6 +4824,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYUIwenozM191bUdzNnBGQ21vbTZDVlNBSldxclZYVnJUWHVqZ3JnenFySjVSLVZSLXg0T2hnTzBROUlNRGYwUk0yRFMySEFSb19nRnYxSjFCaHlNYVp1RkI5WU1tVXVvQ3E1dTV1NnhUSnB1UEtGSlhkNWFDazdBMFV1R2l6QjlMUFNJZlduRlFoOEhlek9kUDYxN2E1YjJDczczejJnYkFuVnU4WVFJTXpWRHUyc3VGeHJEX1Fhd0RIYjhsZnh6NGJPVm0yS21vM2FUT2VmNzBSSFhnREtyLWVCQ2plWWFiOHUxZHR4Yw?oc=5",
+   "title": "International Law for a Fragile World: Political Risk – Authoritarianism, Information Warfare, and Democratic Fragility (Part II)",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-16T09:01:01+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ2pMcUM3TnZxeUVJZElSdXV1WGpZQTNDdmNaNWhpV19VelpyQWQ2dVp3RGNqSGFnTWZ6bDg0dGpHODJaYmVPcmNSS3lBUHYyaEY1X1hqZVlGcFJrRTdXZjhzUllfMThVZXgxOUNyZkNWVXozUTJLOFhNVV9YaFFaNl95R0tId1lia2lqbWc3cl9WMU5LWXhjdS1qQ2ROc0xTXy1HTWpISVROUGg4bk1aMkZQVFFzVGJidFRjQlhna1pRUWpOX1ZNQ0Zfb0pXaldFZUt3LXRiWjhmbFZhQnJBY0JTemtkYnd4V2RNVUhB?oc=5",
    "title": "International Law for a Fragile World: Political Risk – Authoritarianism, Information Warfare, and Democratic Fragility (Part I)",
    "source": "Opinio Juris",
@@ -4812,6 +5067,17 @@
    "tags": [
     "car"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQWkxRXF2NDcwQlJMNlZYNWVPOHV6N244WUZtLVlyM3oxaU1XN2J2X0dHZlRyNkktdnByTGRKMi1mSS1ZdVdRenloLWlDWVJlam1BNEFreTN3OFhZcThvaTBjTDZzSUI5T25KREZHV1cxa3JGRTQ4Wjc4SXJRUTRYYmFBYw?oc=5",
+   "title": "Events and Announcements: 15 November 2026",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-15T08:02:21+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://opiniojuris.org/2026/11/15/events-and-announcements-15-november-2026/",
@@ -5211,6 +5477,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMmZRVkNUVHJ2UG1rVlN0M1lkZlBFbjkyaHgyeVREQUdZczZ4U2ZpQkNzWGg2NUp1MHgyNDRXc2hkUWhrNjdPQlM5X3JGWWEyZlJCbzNMQVRrZ0FsbWppQVZGLVo1WldZenpBejJpWGJGOFFTdXlqM1prUFZKa3JpU2VFUWx3dXNKU1p6dnpYeDVDanRIVmotMi1aaFgzSVlqb2pVTUVob1Y0TG5zc2x6SlZjdE5YZkttcEpUVGlTZDR1eTA?oc=5",
+   "title": "6th Annual Symposium on Pop Culture and International Law: The Buster Call on Ohara - One Piece and the International Law of Destroying a People’s Past",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-12T13:03:14+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://opiniojuris.org/2026/11/12/the-buster-call-on-ohara-one-piece-and-the-international-law-of-destroying-a-peoples-past/",
    "title": "6th Annual Symposium on Pop Culture and International Law: The Buster Call on Ohara – One Piece and the International Law of Destroying a People’s Past",
    "source": "Opinio Juris",
@@ -5378,6 +5655,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZzM4bjdOcUtldG9ua3ZEbVdvSHpoM3I5TV80Wmp3TzdEWnBVdnFiSkxOTkE0aC10Rm9OSXZDQzNkZlM1d3RfZ09Nc1BKR0pyQmlld0pITGlDaUlrbWw0eG9MQnlpelU3QU1ha2FpU0VaUGkyLXJmc24xNVRfbGVhRDhpX3JQMDJ0d2VzMVhDRzcyOFVEQmV6Y0JUU1FuRGpHT2hDdEk5eVFUZU5mR2pSRFozZC1RY1FTZ1hFU0Y4STNTZ0dhdXV4Z2RQWXY1cGRTRVdV?oc=5",
+   "title": "6th Annual Symposium on Pop Culture and International Law: Genocide in the Canvas? International Law and the Destruction of Lumière in Clair Obscur: Expedition 33",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-11T13:01:01+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://opiniojuris.org/2026/11/11/genocide-in-the-canvas-international-law-and-the-destruction-of-lumiere-in-clair-obscur-expedition-33/",
    "title": "6th Annual Symposium on Pop Culture and International Law: Genocide in the Canvas? International Law and the Destruction of Lumière in Clair Obscur: Expedition 33",
    "source": "Opinio Juris",
@@ -5411,6 +5699,17 @@
     "The choice is between two understandings of what makes a life worth preserving. The painted inhabitants may have been created by another person, but they experience relationships, loss, fear and attachment – their lives have meaning to them. From their perspective, the destruction of the Canvas is the end of their world."
    ],
    "lede": "Is it the material from which it is made, the person who created it, or the lives of those who inhabit it?"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQnpBcVhGSHJicFg4X1ZWcGo2RDFMd1NZMjc2eGN4QjhiMWtTWUxMakdHelliZVE2WjAwbDdoMi04UjJqSzFGX0tOWHVvcjlQUS1WUnlpRUV6aUZDNWNfdWZnZW1nQ2UtdnlGSHJ4Z0JMQjZESkhkTUV5bTlfSElMMHU3X1hhengtR1pqczR1Q0JTN0hHSUEtMkhZWVI4RXR2emg1RDBaWUZ6TUNHT2N5c3FiTTd3OW8wR1NIekxkZTFjWVIwNVhORGtORXpkeEhRaHY1dm1R?oc=5",
+   "title": "6th Annual Symposium on Pop Culture and International Law: Who Can Speak for Earth? Representative Authority and First-Contact Governance in The Three-Body Problem",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-11T09:05:20+00:00",
+   "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://opiniojuris.org/2026/11/11/who-can-speak-for-earth-representative-authority-and-first-contact-governance-in-the-three-body-problem/",
@@ -7973,41 +8272,10 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
-  },
-  {
-   "url": "https://blogs.icrc.org/law-and-policy/2026/10/08/influencer-gamer-soldier-spy-the-online-era-of-child-recruitment-and-its-implications-in-international-law-part-ii/",
-   "title": "Influencer, gamer, soldier, spy: the online era of child recruitment and its implications in international law (Part II)",
-   "source": "ICRC Law & Policy",
-   "desk": "analysis",
-   "published": "2026-10-08T07:37:39+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "cats": [
-    "Armed Groups",
-    "Children in conflict",
-    "IHL",
-    "New Technologies",
-    "armed conflict",
-    "digital age",
-    "digital platforms",
-    "gaming"
-   ],
-   "description": "Online child recruitment is entering the digital age. From gaming to social media, discover how technology is changing the way children are drawn into armed conflict.",
-   "image": "https://blogs.icrc.org/app/uploads/sites/102/2026/10/nick-fancher-TWpxgFhwtuY-unsplash-copy.jpg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "As social media and gaming platforms create new interfaces between tech-savvy children and armed actors, new questions should be asked regarding how the law prohibiting child recruitment and use in hostilities can be promoted and enforced online.",
-    "In this two-part post, ICRC Advisers Vanessa Murphy, Siobhan Sparkes McNamara, and Tilman Rodenhäuser consider how the digital environment is transforming more traditional forms of child recruitment, give a rough typology of related trends in the information and communications (ICT) environment, identify the relevant international law, and propose recommendations to improve compliance with these laws in the digital age.",
-    "In recent years, states have expressed concern about the use of ICTs for the recruitment of children into armed forces and armed groups, and their use in hostilities. Such acts are subject to widely-applicable international legal obligations, and this law applies online as well as offline: today, there is general agreement that “IHL rules and principles … serve to protect civilian populations and other protected persons and objects, including against the risks arising from ICT activities”, and that “children must not be allowed to take part in hostilities during armed conflict, including through ICT activities”.",
-    "But the intricacy of the rules governing child recruitment and use in hostilities is sometimes underestimated. In the second part of this post, we present some of the most relevant provisions and encourage states to take a range of measures to improve compliance with them.",
-    "Since the Geneva Conventions were adopted in 1949, international law has developed in bursts to advance the protection of children in armed conflict. Numerous treaties articulate in one way or another the general rule that these children are entitled to special respect and protection. This universal concern has birthed a more elaborate body of law to keep children away from the primary purveyors of violence in wartime – armed forces and armed groups.",
-    "Most states are bound by more than one of the following instruments governing child recruitment and use in hostilities, and all states are bound by at least one. When more than one norm applies to a given set of facts, the rules apply concurrently, meaning that the highest standard must be complied with. For example, many states are bound by prohibitions on child recruitment under the age of 15 ( API Art. 77.2, APII Art. 4.3.c, CRC Art. 38) as well as the higher age of 18 ( OPAC Art. 2 and declaration under Art. 3.2, ACRWC Art. 22.2 ). In such cases, a state must abide by the age 18 standard.",
-    "The Optional Protocol on the Protection of Children in Armed Conflict (OPAC). The 173 States Parties to OPAC are prohibited from unlawfully recruiting children to their own armed forces, including using online means, in line with the specifications in OPAC Articles 2 and 3. They must also “ take all feasible measures to prevent” the recruitment or use in hostilities of persons under 18 by non-state armed groups, “ including the adoption of legal measures necessary to prohibit and criminalize such practices” (Art. 4.2). For their part, non-state armed groups are prohibited from recruiting or using in hostilities anyone under 18 (Art. 4.1). Finally, under Article 6.1 and 6.2, States Parties must take “ all necessary legal, administrative and other measures to ensure the effective implementation and enforcement of the provisions of the present Protocol within its jurisdiction ”."
-   ],
-   "lede": "Online child recruitment is entering the digital age. From gaming to social media, discover how technology is changing the way children are drawn into armed conflict."
   }
  ],
  "dropped": [
+  "https://blogs.icrc.org/law-and-policy/2026/10/08/influencer-gamer-soldier-spy-the-online-era-of-child-recruitment-and-its-implications-in-international-law-part-ii/",
   "https://lieber.westpoint.edu/can-we-design-military-ai-to-follow-ihl-by-default/",
   "https://lieber.westpoint.edu/de-jure-necessity-de-facto-improbability-establishing-new-military-ai-treaty/",
   "https://lieber.westpoint.edu/dignitary-design-embedding-human-dignity-military-ai/",
