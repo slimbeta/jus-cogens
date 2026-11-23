@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:32:46+00:00",
+ "updated": "2026-11-23T00:17:18+00:00",
  "briefing": {
   "headline": "The ICC, Myanmar and genocide",
   "period": "Nov 16–22",
@@ -44,6 +44,38 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://www.hrw.org/news/2026/11/23/australias-sanctions-on-west-bank-settlers-increase-pressure",
+   "title": "Australia’s Sanctions on West Bank Settlers Increase Pressure",
+   "source": "Human Rights Watch",
+   "desk": "rights",
+   "published": "2026-11-22T23:00:00+00:00",
+   "seen": "2026-11-23T00:17:18+00:00",
+   "description": "Australia announced on November 18 further targeted sanctions on three individuals and four entities involved in illegal settlement expansion and human rights abuses against Palestinians in the West Bank. Although these sanctions are a welcome step, they are long overdue and don’t go far enough.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/07/202607mena_palestine_tal_village.jpg?h=87702c52&itok=pFL9jPrv",
+   "paragraphs": [
+    "The situation in the West Bank is dire. State-backed settler violence has risen to all-time highs. Tens of thousands of Palestinians have been displaced and 1,394 killed by settlers or soldiers in the West Bank since the start of 2023. The number of illegal Israeli settlements has nearly doubled, including the E1 settlement project, which even Israel’s allies have called a “red line,” and which Israeli ministers openly boast is intended to erase any possibility of a future Palestinian state.",
+    "On the same day as Australia’s announcement, the United Kingdom announced sanctions against eight construction companies and property development firms that have not, until now, been sanctioned by any government. The individuals and companies sanctioned by Australia, however, have previously been sanctioned by the United Kingdom and other states.",
+    "When the United Kingdom, France, and Canada announced a ban on Israel’s illegal settlements in September, Australia did not join. Instead, at the time, Foreign Minister Wong promised further sanctions to deter illegal settlement, which are the ones just announced.",
+    "Israel’s settlements are illegal. In its 2024 advisory opinion, the International Court of Justice found that all states have an obligation to “take steps to prevent trade or investment relations that assist in the maintenance of the illegal situation created by Israel in the Occupied Palestinian Territory.” Banning trade with illegal settlements isn’t optional. It’s required by international law.",
+    "Australia says it is genuinely committed to upholding international law while continuing to trade with unlawful settlements that rob Palestinians of their land and livelihoods. Recent reporting suggested that the majority of agricultural shipments coming to Australia marked as “products of Israel” are from illegal settlements.",
+    "It’s past time for Australia to do everything in its power to stop the expansion of settlements, both through a trade ban and targeted sanctions on construction companies engaged in illegal settlement expansion."
+   ],
+   "lede": "Australia announced on November 18 further targeted sanctions on three individuals and four entities involved in illegal settlement expansion and human rights abuses against Palestinians in the West Bank."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXFfUm12TTdxR3FzcXRwLWppcmRpRFlJaWIwd2oxekh5bUhoUFd5ZU9EYko4Wms0UGJweWdPblJQT0RKS001RENZNGxfUGFmVUk2ajdqeG5ZZEU4YkxsMVZIbldsY2o3NTBFbXlqZUNXZDlsRFg5ZnVKNU9MTmZ3OVQ1SkNBdw?oc=5",
+   "title": "A Landmark Genocide Ruling",
+   "source": "The New York Times",
+   "desk": "courts",
+   "published": "2026-11-22T20:35:19+00:00",
+   "seen": "2026-11-23T00:17:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://www.amnesty.org/en/latest/news/2026/11/cop31-resistance-stops-polluters-charter-as-summit-fails-people-and-planet/",
    "title": "COP31: Resistance stops ‘polluters’ charter’ as summit fails people and planet",
@@ -329,6 +361,17 @@
     "That question has become of critical importance especially in light of Gaza; it was practically of much less import in GvM, simply because the vast majority of killings and other violent acts at issue were done against persons already in the power of Myanmar’s military, i.e. not as part of attacks in the course of conduct of hostilities that could even plausibly be justified under the targeting rules of IHL. This is unlike the situation in Gaza, where most deaths were caused precisely by the hostilities. On this question, see further the excellent recent symposium in the JICJ edited by Paola Gaeta and Giulia Pinzauti."
    ],
    "lede": "In the first part of this post, I looked at explicit efforts within the Court in GvM to change its approach when compared to its Bosnia and Croatia cases."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkRVTFJmRWdhV0lwejJ4YkJrNG9hNjRvVlp5aFNEY1RVQVY3UEp4VFo3bnQxdkV6YThpSktFSFNNVl8yNHoxd0Zwc3kydVJvTklNSkZ0d2lIMjRXT0Frdm91T2ZxZVRILTQ0eWFYTGJPTl9XSmZNRTFNQ0tzcVdfM1phdFRXM2ZfNGRkNklhcXVaSFB0MW0zWXNiRkFuald1WE1xaFVSZFRBZVJUa1dxZHZYZ3ZnWFo5UjgzelNhZ2xvczRVNG1tRTRTRUg?oc=5",
+   "title": "Al-Azhar welcomes historic International Court of Justice ruling on genocide against Rohingya Muslims",
+   "source": "Egypt Independent",
+   "desk": "courts",
+   "published": "2026-11-21T12:16:09+00:00",
+   "seen": "2026-11-23T00:17:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMnZjT2F0Q09BNFMzVElTS0JnNzZZd285QThJSTEtT1Q2WXQ1b3g2NkJTdmY1d1Vkb0JYX05iZXF3cDhRWnl2bF9iYmYxZWhzS1JLV1hwbTVBOUFzbXE2aHhKUEhibV9KcFdNMWtEUjRYZjlLMWNHYlBVVWZMdXh2N1VGS0hVZUFCVmxjVWJyS1BSM3drdzVsbWRoZzhmNEhra0RaeDdoRlI3UQ?oc=5",
@@ -1069,6 +1112,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSXlIMHF3MkxOTEZ0NzN0Vzh6RHI2cVBlZ0FTM1RBcVlJWGV0NjFFazgxcDdQRmdJTFRkQWtTWjJDcFdvRTBIQ2R4WWlrZ2RWc0VSRU5TZXFSZHVsMHZ3Si1VWnhsUkZuVWQyQ2N0NE1UT2xycC1yck5aWXNTNFpWdzhYX21yQnh3?oc=5",
+   "title": "Myanmar verdict brings Gaza genocide case into sharper focus",
+   "source": "The Arab Weekly",
+   "desk": "courts",
+   "published": "2026-11-20T10:10:44+00:00",
+   "seen": "2026-11-23T00:17:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://corbeaunews-centrafrique.org/crise-lycee-martyrs-daniel-kolikanga/",
    "title": "Crise au lycée des martyrs, Daniel Kolikanga alias Daniel Nzéwé affirme que le proviseur a péché en appelant la police »",
    "source": "Corbeau News Centrafrique",
@@ -1100,6 +1154,17 @@
    "tags": [
     "car"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSFZGa1ljQlZNNTNJd1dzemZFc2szdmdra09Jb0xxVnZKVm10WDBDdURrSHc1X21ZOEVLZlVlVkxfVVlvNDFNX1BSU1JHOHplQ05vMnlZTnR2UEM1Y3RiYzNEMWRCbHhKRGRpQ0VCcktJT0ZwazRlbE00NkRWdHI4czdrTTNBWXJBbE5JQUprTGxGVjVxS1NnVUlDWmRfT1lyXzR3SllmSXc3eXfSAbABQVVfeXFMTjBIZE50S2p1SWR2cm11QksyZFFEUU1GMFpUWXBsVVNfNlBBeUdOYXpwWE5GRzRHRml6anR6eXRwV3hFeDFoV0xxQmhCOVM2VGdFT0QtY3R3eGg5VU54NHFENi0tdU1vZWp2akZSSW9UMmk5ZVdGUkRTaFdpd1pOdEVwQ2ozWWtCNkhrX0hfZjA5b3FTc2JQQXJTN0FyckpkQTloZVROcjI0RE5BZTdTanU?oc=5",
+   "title": "Türkiye welcomes landmark ICJ ruling on Myanmar's Rohingya genocide",
+   "source": "Daily Sabah",
+   "desk": "courts",
+   "published": "2026-11-20T09:52:00+00:00",
+   "seen": "2026-11-23T00:17:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLXFTTXZPdTZjMzBpMElJVjc2Q21IajRHT3pXMTJSNmUxMkE4VTRPS2hXcC11VmloMU5ybm0zZU9qRXZja1BScXloSktubS0yb2gza0dpTTE0NzdEb01Vc1Z3X0tiRkR5bFNYaTFIUDhlR1FENXRUcFl0b1RFOUJyY2p5RkhUYTlMV2h0Mkg4cUtJSy1teXpPNlRTbmtfUjNYQ0NxeWVjdmV4d3pRdXlNN1pnZkU2OTdFY0lGTzN1SklCUUwtMXQ3eGlzWVlsVHFTYkpWbWN0NU1mS3R3aUE?oc=5",
@@ -1149,6 +1214,17 @@
    "desk": "courts",
    "published": "2026-11-20T08:50:12+00:00",
    "seen": "2026-11-22T18:32:46+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2g5Z3pOWXZjSC0zVlVLN2ZFVHZYZHg5N2dqVGdBZFlmblkwcl9nSFpUQ1ROb0lIeTZPUG5iaGxHRUJSX0lNTG5mdkc0d3N5cV9pb1lQZFhhY1Bnczlfem1yRElXR3g1ajZzeFBabHctXzFZejFiQzF1T0RYRzVMT3U1NjZKYzl5T3AwRVNVOGZHTXdHbXl2eUMwcDVlNXhrVm9sVzVka1diN0xRSVBZMTd5c0RxOFZKX3JlRUhqek9IZ0xlWWR4ZQ?oc=5",
+   "title": "Myanmar's Rohingya win landmark genocide ruling, but return home remains distant",
+   "source": "Reuters",
+   "desk": "courts",
+   "published": "2026-11-20T08:48:00+00:00",
+   "seen": "2026-11-23T00:17:18+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1366,6 +1442,17 @@
    "desk": "courts",
    "published": "2026-11-20T00:35:00+00:00",
    "seen": "2026-11-20T20:10:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk50SVNzcmMyXzVVeUs4cnJTTEQ2Y1N1VVFHTG1MWmJEWTNUX2d0NzRrMXg4dFREc2lfaDdIRWZGODFTZ2RhbEp6SkF4RzBWeXgyOEtXZmhCamh6VmpTSnJ0VXAwYnNtUjJXeDNlam1FaXRXVmVLQXUzUEJ0UEVpZlJxV0VYNHAtbGcwTVpDTmVpTkdRNS05eVVKRk52Z1F1dFVPdWpGemI?oc=5",
+   "title": "Why This Genocide Ruling Matters Way Beyond Myanmar",
+   "source": "Bloomberg.com",
+   "desk": "courts",
+   "published": "2026-11-20T00:03:00+00:00",
+   "seen": "2026-11-23T00:17:18+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1875,6 +1962,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU3hLNHgxMFllS3hZa3NVWGtyZHlFbXY3NHBzdWMxdkVNYW9ZVEF3LW55eDZERW56VEZ1bU10NjEwQlN3UEwtU1hPRDlkXzJOamFRTExEeVVaR2hQVVprQVJYWXV5aXNnbzlNN3Jud21FTmRTZkdpR1FzdWlONW1NdjZKNEZrNzEtNkM5WEJPTkk0MS1ldGItN1pjQ0wxam1nQkVIU0MwZ0duS2hI?oc=5",
+   "title": "Historic UN ruling that Myanmar committed genocide against Rohingya is rare victory for survivors",
+   "source": "Amnesty International Canada",
+   "desk": "courts",
+   "published": "2026-11-19T14:31:45+00:00",
+   "seen": "2026-11-23T00:17:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.justsecurity.org/165102/bukeles-troops-haiti-eroding-rules-based-order/?utm_source=rss&utm_medium=rss&utm_campaign=bukeles-troops-haiti-eroding-rules-based-order",
    "title": "Bukele’s Troops in Haiti: The Frontlines of an Eroding Rules-Based Global Order?",
    "source": "Just Security",
@@ -2015,6 +2113,17 @@
     "Afghanistan fought hardest on issues where its geography hurt it most. From 1958, it pressed the case for the rights of landlocked States. The jurist Abdul Hakim Tabibi carried that argument through the 1958 Geneva conference on the law of the sea and served as vice-chairman of the 1965 New York conference on transit trade. The argument was included in Part X of the 1982 U.N. Convention on the Law of the Sea. As a result, every landlocked country that invokes its right of access to the sea today draws on an argument Afghanistan pioneered. In his last years, Tabibi, once a civil servant of Afghanistan, lived in exile in Geneva, the city where he had won rights for countries like his own. We, too, live in Geneva now, not the first civil servants of Afghanistan to watch from afar as their home country is usurped by an extremist group. We are determined to be among the last."
    ],
    "lede": "The Taliban represents an aberration in Afghanistan's long history of living up to its international obligations."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByRVo2ekNReHRUWkd4Y21rNGpGOXRNaVhNNzFaWEU5U3h6cENvb1VNZ1c3ald4UGpTUzNHNmIwOUJQUG1lcmZTZjNBQ2F3TldVSG5ob1l2Sl9LU0c1Q1hWZWhjUQ?oc=5",
+   "title": "Myanmar Genocide Ruling: ICJ Judgment on Rohingya and What Comes Next",
+   "source": "Diplomacy and Law",
+   "desk": "courts",
+   "published": "2026-11-19T13:39:51+00:00",
+   "seen": "2026-11-23T00:17:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR25JUDV0Z1pPTjdSX3RZaFoxY0EyY0dqZktRSkROdWtMVzhKLXdHS0x4UE84bWIzWnJjc0NabE95cnRoeFg0NFd2R3RQM0ltVWhYQ3NKcFE5alBPR2gzUHNUOWRKb09sS0FlU2VIWHVCRUdOZF85bE5oR0xubUNrVFlPLVkzb2x2VllldHBUU29Wa1FWRWIzWUFTZXg4a1RTTHlsOUNQcXVGUnpUaFl0NEljVUQwZ1B0cjhhY1ZkMzZPc09LOEZfUUJEVGwyS2FUNVE?oc=5",
