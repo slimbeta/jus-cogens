@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:46:58+00:00",
+ "updated": "2026-11-25T22:29:08+00:00",
  "briefing": {
   "headline": "Myanmar, genocide and the ICC",
   "period": "Nov 19–25",
@@ -45,6 +45,142 @@
  },
  "articles": [
   {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHVqWXBJWm1WcmRsN29FSnNJOTJEc0YyT2ZDRy1VSENwSWx2WVQ0bzNDRVBYZ3BhOXFxNXEweXZnSFRwR1lPN2c2Y2lnYlY2ZkZmT1VSYl9raEZrUi0tS09sa0JIZV92dDZFQ0pXR0xGckp0bXlzQzBLSFB4aGwydHRrVHd5b1lPVzlGWi02cG9lTXJhZW41SVd1Q0xPQQ?oc=5",
+   "title": "Proving Genocide: What the ICJ’s Myanmar Ruling Means for Israel",
+   "source": "Arab Center Washington DC",
+   "desk": "courts",
+   "published": "2026-11-25T20:50:37+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://lieber.westpoint.edu/protecting-powers-failure-function/",
+   "title": "GC IV Commentary Series – Protecting Powers: From Failure to Function",
+   "source": "Articles of War",
+   "desk": "analysis",
+   "published": "2026-11-25T18:18:20+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "cats": [
+    "AoW Posts",
+    "Blog",
+    "GC IV Commentary Series",
+    "Law of Armed Conflict",
+    "commentary",
+    "GC IV",
+    "geneva conventions",
+    "ICRC"
+   ],
+   "byline": "Lieber Institute",
+   "description": "The evolution of the protecting power system since 1949 highlights a tension between humanitarian considerations and State sovereignty.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/11/261115-A-WY430-9277.jpg",
+   "paragraphs": [
+    "Editors’ note: The following series considers ICRC’s 2025 updated Commentary on the Fourth Geneva Convention. Rosa-Lena Lauterbach, Liisi Adamson, and Sean Watts’s introduction to the series is available here.",
+    "The optimism of Dr. Jean Pictet’s original Commentary on the Fourth Geneva Convention (1958 Commentary) concerning Article 9 of that Convention is impossible to ignore. Based on their shared experiences of recent armed conflicts, States made the protecting power system the central mechanism for ensuring that the parties to an international armed conflict complied with their humanitarian obligations towards persons protected by the 1949 Geneva Conventions. In so doing the Diplomatic Conference had successfully reconciled claims of national sovereignty with humanitarian considerations and made a “huge advance” in the development of international humanitarian law (p. 91).",
+    "However, States’ practice since 1958 undermines the optimism of the 1958 Commentary. Instead of States embracing a system of compulsory supervision, the appointment by a State of a protecting power has been the rarest exception rather than the rule. This has led one commentator to question whether “the protecting powers regime has proved perhaps the signal failure of the 1949 Conventions”?",
+    "It is against this backdrop that readers must assess the 2025 Commentary on the Fourth Geneva Convention (2025 Commentary ). The product of extensive collaboration and consultation over several years, the key challenge for the 2025 Commentary in respect of the protecting power system has been to examine State practice since the adoption of the Geneva Conventions and make sense of why it did not develop as its proponents expected. It addresses this development in two insightful ways. First, it develops the notion that a protecting power may operate under a dual mandate of diplomatic law (a “Vienna mandate”) and international humanitarian law (a “Geneva Mandate”) (2025 Commentary, para. 1260 ). Second, rather than avoiding the challenge, the 2025 Commentary directly acknowledges that States have chosen to interpret the ostensible requirement to appoint a protecting power as optional rather than mandatory ( para. 1238 ). Stressing the imperative of a functional approach, the 2025 Commentary consequently emphasises that a failure to appoint a protecting power does not relieve the parties to an international armed conflict of the requirement to facilitate the supervision of their compliance with the applicable provisions of Geneva Convention IV (GC IV) (para. 1340 ).",
+    "Before turning to consider these factors in more detail, it is first necessary to briefly chart the development of the protecting powers system.",
+    "The protecting power system is rooted in diplomatic practice. States have routinely exercised the right of legation since at least the seventeenth century, even though there is no international legal obligation to do so (see, e.g., Satow, p. 175-80). In exercise of that right, it has become commonplace for a State to send diplomatic agents, and in some cases establish permanent missions or embassies, for the purpose of protecting its own national interests in another State."
+   ],
+   "lede": "The evolution of the protecting power system since 1949 highlights a tension between humanitarian considerations and State sovereignty."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42U3dQeWlOTjRsNmE0Rm5XODlOazhVYzFDaWxzVTdkMm0wRmM2T0lfYjMtTHd4MFZYbXptaTM0ajZSbHpnRm45dE1rMmNDQTlEQUo0RzdPNWhmYmNUazR6Sjc4X0RMSm5qc3BOZWtHUHNUSU5NUzdURA?oc=5",
+   "title": "Why Accountability Cannot Depend on Political Power",
+   "source": "Foreign Policy in Focus",
+   "desk": "courts",
+   "published": "2026-11-25T17:48:41+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.fidh.org/en/issues/human-rights-defenders/israel-occupied-palestinian-territory-travel-ban-imposed-on-shawan",
+   "title": "Israel / Occupied Palestinian Territory: Travel ban imposed on Shawan Jabarin, General Director of Al-Haq",
+   "source": "FIDH",
+   "desk": "rights",
+   "published": "2026-11-25T16:29:17+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "description": "ISR 002 / 1126 / OBS 059 Travel ban / Administrative harassment / Restrictions on freedom of movement Israel / Occupied Palestinian Territory 25 (…)",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.fidh.org/local/cache-vignettes/L1280xH457/shawan_jabarin_c_al-haq-a4d53.jpg?1795624096",
+   "paragraphs": [
+    "The Observatory for the Protection of Human Rights Defenders, a partnership of the International Federation for Human Rights (FIDH) and the World Organisation Against Torture (OMCT), requests your urgent intervention in the following situation in Israel / Occupied Palestinian Territory.",
+    "The Observatory has been informed about the imposition of a travel ban on Mr Shawan Jabarin, General Director of the Palestinian human rights organisation Al-Haq and former Secretary General of FIDH.",
+    "On 13 November 2026, Israeli forces kept Mr Shawan Jabarin’s passport at the Allenby (Al-Karameh) Bridge, preventing him from leaving the Occupied Palestinian Territory to travel to Jordan. He was made to wait for approximately three hours at the border crossing. During this time, he was questioned about the purpose of his journey before being informed that he was subject to a travel ban. His passport was subsequently returned to him that same day and no explanation or legal grounds for the decision were provided to him.",
+    "The Observatory recalls that this is not the first time that Mr Jabarin has been subjected to travel restrictions in connection with his work as General Director of Al-Haq. In 2006, the Israeli authorities imposed a travel ban on him based on secret evidence, preventing him from carrying out his advocacy activities abroad. In 2009, the Israeli Supreme Court also denied him permission to travel to the Netherlands to receive the Geuzenpenning Prize on behalf of Al-Haq. The ban remained in force for six years, until it was temporarily lifted in 2012, subject to conditions.",
+    "Mr Jabarin has also faced threats in connection with his human rights activities. In August 2022, he received a threatening telephone call from the Israeli security service Shin Bet, warning him of possible arrest, imprisonment and other personal consequences if he continued his advocacy work and that of Al-Haq. In 2016, he had also received death threats from an anonymous caller, in the context of Al-Haq’s advocacy efforts to seek accountability for alleged war crimes committed in Palestine before the International Criminal Court (ICC).",
+    "The Observatory is concerned that this arbitrary travel ban constitutes an act of retaliation against Mr Jabarin for his legitimate human rights work and forms part of a broader pattern of restrictions and intimidation targeting Palestinian human rights defenders and civil society organisations. The latest travel ban must also be viewed against the backdrop of increasing pressure on Palestinian human rights organisations. In September 2025, the United States imposed sanctions on Al-Haq, the Palestinian Centre for Human Rights and the Al Mezan Center for Human Rights, citing their cooperation with the ICC. These sanctions have severely endangered the organisations’ operations, including by restricting their access to funding and undermining their ability to document violations."
+   ],
+   "lede": "ISR 002 / 1126 / OBS 059 Travel ban / Administrative harassment / Restrictions on freedom of movement Israel / Occupied Palestinian Territory 25 (…)"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWU42VkhYNDUtMXZyV2Y2dUNFdW1iamRTM3NJcHlJX3pVc1JBc0lBTUR6M3JRZ2Z1YXgyTjkzN1BxSWtfWk8zY3NJQVQ3aDBtcExsWGNxbktQZXoxSk5BVi1tQ3RscWl1TDlWSGxR?oc=5",
+   "title": "Atrocity Alert No. 504: Myanmar (Burma), South Sudan and Mali",
+   "source": "Global Centre for the Responsibility to Protect",
+   "desk": "courts",
+   "published": "2026-11-25T15:59:59+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.fidh.org/fr/themes/entreprises-droits-humains-et-environnement/responsabilite-des-entreprises/transposition-du-devoir-de-vigilance-europeen-la-loi-francaise-ne-peut-pas-reculer",
+   "title": "Transposition du devoir de vigilance européen: la loi française ne peut pas reculer",
+   "source": "FIDH",
+   "desk": "rights",
+   "published": "2026-11-25T15:46:46+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "description": "En février 2026, l’Union européenne a adopté un paquet législatif dit “Omnibus I” modifiant la directive européenne sur le devoir de vigilance des (…)",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.fidh.org/local/cache-vignettes/L1280xH457/zerotwozero___wikimedia_common-95ca6.jpg?1795621563",
+   "paragraphs": [
+    "En février 2026, l’Union européenne a adopté un paquet législatif dit “Omnibus I” modifiant la directive européenne sur le devoir de vigilance des entreprises (CSDDD). Alors que la France doit la transposer d’ici juillet 2028, les associations membres du Forum citoyen pour la justice économique ont demandé à Sophie Robin-Olivier, professeure à l’École de droit de l’université Paris 1 Panthéon-Sorbonne, d’analyser ce que cette directive impose au législateur français.",
+    "Paris, 25 novembre 2026. Cette directive, adoptée en 2024 et visant à protéger les droits humains et l’environnement des dommages causés par les entreprises, n’a pas encore fait l’objet d’une transposition en droit français. De ce fait, en la matière, c’est la loi du 27 mars 2017 relative au devoir de vigilance des sociétés mères et des entreprises donneuses d’ordre qui s’applique en France.",
+    "Les conclusions de Pr. Robin-Olivier sont claires: la transposition ne peut pas servir de motif pour réduire la protection des droits humains, des droits sociaux, de l’environnement et du climat assurée par la loi de 2017 et sa jurisprudence, y compris sur des points couverts par l’harmonisation complète. Partout où le droit français est plus protecteur, il doit être préservé.",
+    "La transposition ne peut pas justifier une réduction du niveau de protection garanti par le droit national en matière de droits humains, droits du travail, droits sociaux, protection de l’environnement et du climat.",
+    "Contrairement à d’autres directives, le texte ne se réfère pas à un niveau de protection « général ». Toute réduction est donc interdite, même modeste ou compensée ailleurs.",
+    "Le niveau de protection s’apprécie au regard de la loi et de la jurisprudence qui en a précisé la portée (par ex. décisions rendues dans l’affaire La Poste).",
+    "L’Omnibus I a introduit la possibilité d’ « adapter » le devoir de vigilance existant pour l’« aligner » sur la CSDDD. Mais « aligner » ne signifie pas « reculer ».",
+    "L’alignement permet seulement de modifier des dispositions qui n’améliorent pas la protection des droits humains et de l’environnement et tiennent uniquement à des modalités différentes selon les États (ex. critères de seuils; remplacement de la « relation commerciale établie » par la notion européenne de « partenaire commercial »).",
+    "L’harmonisation complète prévue par la directive pour certaines de ses dispositions s’applique « sans préjudice » de la non-régression et ne s’impose donc que si elle n’entraîne pas de régression.",
+    "La CSDDD interdit seulement aux États d’« introduire » des dispositions divergentes, et non de les « maintenir »."
+   ],
+   "lede": "En février 2026, l’Union européenne a adopté un paquet législatif dit “Omnibus I” modifiant la directive européenne sur le devoir de vigilance des (…)"
+  },
+  {
+   "url": "https://oubanguimedias.com/2026/11/25/centrafrique-cloture-du-projet-fonds-equipe-france-en-faveur-des-personnes-detenues/",
+   "title": "Centrafrique: clôture du projet « Fonds Équipe France » en faveur des personnes détenues",
+   "source": "Oubangui Médias",
+   "desk": "car",
+   "published": "2026-11-25T15:17:19+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "cats": [
+    "Justice",
+    "Société",
+    "Bangui",
+    "Centrafrique",
+    "France en Centrafrique",
+    "RCA"
+   ],
+   "lang": "fr",
+   "description": "L’ambassade de France en Centrafrique a organisé lundi 23 novembre 2026 à la maison d’arrêt pour femmes de Bimbo, la cérémonie officielle marquant la clôture du projet « Fonds Équipe France ». Un projet qui avait pour objectif de soutenir les personnes placées en détention provisoire dans certaines prisons du pays, afin de faciliter l’aboutissement…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://oubanguimedias.com/wp-content/uploads/2026/11/Cloture-du-projet-Fonds-Equipe-France-.-Photo-Caleb-Zimango.jpg",
+   "lede": "L’ambassade de France en Centrafrique a organisé lundi 23 novembre 2026 à la maison d’arrêt pour femmes de Bimbo, la cérémonie officielle marquant la clôture du projet « Fonds Équipe France ».",
+   "tags": [
+    "car"
+   ]
+  },
+  {
    "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression",
    "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
    "source": "Human Rights Watch",
@@ -68,6 +204,263 @@
     "Between April and May 2026, the authorities barred Wang Fuk Court residents from displaying banners from their homes or being accompanied by journalists as they were briefly permitted to return to their apartments to retrieve belongings."
    ],
    "lede": "The Hong Kong government should ensure meaningful accountability for the devastating fire that killed 168 people one year ago and end its suppression of peaceful criticism."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05YzVBUnhVaFpuR1RObXhkb25UUkVUREVUQUV1LXNYV1JOVklUaUdYbXkzeEt1NXJPMlM3T2FURGNxZ1RyTV90UVQwNTg3N2FCOXB4RUluaG1fUjU4NVAyRlcxQ0ZFWmp4NGl4U2g4MjNzSmJfZjNtemo4VQ?oc=5",
+   "title": "The World Must Act to Deliver on the “World Court’s” Rohingya Ruling",
+   "source": "Just Security",
+   "desk": "courts",
+   "published": "2026-11-25T14:47:32+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.justsecurity.org/162181/puppet-sovereigns-and-occupation-by-proxy/?utm_source=rss&utm_medium=rss&utm_campaign=puppet-sovereigns-and-occupation-by-proxy",
+   "title": "Puppet Sovereigns and Occupation by Proxy",
+   "source": "Just Security",
+   "desk": "analysis",
+   "published": "2026-11-25T14:29:19+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "cats": [
+    "Armed Conflict",
+    "International and Foreign",
+    "International Law",
+    "Law of Armed Conflict/IHL",
+    "Military",
+    "Russia-Ukraine",
+    "Use of Force",
+    "Armed Conflicts"
+   ],
+   "description": "Experts examine whether proxy occupation can occur through a foreign power exerting control over a previously legitimate local government.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.justsecurity.org/wp-content/uploads/2026/10/GettyImages-2293241878.jpg",
+   "paragraphs": [
+    "Recent information has come to light about the extent of the United States’ control over the Venezuelan government. Public finances and revenues, exploitation of natural resources, law-enforcement operations, government appointments and foreign policy, even public statements by high-ranking officials: all allegedly subject to the approval, supervision, instruction, or close coordination from Washington. The details suggest that U.S. authority has severely curtailed Venezuela’s ability to exercise its own sovereign powers. According to reporting, U.S. officials have set conditions on what and by whom public revenues can be spent, weighed in on who would become the new defense minister, and encouraged the purging of perceived opposition from government ranks. In a recent development, the United States announced it was taking direct control of a substantial fraction of Venezuela’s proven oil reserves.",
+    "Following the U.S. capture of Venezuelan leader Nicolás Maduro via military intervention in January 2026, subsequent intentions were unambivalent: “ run” Venezuela until “a safe, proper and judicious [power] transition,” combined with open threats that interim leader Delcy Rodríguez would pay a price “bigger than Maduro” unless she did “what’s right.” The desired effect followed immediately: a compliant Venezuelan government, repeatedly praised by Donald Trump as a model to follow. While Delcy Rodríguez has vocally chastised the notion of U.S. control, her government’s actions have been remarkably supportive of American policy goals.",
+    "Venezuela is far from the only state in the U.S. expansionist orbit; following the Venezuelan action, the U.S. threatened Cuba with a “ friendly takeover” and launched a months-long military campaign against Iran, initially expressing its aim to topple the current regime and be directly “ involved” in the selection of new leadership. Preceding all these events, the U.S. administration repeatedly mused about taking over Greenland, Canada, the Panama Canal, and threatened military operations against Colombia.",
+    "Neither is the United States unique in its intentions. When Russia commenced its full-scale invasion of Ukraine over four years ago, misguidedly intent on finishing it within a few days, Vladimir Putin protested that it was not Russia’s “plan to occupy the Ukrainian territory.” The plan seemed rather to swiftly behead Ukraine’s political leadership by ousting or killing President Volodymyr Zelenskyy and install a pro-Russian puppet figure.",
+    "Using targeted armed force to ensure favorable regime change is far from a novel tactic. Yet, beyond observations on how such neocolonial practices violate sovereignty lies an uncharted legal issue. Typically, we tend to think of proxy occupation under international humanitarian law (IHL) as involving a foreign power exercising authority and control through a non-state actor (think, e.g., of Serbia’s occupation of Bosnia through ethnic Serb armed groups in the 1990s). But is it possible that proxy occupation may occur through a foreign power exerting control over a previously legitimate local government? Not insurgents capturing a chunk of sovereign land, nor rebels orchestrating a coup upon foreign instructions, but yesterday’s government turned into a foreign agent?"
+   ],
+   "lede": "Experts examine whether proxy occupation can occur through a foreign power exerting control over a previously legitimate local government."
+  },
+  {
+   "url": "https://www.justsecurity.org/165883/gambia-v-myanmar-statelessness-genocide-citizenship/?utm_source=rss&utm_medium=rss&utm_campaign=gambia-v-myanmar-statelessness-genocide-citizenship",
+   "title": "In The Gambia v. Myanmar, the ICJ Links Statelessness to Genocide – But Stops Short of Requiring Citizenship for all Members of the Rohingya Group",
+   "source": "Just Security",
+   "desk": "analysis",
+   "published": "2026-11-25T14:14:25+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "cats": [
+    "Atrocities",
+    "International and Foreign",
+    "International Criminal Law",
+    "International Justice",
+    "International Law",
+    "Burma/Myanmar",
+    "Gambia v. Myanmar",
+    "genocide"
+   ],
+   "description": "The ruling marks the first time the International Court of Justice has opined on the rights of stateless persons.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.justsecurity.org/wp-content/uploads/2026/11/GettyImages-2305292287.jpg",
+   "paragraphs": [
+    "On Nov. 19, the International Court of Justice (ICJ) issued its decision in The Gambia v. Myanmar. For the first time since the 1948 Genocide Convention was adopted, a court found that a State was directly responsible for committing genocide.",
+    "The decision is also historic as it is the first time the ICJ has opined on the rights of stateless persons. Never before has an international court recognized that the discriminatory denial of citizenship and denationalization of a group can be a relevant factor in inferring genocidal intent. This is important as there are historic and contemporary connections between statelessness and genocide that should be recognized in order to further the goals of atrocity prevention. While the judgment is groundbreaking in this respect, as noted in the Joint Declaration of Judge Leonardo Brant and Judge ad hoc Navi Pillay, the Court could have gone further in highlighting the connection between statelessness and genocide and in considering what remedies are available to the Rohingya to ensure equal access to citizenship in Myanmar.",
+    "The case was brought by The Gambia following violent actions by Myanmar against the Rohingya, a Muslim minority group primarily residing in Rakhine State. But these actions did not occur in a vacuum. The Rohingya had been subject to decades of discrimination and violence, culminating in the “clearance operations” in 2016-2017 in which hundreds of thousands were displaced, and thousands were killed or endured sexual and gender-based violence, including mass and gang rape.",
+    "The Rohingya are one of the largest stateless populations in the world. While they had resided in Myanmar for generations, the Rohingya lost their right to citizenship following the passage of the 1982 Citizenship Law, which created three types of citizenship and excluded those who were not among the “national races.” As discussed by the Court in its judgment (paras. 138-139), those who might have qualified for citizenship under the new law were generally prevented from acquiring it through complex verification procedures that were discriminatorily applied against the Rohingya. The Rohingya were issued identity cards and then subsequently pressured to accept National Verification Cards, which identified the Rohingya as non-citizens. While some refused to accept them, without the National Verification Cards, the Rohingya could not access many of their basic rights.",
+    "In presenting its case against Myanmar, The Gambia argued that the discriminatory laws and policies implemented by Myanmar were evidence of genocidal intent. This included Myanmar’s discriminatory denial of nationality as a means through which to deprive the Rohingya of their fundamental rights. In its written and oral pleadings, The Gambia detailed how the Rohingya had been stripped of citizenship through the passage of the 1982 Citizenship Law and prevented from accessing their rights to citizenship through the discriminatory implementation of this law. It argued how this, as a part of systemic discrimination, was designed to facilitate the Rohingya’s destruction as a group. The Gambia also situated these facts in the context of history. It highlighted how the Nuremberg Tribunal had previously found that stripping Jews of “their rights of citizenship” had “paved the way for the ‘final solution.’” As The Gambia stated during the hearing on the merits, “So too here: Myanmar’s discriminatory policies paved the way for the genocidal ‘clearance operations.’”"
+   ],
+   "lede": "The ruling marks the first time the International Court of Justice has opined on the rights of stateless persons."
+  },
+  {
+   "url": "https://www.ejiltalk.org/in-this-issue-28/",
+   "title": "In This Issue",
+   "source": "EJIL:Talk!",
+   "desk": "analysis",
+   "published": "2026-11-25T14:00:42+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "cats": [
+    "Editorials",
+    "EJIL",
+    "editorial"
+   ],
+   "description": "Opening the Articles section, Jaye Ellis argues that civil liability law has been overlooked as an important element of holding international corporations to account. For Ellis, the reasonable pers…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.ejiltalk.org/wp-content/uploads/2025/09/EJIL-Cover-scaled.png",
+   "paragraphs": [
+    "Opening the Articles section, Jaye Ellis argues that civil liability law has been overlooked as an important element of holding international corporations to account. For Ellis, the reasonable person standard can bridge different normative orders and overcome common obstacles faced by plaintiffs. In the next article, Thomas Spijkerboer shows the split legality of migration law in Europe, which simultaneously facilitates free movement for Europeans in settler colonies while restricting non-Europeans’ entry into Europe. Spijkerboer argues that this differentiation along racial, class and gender lines is an intentional feature of EU migration law. Continuing the focus on the international movement of persons, Christel Querton proposes the recognition of forced marriage into armed groups as a separate category of asylum claims. Querton makes the case for conceiving of forced marriage as forced recruitment with strategic and political implications in armed conflict and not simply a private concern. Closing the Articles section, Xueji Su asks what happens to investment contracts that violate mandatory municipal law norms. Su critiques arbitral tribunals’ use of equity as a way to sidestep questions of conformity with mandatory domestic rules.",
+    "In the Critical Review of Governance rubric, Ramona Vijeyarasa shows how the international regulation of parental leave reproduces gender inequalities that typecast women as the primary caregivers. Kubo Mačák probes the legal status and significance of national positions on the applicability of international law to cyber activities. For Mačák, these statements embody a new genre of legal instruments that may inform treaty interpretation and the identification of customary international law, but he encourages states to clarify their normative value.",
+    "Our Roaming Charges section features a photograph entitled ‘Street Wisdom’. We see a view of the busy road leading up to the classical colonnade of New York City Public Library but taken from a low angle of a bronze plaque set into the pavement with words by Virginia Woolf encouraging people to be honest about themselves before speaking about others.",
+    "The Last Page poem is by an Australian poet, Jonathan Shaw. The lines of the poem are largely taken verbatim from a land lease document held in the Queensland State Archives in Australia, but readers will quickly note that it tells a very different story from the official one."
+   ],
+   "lede": "Opening the Articles section, Jaye Ellis argues that civil liability law has been overlooked as an important element of holding international corporations to account."
+  },
+  {
+   "url": "https://www.justsecurity.org/163241/insurrection-act-broadest-trigger-read-narrowly/?utm_source=rss&utm_medium=rss&utm_campaign=insurrection-act-broadest-trigger-read-narrowly",
+   "title": "Why the Insurrection Act’s Broadest Trigger Should Be Read Narrowly",
+   "source": "Just Security",
+   "desk": "analysis",
+   "published": "2026-11-25T13:49:03+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "cats": [
+    "Congress",
+    "Courts & Litigation",
+    "Democracy & Rule of Law",
+    "Executive Branch",
+    "Featured Articles",
+    "Law Enforcement",
+    "Military",
+    "Rule of Law"
+   ],
+   "description": "A look at the Insurrection Act's drafting history suggests that the law places substantial limits on presidential authority.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.justsecurity.org/wp-content/uploads/2026/11/GettyImages-2286853764.jpg",
+   "paragraphs": [
+    "The Insurrection Act is the most powerful statute that sets the conditions, or “triggers,” for when a president may deploy the military domestically, including for law enforcement. The conventional wisdom is that these triggers are so broad as to be almost meaningless. In the words of Bob Bauer and Jack Goldsmith, “The Act has extremely broad and vaguely worded triggers for its use and thus affords a president the widest conceivable discretion.” General Mark Milley, then-chairman of the Joint Chiefs of Staff, put it even more bluntly in testimony to the January 6th Commission: “There’s no law that says the military is the last resort.... You go back to the Insurrection Act. All the President has to do is walk outside the White House and yell three times,... ‘Insurrectionists, disperse.’”",
+    "We disagree. The Insurrection Act has four triggers, but three contain language that clearly places significant limits on their use. The exception is 10 U.S.C. § 253(2). It permits domestic deployment whenever “domestic violence” or even a “conspiracy... opposes or obstructs the execution of the laws … .” Here, the language is truly broad.",
+    "Nonetheless, basic tools of statutory interpretation counsel reading this provision, what we call the “obstruction” trigger, narrowly. To understand why, bear in mind one important fact: Congress enacted the original versions of the obstruction trigger [now § 253(2)] together with what we call the “equal protection trigger” [now (§ 253(1)] at the same time in the same section of the same statute. Thus, the triggers must be read together. When read together, they suggest a narrow reading of the obstruction trigger as limited to interference with judicial processes.",
+    "The problem with an expansive reading of section 253(2) is that it would render Section 253(1) superfluous. This incongruity should puzzle a reader and invite an inquiry as to how to read both parts of section 253 coherently. Our research has led us to the following explanation: the broad wording of section 253(2) was a drafting error. We suggest an alternative and narrower reading of the obstruction trigger, one that is more consistent with the drafting and legislative history. We further suggest a likely reason Congress failed to notice the mistake: the language was introduced late in the debate and was overshadowed by other controversial proposals introduced shortly afterward.",
+    "On their face, the statutory provisions that are now codified together in what is commonly referred to as the “Insurrection Act” use broad terms that might be read to provide presidents the limitless discretion that the conventional interpretation suggests. But a more careful and in-depth reading of all the relevant provisions suggests that each trigger has a specific and narrow ambit. The Insurrection Act has four triggers: (1) when there is an insurrection against a state government (10 U.S.C. § 251); (2) when laws become “impracticable” to enforce in the “ordinary course” of judicial proceedings (10 U.S.C. § 252); (3) when laws are “hinder[ed]” to the point that the hindrance amounts to a state government denial of equal protection, what we call the “equal protection trigger” (10 U.S.C. § 253(1)); and (4) when the execution of the laws is opposed or obstructed, what we call the “obstruction trigger” (10 U.S.C. § 253(2))."
+   ],
+   "lede": "A look at the Insurrection Act's drafting history suggests that the law places substantial limits on presidential authority."
+  },
+  {
+   "url": "https://lieber.westpoint.edu/post-myanmar-split-blade-loac-natos-article-632-exposure/",
+   "title": "The Post-Myanmar Split Blade: LOAC and NATO’s Article 63(2) Exposure",
+   "source": "Articles of War",
+   "desk": "analysis",
+   "published": "2026-11-25T13:15:02+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "cats": [
+    "AoW Posts",
+    "Blog",
+    "featured post",
+    "Law of Armed Conflict",
+    "State Responsibility",
+    "ARSIWA",
+    "civilian",
+    "combatant"
+   ],
+   "byline": "Lieber Institute",
+   "description": "On November 19, 2026, the ICJ held a State responsible for committing genocide for the first time in The Gambia v. Myanmar.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/11/Aerial_view_of_a_burned_Rohingya_village_in_Rakhine_state_Myanmar_-_September_2017.jpeg",
+   "paragraphs": [
+    "On November 19, 2026, splitting nine votes to six and 81 years to the week after the Nuremberg Trial opened on November 20, 1945, the International Court of Justice (ICJ) held a State responsible for committing genocide for the first time in The Gambia v. Myanmar (para. 646(1)). Although Naypyidaw will defy the judgment behind a Chinese Security Council veto, military legal advisers across allied capitals should resist treating this ruling as a distant human-rights milestone about Rakhine State. Eight NATO allies (Belgium, Canada, Denmark, France, Germany, the Netherlands, Slovenia, and the United Kingdom), alongside Ireland, face an immediate operational consequence. By intervening under Article 63 of the ICJ Statute, they bound themselves to the Court’s construction of the 1948 Genocide Convention, while the United States remained outside the proceedings behind its 1988 Article IX reservation and armed-conflict understandings.",
+    "For coalition commanders and defense-ministry lawyers, The Gambia v. Myanmar delivers a split operational rulebook. On one edge, the majority expanded exposure across targeting, collateral harm, and third-State security assistance, locking six Western intervenors into those standards through judicial estoppel created by their own July 2024 pleading. On the other edge, the Court preserved three concrete operational shields that disciplined armed forces can actively document and defend. Every combined operation involving U.S. and European forces now runs across an asymmetric Genocide Convention line.",
+    "Early commentary on EJIL: Talk!, Just Security, and Opinio Juris has focused on whether the nine-judge majority altered the definition of genocidal specific intent ( dolus specialis) or relaxed its factual evaluation of UN investigative reports (see also the author’s initial November 20 overview of the judgment’s evidentiary framework). Extending that debate to coalition operations, two sharper doctrinal moves inside the judgment, paired with the Court’s 2024 intervention order and the United States’ 1988 treaty understandings, directly alter how armed conflict is litigated before international and domestic courts.",
+    "First, the Court resolved the relationship between the law of armed conflict (LOAC) and genocide without ambiguity. In paragraph 305, the majority held that although compliance with international humanitarian law (IHL) “may inform the identification of intent with respect to the actus reus of genocide, as well as genocidal intent, such compliance does not exclude conduct from the scope of the Genocide Convention.” As Kevin Jon Heller and Judge ad hoc Claus Kress rightly note, a narrow hypothetical justifies that rule in principle. A State that has already formed an independent genocidal plan cannot launder extermination merely because the targeted group takes up arms and its fighters become lawful military objectives under IHL. Yet paragraph 305 carries a much wider operational bite once read alongside the majority’s second move."
+   ],
+   "lede": "On November 19, 2026, the ICJ held a State responsible for committing genocide for the first time in The Gambia v."
+  },
+  {
+   "url": "https://www.amnesty.org/en/latest/news/2026/11/i-have-never-gotten-used-to-the-news-duaa-dhainys-campaigning-to-halt-saudi-arabias-executions-and-save-lives/",
+   "title": "“I have never gotten used to the news”: Duaa Dhainy’s campaigning to halt Saudi Arabia’s executions and save lives",
+   "source": "Amnesty International",
+   "desk": "rights",
+   "published": "2026-11-25T13:03:16+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "description": "After more than 10 years, I have never gotten used to the news. I understand more of the impact it leaves, and what we risk losing if we stop our fight.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.amnesty.org/en/wp-content/uploads/2026/11/315413-scaled.jpg",
+   "paragraphs": [
+    "Over time, I realized that what I had first heard was only a fraction of what we would discover.",
+    "In January 2016, Saudi Arabia executed Sheikh Nimr al-Nimr, who had spoken openly and forcefully for human rights and social justice. I knew he had been sentenced to death. We followed his trial almost daily. Still, I did not expect the sentence to be carried out. I thought political intervention, or fear of a backlash, would prevent it.",
+    "When the news came, I could not take it in. Did they really kill him? Why did they go ahead despite the appeals? What did it mean for everything we were doing?",
+    "I had no clear answers. As the years passed, the questions multiplied and changed how I understood my work.",
+    "We began documenting other cases, including people facing execution for acts they were accused of committing as children. We read court documents, followed violations and spoke to families. Each time, the question returned: would this case really end in execution? I still believed that an intervention or a review might prevent it.",
+    "In April 2019, Saudi Arabia carried out a mass execution that included people whose families I had been in contact with. Some had faced protest-related charges. Others had been children at the time of their alleged offences.",
+    "I remember the families’ disbelief. They tried to confirm the news and asked about the bodies. It was as though they were saying: if the authorities really killed them, where were the bodies? They wanted to bring them home.",
+    "At first, I struggled to understand their uncertainty after the executions had been announced. Then I remembered my own reaction to Sheikh Nimr’s execution. Knowing that a death sentence existed did not prepare me to believe that it had been carried out.",
+    "As the executions continued, I began to understand their deep-reaching effects on society. Families were left with grief, unanswered questions and the wait for a body that never came home. Fear gripped anyone who considered speaking out, demanding a right or asking about a detained relative.",
+    "Among the stories that have stayed with me is that of Hussein Abu al-Khair, a Jordanian national. His family was one of the first I contacted. I spoke at length with his sister and came to know his family and their modest home. I learned how the stigma surrounding drug charges placed another burden on a family trying to save his life. We examined his court documents and found indications that his right to a fair trial had been violated."
+   ],
+   "lede": "After more than 10 years, I have never gotten used to the news. I understand more of the impact it leaves, and what we risk losing if we stop our fight."
+  },
+  {
+   "url": "https://opiniojuris.org/2026/11/25/the-gambia-v-myanmar-and-the-duty-to-prevent-genocide/",
+   "title": "The Gambia v. Myanmar and the Duty to Prevent Genocide",
+   "source": "Opinio Juris",
+   "desk": "analysis",
+   "published": "2026-11-25T13:00:00+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "cats": [
+    "Featured",
+    "General",
+    "Public International Law",
+    "due diligence standard",
+    "Genocide Convention",
+    "International Court of Justice",
+    "Myanmar",
+    "The Gambia"
+   ],
+   "description": "[Jinan Bastaki is Associate Professor of Legal Studies at New York University, Abu Dhabi and a contributing editor at Opinio Juris.] The International Court of Justice’s recent judgment in The Gamb…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/Myanmar-soldier.jpeg?fit=1200%2C900&ssl=1",
+   "paragraphs": [
+    "[ Jinan Bastaki is Associate Professor of Legal Studies at New York University, Abu Dhabi and a contributing editor at Opinio Juris.]",
+    "The International Court of Justice’s recent judgment in The Gambia v. Myanmar (19 November 2026) provides an important clarification of the obligations of States under the Genocide Convention, particularly the obligation to prevent genocide. In the earlier 2007 Bosnia v. Serbia case, the Court explained that the obligation to prevent genocide is triggered by the existence of a serious risk ( Bosnia v. Serbia, para. 432). That said, the Court also stated that “if neither genocide nor any of the other acts listed in Article III of the Convention are ultimately carried out, then a State that omitted to act when it could have done so cannot be held responsible a posteriori” (para. 431). Hence, the Court stuck to Serbia’s responsibility under the Convention in relation to Srebrenica, since the ICTY had already found that genocide had been committed. This creates somewhat of a contradiction: the purpose of the obligation to prevent is to ensure, as far as possible, that a genocide does not take place, but in order ascertain whether a state has abided by that obligation, there must have been a determination that genocide has occurred.",
+    "The ICJ resolved this contradiction in The Gambia v. Myanmar. The Court re-affirmed that that the trigger for the obligation to prevent was the existence of a serious risk, and it also added that it is the serious risk itself and not a definitive judicial determination that genocide has occurred that was the source of the obligation. An obligation whose purpose is prevention cannot reasonably be understood to arise only after the crime it is intended to prevent has been judicially established. As the DRC stated, and was quoted by the Court in its judgment, “Conditioning the breach of the obligation to prevent on the prior establishment of a violation of Article III would likely lead to results that are manifestly absurd and unreasonable, and be contrary to the object and purpose of the Convention.” (The Gambia v. Myanmar, para. 475, emphasis added). The Court itself then emphasized that a state should not be allowed to “remain idle and gamble” (para. 487).",
+    "This matters particularly for States that continue to justify their conduct (or their inaction) on the basis that no international court has definitively found Israel to have committed genocide. The Genocide Convention does not permit States to treat the absence of a final judgment as a reason to remain passive or just do the bare minimum (e.g. the way certain states suspended some weapons licenses), since the duty to prevent is much more comprehensive than the duty not to be complicit. This finding is also relevant to the ongoing proceedings in Nicaragua v. Germany, where Nicaragua alleges, inter alia, that Germany has failed to fulfil its obligations under the Genocide Convention through its military and other forms of assistance to Israel."
+   ],
+   "lede": "The International Court of Justice’s recent judgment in The Gambia v. Myanmar (19 November 2026) provides an important clarification of the obligations of States under the Genocide Convention, particularly the obligation to prevent genocide."
+  },
+  {
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168876",
+   "title": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
+   "source": "UN News",
+   "desk": "rights",
+   "published": "2026-11-25T12:00:00+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "description": "Two years after the Mazan rape trial, David Pelicot has decided to put his name to the fight against sexual violence – and to confront what he calls the silence of men.",
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/24-11-2026-UN-David-Pelicot.jpg/image560x340cropped.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "During the four months of hearings, letters and flowers arrived by the dozen from around the world. It was an extraordinary wave of solidarity, sparked by his mother Gisèle’s courage. But something began to trouble Mr. Pelicot: almost all of it came from women.",
+    "At the courthouse in Avignon, men filled the dock. Far fewer were among those who came to show their support for Gisèle – the survivor.",
+    "It was this absence of male solidarity that Mr. Pelicot came to talk about at UN Headquarters on Tuesday, at a special event on the eve of the International Day for the Elimination of Violence against Women.",
+    "“For me, our mother has been a mirror,” he told UN News in an exclusive interview after his speech. “She’s a mirror when it comes to men.” That means the men who know, the men who stay silent and the men who don’t think it concerns them.",
+    "The 52-year-old former business development director is wary of the iconic status his mother has attained. He fears it confines to one exceptional figure a story that says a great deal about ordinary relations between men and women.",
+    "Between 2011 and 2020, at the family home in Mazan in southern France, Dominique Pelicot drugged his wife without her knowledge in order to rape her and have her raped repeatedly by dozens of men he recruited online.",
+    "In December 2024, he was sentenced to 20 years in prison. All 50 co-defendants were found guilty. Aged between 26 and 74, they included firefighters, nurses, soldiers and retirees. Many were husbands and fathers.",
+    "“We like to believe that abusers are people we don’t know, people who aren’t like us – monsters,” Mr. Pelicot told the UN event.",
+    "Since the court case, he has tried to understand what lies behind men’s silence. He sees in it a kind of moral comfort: the belief among many men that never having attacked a woman frees them of any responsibility."
+   ],
+   "lede": "Two years after the Mazan rape trial, David Pelicot has decided to put his name to the fight against sexual violence – and to confront what he calls the silence of men."
+  },
+  {
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+   "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+   "source": "UN News",
+   "desk": "rights",
+   "published": "2026-11-25T12:00:00+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "description": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.",
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image560x340cropped.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "“Millions are hungry” across the country, Mr. Fletcher stressed, amid ongoing fighting between Saudi-backed Government forces based in Aden and Iran-backed Houthi rebels that have occupied the capital, Sana’a, for years.",
+    "Today, the south Arabian nation has been devastated by years of conflict and is “being pushed deeper into crisis”, he said.",
+    "“Hospitals and first responders are under attack. Fighting, insecurity and heavy restrictions along key supply routes are preventing families from accessing the food and medicine they need to survive,” the Under Secretary-General for Humanitarian Affairs stressed.",
+    "In a statement, Mr. Fletcher said that he had travelled to Yemen to push for urgent aid access to civilians, including some 364,000 who have fled their homes since August and “tens of thousands this past week alone”.",
+    "Severe underfunding for humanitarian work has driven the international response to breaking point, the top aid official warned, as he expressed solidarity with teams on the ground who continue to work in highly dangerous situations.",
+    "“I will urge the international community to step up its support to our work,” he insisted.",
+    "Immediate priorities include safe and sustained humanitarian access to civilians in need of support, “with Taiz a particularly urgent priority”, Mr. Fletcher continued.",
+    "Today’s global humanitarian effort remains “overstretched, underfunded and under attack”, Mr. Fletcher insisted. But it is in Yemen where the aid response is “furthest off track” as teams attempt to reach 87 million people with lifesaving support this year. “We will not allow the people of Yemen to slip off the world’s radar,” he continued.",
+    "And in a direct message to the Houthi forces, the UN aid chief urged them to “immediately and unconditionally release our detained UN colleagues and other humanitarians. Our work and our people must be protected.”"
+   ],
+   "lede": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City."
   },
   {
    "url": "https://corbeaunews-centrafrique.org/mercenaires-russes-braquage-vakaga/",
@@ -1847,6 +2240,26 @@
    "fetched": true
   },
   {
+   "url": "https://www.fidh.org/es/temas/empresas-derechos-humanos-y-medio-ambiente/la-cop31-no-cumple-con-las-ambiciones-climaticas-y-los-derechos",
+   "title": "La COP31 no cumple con las ambiciones climáticas y los derechos humanos que pretendía impulsar",
+   "source": "FIDH",
+   "desk": "rights",
+   "published": "2026-11-23T13:09:00+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "description": "Las negociaciones de la Conferencia de las Naciones Unidas sobre el Clima (COP31) no han estado a la altura de la amenaza de superar los límites (…)",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.fidh.org/local/cache-vignettes/L1280xH457/un_climate_change_-_kiara_worth-2-2-15247.jpg?1795612182",
+   "paragraphs": [
+    "Las negociaciones de la Conferencia de las Naciones Unidas sobre el Clima (COP31) no han estado a la altura de la amenaza de superar los límites planetarios: se bloquearon el Mecanismo de Transición Justa (en inglés BAM) y el plan de acción llamado \" Action for Climate Empowerment \", y se rechazó una decisión marco que ni siquiera incluía compromisos concretos para no depender de los combustibles fósiles y movilizar más recursos económicos. La Federación Internacional por los Derechos Humanos (FIDH), que participó en la COP, condena la obstaculización de las medidas urgentes necesarias para proteger los derechos y a las comunidades ante la crisis climática.",
+    "Antalya y París, 23 de noviembre de 2026. La conferencia de la ONU sobre el clima concluyó con el rechazo, plenamente justificado, de una decisión marco vacía de contenido, que proponía soluciones cuestionables como la captura y el almacenamiento de carbono, y no incluía planes concretos para la eliminación gradual de los combustibles fósiles y para triplicar la financiación destinada a la adaptación.",
+    "\" La COP31 debía responder a un verano de desastres, al fenómeno del Súper El Niño y a un modelo de consumo desmedido que ponen en peligro vidas y derechos de personas en todo el mundo. Sin embargo, ha ocurrido todo lo contrario. Hemos asistido a un fracaso generalizado a la hora de garantizar la justicia climática: no se han logrado los aumentos de la financiación climática que se esperaban desde hace tiempo, ni avances hacia una transición acelerada que permita el abandono de los combustibles fósiles, conformes a la ciencia y las obligaciones del derecho internacional, ni avances reales para poner en marcha un mecanismo de transición justa. Esta falta de resultados contrasta profundamente con las realidades catastróficas que viven las personas y el planeta \", afirmó Lucía Posteraro, consultora climática de la FIDH.",
+    "El bloqueo reiterado de los países desarrollados también impidió que los escasos resultados de las negociaciones se tradujeran en los recursos financieros y las medidas necesarios para proteger a las comunidades más afectadas por la crisis climática y garantizar sus derechos. Tras la decisión pionera adoptada en la COP30, fruto de la movilización de la sociedad civil, se suponía que los Estados iban a avanzar con el Mecanismo de transición justa (en inglés BAM) para situar la protección de los derechos humanos y la justicia social en el centro de la acción climática. Sin embargo, los países de ingresos altos, históricamente responsables, obstaculizaron el avance hacia un dispositivo institucional permanente, lo que obligó a aplazar hasta la próxima COP el debate sobre su estructura y funcionamiento.",
+    "\" No puede haber una transición basada en los derechos humanos urgente si seguimos repitiendo los mismos debates de siempre —como ha ocurrido con los países históricamente responsables de las emisiones en Antalya— en lugar de centrarnos en una aplicación efectiva. La sociedad civil no cejará en su exigencia de un BAM fuerte, con recursos y garantías de participación significativa de los titulares de derechos y sus representantes. No puede hablarse de una transición justa si no protege el trabajo decente y el diálogo social de las personas trabajadoras, los derechos de los pueblos indígenas y de los territorios afectados por el ‘extractivismo verde’, ni a las comunidades cuyos derechos, voces y medios de vida están marginalizados \", continuó Posteraro."
+   ],
+   "lede": "Las negociaciones de la Conferencia de las Naciones Unidas sobre el Clima (COP31) no han estado a la altura de la amenaza de superar los límites (…)"
+  },
+  {
    "url": "https://www.amnesty.org/en/latest/news/2026/11/bangladesh-proposed-changes-to-cyber-laws-risk-granting-authorities-excessive-power-to-police-online-content/",
    "title": "Bangladesh: Proposed changes to cyber laws risk granting authorities excessive power to police online content",
    "source": "Amnesty International",
@@ -2873,6 +3286,17 @@
    "desk": "courts",
    "published": "2026-11-21T00:28:54+00:00",
    "seen": "2026-11-21T09:45:14+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE1LS292cjZsdy00b2Ric1pEZWtmM0lKQjhvaUNwdkVaRVVBTGtadk9UbGFlc1NGLTVWVWZ3Tmlfa1pSYXc2WU9vUUZWS2w3dS1lMDE4S0p5ZUxxWExJalBZVGl3VUJVZDZJNF9oemhGUHkyV0ZFdXhBMnFTeGZnX2JJdDRaZ0x0SWljRUlrT1lid1NWV2JJeUx3?oc=5",
+   "title": "Defining Genocide Down at the International Court of Justice",
+   "source": "WSJ",
+   "desk": "courts",
+   "published": "2026-11-20T23:01:24+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -4139,6 +4563,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFcxM0R5ZDJtR1h3X3ZaVjRtSG5MNHBJMlB0MnU0RGlEX2pFc3VtUFRXQkZaLUpBY1Q3c2lSWi1nWlM3RGdaY0NOOXFaOEN6TzM5NWFwMlRCX3B3VlhsOUdRQkZaMV93SndVblppTExUaU41a3ZhbGNfa2l3LVU4T29sTHFaWF9wQVFObkM4OTl0dDY4MUJmbUI4WkVWOTBHSXlrYThKcTFmbGxjYU8zeEtJQU9uY1hOOXA0cDJn0gHDAUFVX3lxTE9RZkpOcTFxNXRLQUxMRncxbkJubDVVMWoxVnpqZnhLUVdZTF9WNWtnX3FWNnl5dVpFd3pkbTNYcXBCUzM3Nm5OY2tZOEQtUGphSS1MRVRiMm8waTIxS0p5aWYzRGhqcERqQWhRNkkwTk9EUDJjZV9ZRmhtLTVaYXRKZ0l3Y1R4WWh3VEFiYWlQdlg4MHRpT0llcy01UlRNczBCc3Z6R0kwNWhRcl9yZ0F1aERsLUZ3RzhTeW5pWVVpSHhicw?oc=5",
+   "title": "ICJ ruling on Myanmar presents new difficulties for Israel’s fight against genocide charges",
+   "source": "The Times of Israel",
+   "desk": "courts",
+   "published": "2026-11-19T20:07:00+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5",
    "title": "For the first time, UN’s highest court finds a country responsible for genocide: Myanmar",
    "source": "Associated Press",
@@ -4309,6 +4744,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3NpZEp2dmlxVFQ0UHdkQ0hqMW1YQ0RVaTBxa09KN3hiOXZMbVJaM3ptRkFTTHQ4d1NpWkNQVU9PWHRDQW12alB1a0tFd3cwQnlMUXNSWDZwZ3R1bFl4RFVoZHppZWFlN0hXV05UVHFGVU5SNVZsSUtFdFZLeXVWVldwR3hMT003QTZPSlItS3BuRGpTNXJVaEQ3YTNObmMxdVNQN2RCbmQxUWNX?oc=5",
+   "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+   "source": "The Guardian",
+   "desk": "courts",
+   "published": "2026-11-19T17:14:00+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORm9SRzdjb3JTTEZLeFdxNUFZRWV5RHllODNsQ2d3cHo0SmxRR2JjMDk0ZGlGa3JpcXFUR3lGN0N6YUVISmFBMndQanZlcHFHOXE1RVpIeGZzV3ZUMWxnMHRJQUlZTVB6eEV1T1MxT0xnMVF1RC0xNEx3QW9SbXA2U0dKcVRaRWJ0ZTRaYklwYzhuTjlMRTFCWlhBTVN0MWdHVUxKZHNzV1VpSGNGV0NhNjhVYk95M3NDNGF0Qi1ucjRLOFdCcm55QVE4a3ItV05FWUVIQkVsRFpvTjNhb0E?oc=5",
    "title": "Myanmar genocide ruling is a watershed moment in international justice",
    "source": "The Conversation",
@@ -4457,6 +4903,17 @@
    "desk": "courts",
    "published": "2026-11-19T16:00:00+00:00",
    "seen": "2026-11-22T11:16:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1JRUnRWNDlNTTNhbVcyeUpQLTdxV3lPVWI0MWFrRzFteWZ6aW45OUFaeS1saHVqVHJyMXB0Y1RFMkRiZGR4d2ExUGRUN3dyOGczUngxblFOU1pyU3BVZmNCR193SE1IVjh0RTRxV1ktYm4yZ0hhS044RFNQaEhCVzQwUHZrSjg5?oc=5",
+   "title": "For the first time, UN’s highest court finds a country responsible for genocide: Myanmar",
+   "source": "Politico",
+   "desk": "courts",
+   "published": "2026-11-19T15:45:00+00:00",
+   "seen": "2026-11-25T22:29:08+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -9348,441 +9805,6 @@
    "desk": "courts",
    "published": "2026-11-05T08:00:00+00:00",
    "seen": "2026-11-19T02:25:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUk8zdlhfdm9fakZRN293Y1QtY0pENjR4cDk3eXFnNE02VThIUk9RSm1PQzE4OXJuZ1FCeUM0cVVfWWgyMThub0lNUGJLRGJlQW5xZVNqaG95OHNuYmdSV0kzUlRsWEFWWFNKYUZmdDhUS0d5LVFUSmJ4Yk1EWjFNOUZwZFRkVjExbTl4dUJGbEdhMlU0bkZMVFdMOE9oMzVDVUdFNTFkQVVzZkhRN1hkWVJn?oc=5",
-   "title": "Newly-Elected International Court of Justice Judges Have Anti-Israel History, Danon Says",
-   "source": "Baltimore Jewish Times",
-   "desk": "courts",
-   "published": "2026-11-05T08:00:00+00:00",
-   "seen": "2026-11-19T02:24:22+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3N1ZFVSQkQ0OVR3NTF0ZW5zaXBGVjR3Sjh2eXhNbFUwWWJTNjcwaVdHS1hXWFZSaWNmOXRXY3ZyVW1fNHVnT2tlYTJzaWc0QmN2U1lWV3VwSEVlVDdzMHFaN2otSDlKLTNjQ1dvdE96UFZRZzlpOFhkX2gzS1NXVF9uRjdzVmtCQW5zRHN3TTlVVWVPZlJHS01mSW0?oc=5",
-   "title": "Will the International Court of Justice Lower the Bar for ‘Genocide’?",
-   "source": "Foundation for Defense of Democracies",
-   "desk": "courts",
-   "published": "2026-11-05T08:00:00+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://lieber.westpoint.edu/common-article-22-3/",
-   "title": "GC IV Commentary Series",
-   "source": "Articles of War",
-   "desk": "analysis",
-   "published": "2026-11-04T18:32:44+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "cats": [
-    "AoW Posts",
-    "Blog",
-    "GC IV Commentary Series",
-    "Law of Armed Conflict",
-    "Occupation",
-    "armed conflict",
-    "belligerent occupation",
-    "commentary"
-   ],
-   "byline": "Lieber Institute",
-   "description": "2025 Commentary’s discussion of Common Article 2(2) - 2(3) has done a good job of clarifying these provisions, but more could have been done.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/11/2014-03-09_-_Perevalne_military_base_-_0115.jpg",
-   "paragraphs": [
-    "Editors’ note: The following series considers ICRC’s 2025 updated Commentary on the Fourth Geneva Convention. Rosa-Lena Lauterbach, Liisi Adamson, and Sean Watts’s introduction to the series is available here.",
-    "Most discussion concerning Article 2 common (CA 2) to the four 1949 Geneva Conventions involves the first paragraph of the article, the application trigger for the law of armed conflict (LOAC) to “armed conflict which may arise between two or more of the High Contracting Parties,” or international armed conflict (IAC), as it has come to be known. However, the text of CA 2 also includes two additional, though much less frequently discussed paragraphs: a second paragraph addressing occupation; and a third paragraph discussing the application of LOAC to armed conflicts between States when not all belligerents are parties to the Conventions.",
-    "[(2)] The Convention shall also apply to all cases of partial or total occupation of the territory of a High Contracting Party, even if the said occupation meets with no armed resistance.",
-    "[(3)] Although one of the Powers in conflict may not be a party to the present Convention, the Powers who are parties thereto shall remain bound by it in their mutual relations. They shall furthermore be bound by the Convention in relation to the said Power, if the latter accepts and applies the provisions thereof.",
-    "A 2025 Commentary on the Fourth Geneva Convention (the Commentary ), by the International Committee of the Red Cross (ICRC), on paragraphs 2(2) and 2(3) is more extensive than a preceding 1958 Commentary (1956 in French) and is a very helpful addition to the corpus of discussion of these two paragraphs. However, the updated Commentary also raises three points worth closer examination: 1) belligerent occupation, including missed opportunities to clarify contemporary issues; 2) the requirement of an explicit statement for non-parties to not be bound by the Conventions; and 3) the potential application of the Conventions to “International Organizations” but not to non-States. This post addresses each of these three points in detail below.",
-    "Common Article 2 says very little about occupation, though the Fourth Geneva Convention (GC IV) offers quite a bit of detail in subsequent provisions with respect to laws that apply during occupation. It is important to note that CA 2(2) is not intended to refer to occupation generally, but only applies to the narrow situation of an unopposed occupation. As the 1958 Commentary makes clear,",
-    "The sense in which the paragraph under consideration should be understood is thus quite clear. It does not refer to cases in which territory is occupied during hostilities; in such cases the Convention will have been in force since the outbreak of hostilities or since the time war was declared. The paragraph only refers to cases where the occupation has taken place without a declaration of war and without hostilities, and makes provision for the entry into force of the Convention in those particular circumstances (p. 21)."
-   ],
-   "lede": "2025 Commentary’s discussion of Common Article 2(2) - 2(3) has done a good job of clarifying these provisions, but more could have been done."
-  },
-  {
-   "url": "https://www.icc-cpi.int/news/president-assembly-states-parties-rome-statute-convened-event-international-criminal-justice",
-   "title": "The President of the Assembly of States Parties to the Rome Statute convened an event on International Criminal Justice, for the sake of future generations",
-   "source": "International Criminal Court",
-   "desk": "courts",
-   "published": "2026-11-04T11:45:05+00:00",
-   "seen": "2026-11-19T02:24:22+00:00",
-   "tags": [
-    "icc"
-   ],
-   "description": "On 3 November 2026, the President of the Assembly of States Parties to the Rome Statute, Ambassador Päivi Kaukoranta, convened an event entitled “International Criminal Justice: For the Sake of Future Generations”, at the International Criminal Court (ICC) in The Hague, in cooperation with the Trust Fund for Victims.The event was honoured by the participation of the United Nations High Commissioner for Human Rights, Mr Volker Türk, who provided the key note speech setting the context with his remarks focused on the lasting harms of crimes, the importance of intergenerational justice and of accountability as a measure of securing human rights in the future. As he remarked: “If accountability is to protect present and future generations, we must defend the institutions that make this possible (…). The ICC is an essential piece of the international human rights ecosystem, supported by the vast majority of United Nations Member States”. The address of the High Commissioner was followed by the remarks of Judge Rosario Salvatore Aitala, First Vice-President of the International Criminal Court and a panel event featuring Ms Nazhat Shameem Khan, Deputy Prosecutor of the International Criminal Court along with representatives of the victim communities and of the youth.; Mr Andres Parmas, President of the Board of Directors of the Trust Fund for Victims provided closing remarks. Participants in the event included States Parties, Court officials and civil society actors. The discussions, highlighted the importance of accountability, reparations, the preservation of memory and the prevention of future atrocities. Particular attention was devoted to the role of victims and young people in shaping the future of international justice, and to the contribution of reparative measures to restoring dignity, mitigating the long-term consequences of international crimes, promoting reconciliation and strengthening the foundations for lasting peace.The President of the Assembly of States Parties, Ambassador Päivi Kaukoranta, in commenting on the event, stated that: “International criminal justice is not only about addressing the gravest crimes committed in the past. It is also about shaping the future we wish to leave to generations to come : a future in which the rule of law prevails over impunity, accountability over indifference, and cooperation over division”.The Assembly of States Parties is the management oversight and legislative body of the ICC. It is comprised of representatives of States that have ratified and acceded to the Rome Statute. For additional information please contact the Assembly of States Parties via email at asp@icc-cpi.int.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.icc-cpi.int/sites/default/files/styles/press_release/public/2026-11/20261103-pr-visit-unhchr.jpg?itok=kcxQ0HjG",
-   "paragraphs": [
-    "The event was honoured by the participation of the United Nations High Commissioner for Human Rights, Mr Volker Türk, who provided the key note speech setting the context with his remarks focused on the lasting harms of crimes, the importance of intergenerational justice and of accountability as a measure of securing human rights in the future. As he remarked: “If accountability is to protect present and future generations, we must defend the institutions that make this possible (…). The ICC is an essential piece of the international human rights ecosystem, supported by the vast majority of United Nations Member States”. The address of the High Commissioner was followed by the remarks of Judge Rosario Salvatore Aitala, First Vice-President of the International Criminal Court and a panel event featuring Ms Nazhat Shameem Khan, Deputy Prosecutor of the International Criminal Court along with representatives of the victim communities and of the youth.; Mr Andres Parmas, President of the Board of Directors of the Trust Fund for Victims provided closing remarks.",
-    "Participants in the event included States Parties, Court officials and civil society actors. The discussions, highlighted the importance of accountability, reparations, the preservation of memory and the prevention of future atrocities. Particular attention was devoted to the role of victims and young people in shaping the future of international justice, and to the contribution of reparative measures to restoring dignity, mitigating the long-term consequences of international crimes, promoting reconciliation and strengthening the foundations for lasting peace.",
-    "The President of the Assembly of States Parties, Ambassador Päivi Kaukoranta, in commenting on the event, stated that:",
-    "“International criminal justice is not only about addressing the gravest crimes committed in the past. It is also about shaping the future we wish to leave to generations to come: a future in which the rule of law prevails over impunity, accountability over indifference, and cooperation over division”.",
-    "The Assembly of States Parties is the management oversight and legislative body of the ICC. It is comprised of representatives of States that have ratified and acceded to the Rome Statute.",
-    "For additional information please contact the Assembly of States Parties via email at asp@icc-cpi.int.",
-    "La Presidenta de la Asamblea de los Estados Partes en el Estatuto de Roma, Embajadora Päivi Kaukoranta, convocó un acto titulado “Justicia penal internacional: por el bien de las generaciones futuras”, celebrado en cooperación con el Fondo Fiduciario en beneficio de las víctimas el día 3 de noviembre de 2026 en la Corte Penal Internacional (CPI), en La Haya."
-   ],
-   "lede": "On 3 November 2026, the President of the Assembly of States Parties to the Rome Statute, Ambassador Päivi Kaukoranta, convened an event entitled “International Criminal Justice: For the Sake of Future Generations”, at…"
-  },
-  {
-   "url": "https://www.justiceinfo.net/en/168108-the-swedish-commission-closes-the-nordic-sami-reconciliation-initiatives.html",
-   "title": "The Swedish Commission closes the Nordic Sami reconciliation initiatives",
-   "source": "Justice Info",
-   "desk": "courts",
-   "published": "2026-11-04T10:47:02+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "cats": [
-    "Opinion",
-    "Truth Commissions",
-    "indigenous peoples",
-    "Sami"
-   ],
-   "description": "On September 30, 2026, Sweden has joined its Nordic neighbours in delivering a Sami Truth Commission report. Following five years of work and 270 interviews, its chair emphasised the urgent need for an official apology.",
-   "image": "https://www.justiceinfo.net/wp-content/uploads/Sweden_Sami-People-truth-commission-report_@Lena-Maria-Nilsson.jpg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "On September 30, 2026, the Truth Commission for the Sami People handed over its final report at its ceremonial closing in Staare/Östersund, Sweden. This was the last of the Nordic truth commissions for the Indigenous Sami people to conclude its work, following the Norwegian report delivered in 2023 and the Finnish report presented in 2025.",
-    "The ceremony was carried out in Swedish and some of the five different varieties of the Sami language, via an app’ for live interpretation. Several hundreds of people attended in person in the aula of the Staare/Östersund campus of the University of Mid-Sweden. Throughout the three hours of the ceremony, between 300 and 500 people watched the live broadcasting [still available online ]. The comment section proved a lively place for participants to express their own stories as well as support to others, either in Swedish, in Sami, or in emoji. Hearts and clapping hands flooded the comment section with each moving speech, flanked by messages expressing gratitude and personal experiences underscoring for example the need for language revitalization. It also came to function as a forum for translation questions, with attendees helping each other out. With the closing of the live stream, participants expressed hope and desire for implementation of the recommendations.",
-    "All the Nordic truth commissions have been influenced by the Truth and Reconciliation Commission of Canada, which delivered its report in 2015. In his welcome speech at the handover ceremony, Jerker Bexelius, leader of the Gaaltije museum in Staare/Östersund, pointed out that it coincided with Canada’s national day for truth and reconciliation.",
-    "The commission, mandated by the Swedish government in 2021, began its work in June 2022, and has had three different chairs. At the ceremony, Lena Nyberg, who took over in April 2025, urged for an independent mechanism to monitor implementation of the truth commission’s calls to action and proposals. Furthermore, she called for increased autonomy of the Swedish Sami Parliament, a range of initiatives to increase the general public’s knowledge about Sami culture, history and rights, and measures to combat racism and discrimination against Sami. Nyberg also emphasised the need for an official apology — similar to the one already given by the Norwegian Parliament — and the urgent need for a special apology to elderly Sami who had been placed in so-called nomad schools or other boarding school facilities as children.",
-    "Different commissioners presented further findings and calls to action, highlighting the loss of language and culture, acts of resistance, the consequences of state and majority-population ignorance, and the Sami relationship to land use and ownership. These presentations were interspersed with readings of testimonies based on the personal narratives collected by the commission; circa 270 interviews as well as 40 written narratives and some focus group interviews with children and youth. Excerpts from these stories are presented in a separate part of the final report which was handed out to members of the audience."
-   ],
-   "lede": "On September 30, 2026, Sweden has joined its Nordic neighbours in delivering a Sami Truth Commission report. Following five years of work and 270 interviews, its chair emphasised the urgent need for an official apology."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RYOWZtN0FFRUMzOFlUV2FqU2dQUENlalNsSzdVMVNDTi0wU25iYjBkeE5YMlYxb1NETkNyMFgtVk1NNDZfR3hDYUJCVDlOaDZ3VDJRQ3A4VW9kTEZIUXFGYjFLZFZNZVpWeE1oM3hxdnRqUjdOZUxNaHVGYlhaVVlyODNSTnlOdEFxdlpVaUNrd0pYd0pMTlFrb1dkM0xaNjljTHJ6bG9SbmNLQkpYejZJT3NmNFdfbmxXSnF3?oc=5",
-   "title": "The President of the Assembly of States Parties to the Rome Statute convened an event on International Criminal Justice, for the sake of future generations",
-   "source": "International Criminal Court",
-   "desk": "courts",
-   "published": "2026-11-04T08:00:00+00:00",
-   "seen": "2026-11-24T17:37:56+00:00",
-   "tags": [
-    "icc"
-   ],
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMVE2OGI2UkViVUN6SXAwRlpFQWk0bmdkb3pYZ0hUbUFvTzZZdGcwMlVZNEtqdm1tb1U3dzhBVXVwQ0RSQjBiMzhjRENlS3ctVjVqakZKMjkwVmhnRTM2ZHlyV2RyYnRBQUlvQ2ZXcC1qNjQtZjB0dk02OVlDdEFiV3ByQkVZSGkzMGZ2TEtXbVIwdlFzazRZelJSbkptdGhzWXVfWUlnMXlBSXloZmN4eDR3TDlGT2dxMnRRT3oyYy1sQVAtblVuVmJDazlMUkJDVWRNd2NxQTdGYlNl?oc=5",
-   "title": "Systemic Integration After the ICJ’s Right to Strike Advisory Opinion: What It Means for Trade–Labour Disputes",
-   "source": "Opinio Juris",
-   "desk": "analysis",
-   "published": "2026-11-04T08:00:00+00:00",
-   "seen": "2026-11-19T20:31:58+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://lieber.westpoint.edu/humint-detainees-brain-fingerprinting/",
-   "title": "The Law on Brain Technologies in Warfare Series – HUMINT, Detainees, and “Brain Fingerprinting”",
-   "source": "Articles of War",
-   "desk": "analysis",
-   "published": "2026-11-03T18:14:58+00:00",
-   "seen": "2026-11-19T02:24:22+00:00",
-   "cats": [
-    "AoW Posts",
-    "Blog",
-    "Emerging Technologies",
-    "Law on Brain Technologies in Warfare Series",
-    "BCI",
-    "brain",
-    "brain fingerprinting",
-    "brain technology"
-   ],
-   "byline": "Lieber Institute",
-   "description": "The term “brain fingerprinting” may suggest a standard of reliability not matched by the result, as fingerprinting is more reliable.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/11/getty-images-NBJbM7kGqCM-unsplash.jpg",
-   "paragraphs": [
-    "Editors’ note: This post is an entry in our series on Air Commodore (ret.) William H. Boothby’s book, The Law on Brain Technologies in Warfare published by Elgar International.",
-    "As I outlined in a 2024 post, intelligence gathering has taken on an increasingly important role in the conduct of contemporary military operations. Its importance is reflected in Amy Zegart’s statement that “[i]n the twenty-first century, the tip of the spear isn’t a spear. It’s intelligence” ( Spies, Lies, and Algorithms, p. 43). Given the clandestine nature of many forms of intelligence gathering, it is perhaps fitting that the legal basis for such activity is almost innocuously tacked onto Article 24 of the 1907 Hague Land Warfare Regulations as “the employment of measures necessary for obtaining information about the enemy and the country are considered permissible.” Those measures include the collection of human intelligence (HUMINT), which is one of a wide range of intelligence categories that extends to categories such as SIGINT (signals intelligence), IMINT (image intelligence), MASINT (measurement and signature intelligence), GEOINT (geospatial intelligence), open-source intelligence (OSINT), CULTINT (cultural intelligence), and even CRIMINT (criminal intelligence).",
-    "HUMINT is often thought of primarily in terms of espionage involving human source contact operations. However, it more broadly includes screening the appearance, possessions, and attitudes of persons stopped at checkpoints during cordon and search, and with the handling of detainees, tactical questioning at the point of capture, and the exploitation of captured documents. It also involves: the debriefing of refugees, displaced persons, local civilians and your own forces; liaison operations with host and allied military and civilian authorities; and the interrogation of detainees (2006 Human Intelligence Collector Operations, paras. 1-4 to 1-27). Like many aspects of modern conflict, technological advances have had a significant impact on HUMINT operations. This is most directly through the use of social media to recruit and direct sources, and collect the intelligence they obtain (see here and here ).",
-    "As Bill Boothby identifies in his recent book, The Law on Brain Technologies in Warfare, there is also scope for using brain-related technology to monitor the thoughts of detained personnel while being interrogated for intelligence purposes. As he identifies, the current technology does not permit mind steering or mind reading. However, it might have a “utility in lie and deception detection and perhaps in revealing subconscious brain information (p. 279-80). The advantage of being able to confirm the veracity of what a detainee is saying is obvious. The scenario Boothby identifies (p. 280) is,",
-    "State A uses a BCI [Brain Computer Interface] system to obtain information from combatants from an enemy State B who have been captured during hostilities. The technique that is employed involves the wearing by a prisoner of an external headset. The prisoner is then asked a series of questions and their answers, together with the electrical brain activity as detected."
-   ],
-   "lede": "The term “brain fingerprinting” may suggest a standard of reliability not matched by the result, as fingerprinting is more reliable."
-  },
-  {
-   "url": "https://www.coalitionfortheicc.org/25th-session-icc-assembly-states-parties-asp25",
-   "title": "25th session of the ICC Assembly of States Parties, 30 November",
-   "source": "Coalition for the ICC",
-   "desk": "courts",
-   "published": "2026-11-03T15:29:51+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "tags": [
-    "icc"
-   ],
-   "description": "Share this page Twitter Twitter Twitter Mail ES",
-   "ftries": 2,
-   "lede": "From 30 November to 7 December 2026, States Parties to the Rome Statute will gather in The Hague for the 25th session of the ICC Assembly of States Parties (ASP25).",
-   "fetched": true,
-   "paragraphs": [
-    "From 30 November to 7 December 2026, States Parties to the Rome Statute will gather in The Hague for the 25th session of the ICC Assembly of States Parties (ASP25).",
-    "The Assembly is the management oversight and legislative body of the Court. Meeting in full plenary once a year, States Parties take decisions that are critical to the effective functioning of the Court and the broader Rome Statute system.",
-    "ASP25 takes place at a critical moment for international justice. As attacks against the ICC, its officials, civil society organisations and others supporting its mandate have intensified, the Assembly provides States Parties with an essential opportunity to demonstrate, through concrete action, their commitment to an independent and effective Court and to protect the integrity of the Rome Statute system.",
-    "Civil society will be present throughout the session, monitoring discussions, engaging with States Parties and Court officials, advocating for a fair, effective, and independent ICC, while ensuring that the perspectives of victims, survivors, and human rights defenders remain at the heart of deliberations on justice and accountability.",
-    "At its twenty-fifth session, the Assembly of States Parties to the Rome Statute (ASP) will elect six judges to fill one-third of the International Criminal Court’s 18 judicial seats, following the regular three-year election cycle. The six newly elected judges will each serve for a nine-year term from 2027 to 2036.",
-    "Judicial elections are among the most significant governance functions of the Assembly. The quality, independence, and diversity of the Court’s bench directly shape the ICC’s credibility, jurisprudential development, and operational performance. The Rome Statute establishes a detailed legal framework designed to ensure that judges are selected based on merit, integrity, and representativeness, while subsequent Assembly resolutions have progressively strengthened transparency and due diligence safeguards.",
-    "Ahead of ASP25, civil society organisations and human rights defenders from every region share their priorities and recommendations for strengthening justice through the ICC and the Rome Statute system.",
-    "These contributions are more than statements: they reflect the lived realities of those on the frontlines of accountability efforts. Throughout ASP25, #NGOVoices will continue to spotlight these perspectives, ensuring that decisions taken in The Hague reflect the needs and insights of those working for justice around the world",
-    "In the margins of ASP25, civil society, States and the Court and other actors organise multiple side events.",
-    "Side events represent a unique opportunity to raise #NGOVoices around specific topics of mutual concern, including situations under investigation or preliminary examination, victims’ participation in confirmation of charges hearings, judicial and political developments related to the ICC and the ASP, threats and attacks against the international justice system, and other issues related to the ICC and the Rome Statute system."
-   ]
-  },
-  {
-   "url": "https://www.icc-cpi.int/vacancy/internship-human-resources-section-programme-coordination-11",
-   "title": "Internship - Human Resources Section (Programme Coordination)",
-   "source": "International Criminal Court",
-   "desk": "courts",
-   "published": "2026-11-03T09:33:14+00:00",
-   "seen": "2026-11-19T02:24:22+00:00",
-   "tags": [
-    "icc"
-   ],
-   "description": "Internship - Human Resources Section (Programme Coordination) Delfina.Perez@… Tue, 11/03/2026 - 10:33 Duty Station The Hague - NL VAN 24589 Vacancy Category Internship Date Mon, 11/30/2026 - 23:59 Link https://career5.successfactors.eu/sfcareer/jobreqcareer?jobId=24589&company=1657261P",
-   "ftries": 1,
-   "fetched": true,
-   "lede": "Internship - Human Resources Section (Programme Coordination) Delfina.Perez@… Tue, 11/03/2026 - 10:33 Duty Station The Hague - NL VAN 24589 Vacancy Category Internship Date Mon, 11/30/2026 - 23:59 Link…"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2Z0SGpyU0FLX2ZuSFItVEp0T3lHX1lsUnhudVoxcFJ5b3BYQ093UU5NcUlvOGZ3UUc1WlRtTlBpWC1MbjZQQmtsckNRcXVCaEFLR2hQTklEVlBuckx4TnpGS3ExMDQxNXNjVEJDNHk4b3ZIaXJKVmpzZl8zQVltV3ZSN2gzRlZMRGlPdXV3RkZQYUJIRGt4aXNiM3VuT2pTaGdHOHlFZi1fUGVvNU12OG9iV3Yydk4wNU9B?oc=5",
-   "title": "Binding Caution: The ICC’s Amended Code of Judicial Ethics and a Bench Under Pressure",
-   "source": "Opinio Juris",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-22T03:07:56+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "icc"
-   ]
-  },
-  {
-   "url": "https://lieber.westpoint.edu/icj-factual-controversy-advisory-proceedings-deference-factual-determinations/",
-   "title": "The ICJ and Factual Controversy in Advisory Proceedings: Deference in Factual Determinations?",
-   "source": "Articles of War",
-   "desk": "analysis",
-   "published": "2026-11-02T18:54:49+00:00",
-   "seen": "2026-11-19T02:24:22+00:00",
-   "cats": [
-    "AoW Posts",
-    "Blog",
-    "Interpretation & Development",
-    "advisory opinion",
-    "evidence",
-    "factual determination",
-    "icj",
-    "Israel"
-   ],
-   "byline": "Lieber Institute",
-   "description": "ICJ's approach in 2025 Obligations of Israel advisory opinion raises important questions regarding the nature of the advisory function.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/11/Gaza.jpg",
-   "paragraphs": [
-    "The advisory opinion of the International Court of Justice (ICJ) of 22 October 2025 concerning Obligations of Israel in relation to the Presence and Activities of the United Nations, Other International Organizations and Third States in and in relation to the Occupied Palestinian Territory ( Presence and Activities) addressed two main issues: Israel’s obligations relating to humanitarian relief in the West Bank; and (more significantly) Gaza, as well as Israel’s obligations in relation to the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA). Both these issues raised factual controversies, requiring the Court to make of its own factual determinations if it was to render an opinion on the pertinent issues.",
-    "Evidently, instead of exercising its discretion and declining to deliver an advisory opinion, in whole or in part, pursuant to Article 65 of its Statute, the Court did deliver an opinion, incidentally making factual determinations. Yet the Court’s approach in these and other proceedings raise important questions regarding the nature of the advisory function and perhaps whether the Court’s rhetoric on the nature of its advisory function withstands scrutiny when tested against its practice.",
-    "In this post, I shall first provide some background on the problem of factual uncertainty in the World Court’s advisory jurisprudence, before briefly recalling how the Court considered the controversial factual issues in its October 2025 opinion. I shall then consider the procedure through which the Court presented the evidence underlying its conclusions, while comparing this procedure to the one it would most likely have followed were the proceedings in question contentious. I shall conclude by offering some observations on how we should view the Court’s approach to questions of evidence, particularly in light of its prior jurisprudence on deference regarding factual questions. I should emphasise that the purpose of this post is not to consider the extent to which the Court’s factual assessments were correct but to focus simply on its approach to factual questions as such.",
-    "For over a century, the World Court has been faced with disputed questions of fact in advisory proceedings. In its 1923 (non-)advisory opinion on the Status of Eastern Carelia, after concluding that the Council of the League of Nations requested an advisory opinion ultra vires, the ICJ’s predecessor, the Permanent Court of International Justice (PCIJ), proceeded to provide “other cogent reasons which render it very inexpedient” to deliver an opinion. One such “cogent reason” was that there were factual issues of relevance for determining the status of Eastern Carelia which were strongly disputed by Finland and Russia. In this regard, the PCIJ noted that it",
-    "… does not say that there is an absolute rule that the request for an advisory opinion may not involve some enquiry as to facts, but, under ordinary circumstances, it is certainly expedient that the facts upon which the opinion of the Court is desired should not be in controversy, and it should not be left to the Court itself to ascertain what they are."
-   ],
-   "lede": "ICJ's approach in 2025 Obligations of Israel advisory opinion raises important questions regarding the nature of the advisory function."
-  },
-  {
-   "url": "https://www.icc-cpi.int/news/icc-president-addresses-united-nations-general-assembly-calls-renewed-support-amid-threats",
-   "title": "ICC President addresses United Nations General Assembly, Calls for renewed support amid threats",
-   "source": "International Criminal Court",
-   "desk": "courts",
-   "published": "2026-11-02T17:17:42+00:00",
-   "seen": "2026-11-19T02:24:22+00:00",
-   "tags": [
-    "icc"
-   ],
-   "description": "The President of the International Criminal Court (ICC), Judge Tomoko Akane, today addressed the United Nations General Assembly to present the Court's annual report, outlining key judicial developments, reparations activities, cooperation efforts, and the challenges facing the institution. For the first time since the COVID-19 pandemic, the President addressed General Assembly by way of a pre-recorded video, following the United States' imposition of sanctions against the Court on 9 October 2026.In her address, President Akane reaffirmed the Court's determination to fulfil its judicial mandate despite sanctions, threats and other challenges facing the institution. \"Despite all the challenges, the International Criminal Court will continue to carry out its judicial mandate with full independence and impartiality, acting only on the basis of the law and the evidence. In so doing, the Court is firmly resolved to contribute to the rule of law in the international community\".In relation to the Court's judicial activities, President Akane noted that proceedings continued to advance at every stage, from investigations and arrest warrants to confirmation of charges, trials, appeals and reparations. Victims remained at the centre of the Court's work. During the reporting period, more than 23,500 victims participated in proceedings before the Court, including more than 7,000 at the reparations stage. The President highlighted the central importance of cooperation in the execution of arrest warrants. At present, 34 publicly known arrest warrants remained outstanding. \"For States Parties, cooperation is a legal obligation under Part 9 of the Statute, and the obligation to arrest and surrender lies at its heart\", she said.President Akane also emphasised that broader participation in the Rome Statute system remains essential to strengthening the Court's legitimacy. She welcomed Hungary's decision to revoke its notification of withdrawal, while noting that six States notified their withdrawal during the reporting period.The President expressed appreciation for the cooperation and support provided by the United Nations. “The United Nations is a key partner of the Court. In line with the 2004 Relationship Agreement, the Court continued to receive crucial support from United Nations entities, departments, offices and special advisers and representatives of the Secretary-General, including in the field, where the United Nations directly supported 61 missions”, she stated. Concluding her remarks, President Akane called on States and the international community to continue supporting the institution created under the Rome Statute to combat impunity for the world's gravest crimes. \"History will judge how the international community protected the Court and the mandate entrusted to it by the Rome Statute. The time to act is now\", she stated.ICC President Speech to the United Nations General Assembly, 02.11.2026Annual report of the International Criminal Court to the United Nations General AssemblyFor more information, please contact the ICC Public Affairs Unit: PublicAffairs.Unit@icc-cpi.int. You can also follow the Court’s activities on X, Facebook, YouTube, Instagram and Flickr",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.icc-cpi.int/sites/default/files/styles/press_release/public/2026-11/20261102-president-address-unga.jpg?itok=pEsqM9KO",
-   "paragraphs": [
-    "In her address, President Akane reaffirmed the Court's determination to fulfil its judicial mandate despite sanctions, threats and other challenges facing the institution. \"Despite all the challenges, the International Criminal Court will continue to carry out its judicial mandate with full independence and impartiality, acting only on the basis of the law and the evidence. In so doing, the Court is firmly resolved to contribute to the rule of law in the international community\".",
-    "In relation to the Court's judicial activities, President Akane noted that proceedings continued to advance at every stage, from investigations and arrest warrants to confirmation of charges, trials, appeals and reparations. Victims remained at the centre of the Court's work. During the reporting period, more than 23,500 victims participated in proceedings before the Court, including more than 7,000 at the reparations stage.",
-    "The President highlighted the central importance of cooperation in the execution of arrest warrants. At present, 34 publicly known arrest warrants remained outstanding. \"For States Parties, cooperation is a legal obligation under Part 9 of the Statute, and the obligation to arrest and surrender lies at its heart\", she said.",
-    "President Akane also emphasised that broader participation in the Rome Statute system remains essential to strengthening the Court's legitimacy. She welcomed Hungary's decision to revoke its notification of withdrawal, while noting that six States notified their withdrawal during the reporting period.",
-    "The President expressed appreciation for the cooperation and support provided by the United Nations. “The United Nations is a key partner of the Court. In line with the 2004 Relationship Agreement, the Court continued to receive crucial support from United Nations entities, departments, offices and special advisers and representatives of the Secretary-General, including in the field, where the United Nations directly supported 61 missions”, she stated.",
-    "Concluding her remarks, President Akane called on States and the international community to continue supporting the institution created under the Rome Statute to combat impunity for the world's gravest crimes. \"History will judge how the international community protected the Court and the mandate entrusted to it by the Rome Statute. The time to act is now\", she stated.",
-    "For more information, please contact the ICC Public Affairs Unit: PublicAffairs.Unit@icc-cpi.int. You can also follow the Court’s activities on X, Facebook, YouTube, Instagram and Flickr"
-   ],
-   "lede": "In her address, President Akane reaffirmed the Court's determination to fulfil its judicial mandate despite sanctions, threats and other challenges facing the institution."
-  },
-  {
-   "url": "https://trialinternational.org/latest-post/convocatoria-de-solicitudes-apoyo-financiero-a-terceros-fstp/",
-   "title": "Convocatoria de solicitudes",
-   "source": "TRIAL International",
-   "desk": "courts",
-   "published": "2026-11-02T15:45:37+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "description": "Convocatoria de financiación en Guatemala: 25 000 euros para investigar los mecanismos de responsabilidad corporativa por crímenes internacionales.",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "La Corporate Accountability Initiative (CAI) abre una convocatoria para solicitar una subvención (AFT) destinada a financiar un proyecto de investigación que culmine con la publicación y presentación de un estudio nacional sobre los mecanismos de responsabilidad corporativa por crímenes internacionales en Guatemala.",
-    "Pueden postularse organizaciones de la sociedad civil, organizaciones no gubernamentales o entidades sin fines de lucro. Las universidades y los centros de reflexión pueden optar a esta convocatoria específica.",
-    "– Anexo IV: Declaración de honor sobre los criterios de exclusión y la elegibilidad financiera del solicitante",
-    "– Anexo X: Autoevaluación sobre políticas y procedimientos contra la explotación sexual, el abuso y el acoso (SEAH)"
-   ],
-   "lede": "Convocatoria de financiación en Guatemala: 25 000 euros para investigar los mecanismos de responsabilidad corporativa por crímenes internacionales."
-  },
-  {
-   "url": "https://www.icc-cpi.int/news/icc-president-speech-united-nations-general-assembly-02112026",
-   "title": "ICC President Speech to the United Nations General Assembly, 02.11.2026",
-   "source": "International Criminal Court",
-   "desk": "courts",
-   "published": "2026-11-02T15:14:01+00:00",
-   "seen": "2026-11-19T02:24:22+00:00",
-   "tags": [
-    "icc"
-   ],
-   "description": "ICC President Speech to the United Nations General Assembly, 02.11.2026 armin.taslaman… Mon, 11/02/2026 - 16:14 Statement ICC President Speech to the United Nations General Assembly, 02.11.2026 English",
-   "ftries": 1,
-   "fetched": true,
-   "lede": "ICC President Speech to the United Nations General Assembly, 02.11.2026 armin.taslaman… Mon, 11/02/2026 - 16:14 Statement ICC President Speech to the United Nations General Assembly, 02.11.2026 English"
-  },
-  {
-   "url": "https://trialinternational.org/latest-post/cases-against-italy-before-european-court-of-human-rights-could-clarify-states-duty-to-cooperate-with-international-justice-amid-mounting-threats-to-the-icc/",
-   "title": "Cases against Italy before European Court of Human Rights could clarify States’ duty to cooperate with international justice amid mounting threats to the ICC",
-   "source": "TRIAL International",
-   "desk": "courts",
-   "published": "2026-11-02T13:00:42+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "description": "Italy's ICC cooperation is challenged before the European Court of Human Rights as NGOs intervene in cases concerning the release of a Libya war crimes suspect.",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "2 November 2026 – REDRESS, Route Justice, TRIAL International, and the International Federation for Human Rights ( FIDH) have submitted third-party interventions to the European Court of Human Rights in two cases challenging Italy’s failure to surrender Osama Elmasry Njeem to the International Criminal Court (ICC). While REDRESS, Route Justice, and TRIAL international argue that States’ human rights obligations generally require them to cooperate with the ICC to ensure accountability for torture and other international crimes, FIDH’s intervention addresses the admissibility of the applications",
-    "The cases ( Y v. Italy and Z v. Italy) concern Osama Elmasry Njeem, who was wanted by the ICC for alleged war crimes and crimes against humanity committed in Libya. He was arrested in Italy in January 2025, released two days later and returned to Libya on a State flight.",
-    "These cases raise a question with implications far beyond Italy: when surrendering a suspect to an international court is essential to securing accountability, can a State’s failure to cooperate breach its human rights obligations under the European Convention on Human Rights?",
-    "The victims in the case allege that Italy’s conduct breached its obligations under the rights to life and freedom from torture.",
-    "REDRESS, Route Justice, and TRIAL International argue that a suspect’s presence on a State’s territory, a request for arrest and surrender from a competent international court, international obligations to investigate the alleged crimes, and the absence of a realistic alternative avenue for accountability can together establish the jurisdictional link needed to engage the State’s procedural obligations under Articles 2 and 3 of the European Convention (the right to life and the prohibition of torture). Once those obligations are engaged, they may require meaningful cooperation with the international court where this is reasonably necessary to secure effective accountability.",
-    "The intervention asks the European Court to recognise that, where international proceedings offer the only realistic prospect of accountability, States must use the powers reasonably available to them diligently, effectively, and in good faith. Their conduct must be assessed against their wider international obligations, including obligations under the Rome Statute and the peremptory prohibitions of torture and crimes against humanity.",
-    "FIDH has filed a separate third-party intervention in the same cases. It argues that the Assembly of States Parties’ non-cooperation procedure following an ICC finding does not bar individual applications under the European Convention. FIDH maintains that the procedures concern different parties and complaints, and that the Assembly’s procedure is not comparable to an international investigation or settlement, given its distinct features and potential effects, which differ from those of individual applications seeking redress for violations of Convention rights.",
-    "The cases come at a critical moment for the ICC, which faces sanctions and other measures aimed at obstructing its work and intimidating those who work for or cooperate with it. These threats make effective State cooperation all the more important to safeguarding access to international justice."
-   ],
-   "lede": "Italy's ICC cooperation is challenged before the European Court of Human Rights as NGOs intervene in cases concerning the release of a Libya war crimes suspect.",
-   "tags": [
-    "icc"
-   ]
-  },
-  {
-   "url": "https://www.coalitionfortheicc.org/news/improving-victim-participation-accessibility-survivor-engagement-icc-hearings-el-hishri",
-   "title": "Improving victim participation, accessibility, and survivor engagement at future ICC hearings: Lessons learned from the El Hishri Confirmation of Charges Hearing",
-   "source": "Coalition for the ICC",
-   "desk": "courts",
-   "published": "2026-11-02T12:19:41+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "tags": [
-    "icc"
-   ],
-   "description": "2026/11/02 Victims first Victims participation Civil society in the ICC system/civil society Improving victim participation, accessibility, and survivor engagement at future ICC hearings: Lessons learned from the El Hishri Confirmation of Charges Hearing Introductory text: \"Seeing Khaled El Hishri standing before the judges of the International Criminal Court restored our hope. Justice has been lost in Libya; the courts have come to serve the interests of militias, and power belongs to those who carry weapons rather than to the law. El Hishri's appearance before the Court at the confirmation o",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Held from 19 to 21 May 2026, the confirmation of charges hearing against Khaled Mohammed Ali El Hishri in the Libya situation marked an important procedural milestone before the International Criminal Court (ICC), as the first case resulting from the ICC’s 15-year investigation into Libya to reach this phase. Following the hearing, on 16 July 2026, Pre-Trial Chamber I unanimously confirmed all 17 charges against El Hishri and committed the case to trial.",
-    "In this context, the Victims’ Rights Working Group (VRWG), with Libya Crimes Watch, Lawyers for Justice in Libya (a working name of Route Justice), Refugees in Libya and the European Center for Constitutional and Human Rights (ECCHR) have prepared this briefing note to contribute to more accessible and inclusive proceedings at the ICC, and ensure they are responsive to the experiences and needs of victims.",
-    "The recommendations draw on direct observations during the El Hishri confirmation of charges hearing, consultations with victims and survivors present at or otherwise engaged in the hearing, and exchanges with Libyan and international CSOs before, during and after the proceedings. The briefing focuses on the experience of affected communities engaging with and attending proceedings at the seat of the Court. The recommendations do not seek to assess the merits of the criminal case, but to identify practical measures through which future ICC proceedings can become safer, more accessible and more responsive to victims and survivors.",
-    "The VRWG is a network of 181 civil society organisations working to uphold the rights and interests of victims in International Criminal Court (ICC) proceedings. Co-led by the International Federation for Human Rights (FIDH), REDRESS and the Coalition for the ICC, the VRWG was reconvened in 2024 to renew its engagement on victims’ rights at the ICC, including contributing to the Court’s review of its 2012 Victims’ Strategy."
-   ],
-   "lede": "Held from 19 to 21 May 2026, the confirmation of charges hearing against Khaled Mohammed Ali El Hishri in the Libya situation marked an important procedural milestone before the International Criminal Court (ICC), as…"
-  },
-  {
-   "url": "https://www.coalitionfortheicc.org/document/lessons-learned-el-hishri-confirmation-charges-hearing-recommendations-improve-victim",
-   "title": "Lessons Learned from the El Hishri Confirmation of Charges Hearing: Recommendations to improve victim participation, accessibility, and survivor engagement at future ICC hearings",
-   "source": "Coalition for the ICC",
-   "desk": "courts",
-   "published": "2026-11-02T12:17:35+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "tags": [
-    "icc"
-   ],
-   "description": "Date: 02 November 2026 Author: Anonymous Document type: Publication File: VRWG Lessons Learned from El Hishri CoC ENG.pdf Body: Held from 19 to 21 May 2026, the confirmation of charges hearing against Khaled Mohammed Ali El Hishri in the Libya situation marked an important procedural milestone before the International Criminal Court (ICC), as the first case resulting from the ICC’s 15-year investigation into Libya to reach this phase. Following the hearing, on 16 July 2026, Pre-Trial Chamber I unanimously confirmed all 17 charges against El Hishri and committed the case to trial. In this conte",
-   "ftries": 2,
-   "lede": "Date: 02 November 2026 Author: Anonymous Document type: Publication File: VRWG Lessons Learned from El Hishri CoC ENG.pdf Body: Held from 19 to 21 May 2026, the confirmation of charges hearing against Khaled Mohammed…"
-  },
-  {
-   "url": "https://www.justiceinfo.net/en/168040-trump-has-succeeded-through-the-law.html",
-   "title": "“Trump has succeeded through the law”",
-   "source": "Justice Info",
-   "desk": "courts",
-   "published": "2026-11-02T10:41:02+00:00",
-   "seen": "2026-11-19T02:24:22+00:00",
-   "cats": [
-    "In-Depth Interviews",
-    "Donald Trump",
-    "politics"
-   ],
-   "description": "Ahead of the U.S. midterm elections on November 3, 2026—with the American president struggling to retain majority in Congress —Samuel Moyn, professor of law and history at Yale University, examines the record of the second Trump presidency and its approach to international justice.",
-   "image": "https://www.justiceinfo.net/wp-content/uploads/Samuel-Moyn_in-depth-interview-grand-entretien_illustration-portrait_@Benoit-Peyrucq-Justice-Info.jpg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "SAMUEL MOYN: Donald Trump’s first term is very different from his second term. I think he was feared to be an authoritarian or a despot from before he was elected in 2016. But in his first term, he proved blocked, probably as much by the Republican party as by his own servants. And he was also very disorganized: it wasn’t clear what he was trying to achieve, he didn’t do a lot. When it comes to something I’m very concerned about, which is America’s international war making, he probably did fewer illegal things. His first term involved less death of Americans and non-Americans through war than his predecessors.",
-    "Now his second term is very distinctive because its first year showed that he had learned from his mistakes the first time. He came into office with more loyal servants, and they had made a plan that he implemented. Both terms have been characterised by a lesson for all of us in the fact that the law is made to be interpreted and Donald Trump has succeeded through the law, not mainly through breaking the law.",
-    "“In the second term, mostly the Supreme Court has been on Trump’s side. It hasn’t required him to break the law, because he was allowed to remake the law.”",
-    "The Supreme Court has allowed much of his agenda in both terms. The most obvious example in the first term would be the travel ban [for nationals from Iran, Syria, Sudan, Libya, Somalia, and Yemen] which the Supreme Court permitted. In the second term, mostly the Supreme Court has been on Trump’s side. It hasn’t required him to break the law, because he was allowed to remake the law.",
-    "Yes, there were multiple illegal acts in the boat strikes in the Caribbean. But in the end, these were kind of relatively minor in the scheme of American imperial history in this hemisphere and since World War II around the world. Those are troubling, but the decapitation of the Venezuelan regime, its true significance is that it was a stepping stone that allowed him to feel very overconfident about the attack on Iran.",
-    "It was, I would say, flagrantly illegal. Under international law, that could be debated. But it was in the nature of a deal with Maduro’s henchmen and women who were happy to take his place. It showed that Trump doesn’t care about the law. He’s willing to be very reckless, but he also understood what the American people would support. The Maduro strike probably wasn’t that unpopular, and its consequences were slight from the American point of view, whereas the Iran war has been disastrous.",
-    "“What has changed, I think, is not a pattern of illegality which has been endemic for decades. But once again, we have a president who promised to be a peace president and does something extremely unpopular with the American people, the Iran war.”",
-    "What has changed, I think, is not a pattern of illegality which has been endemic for decades. But once again, we have a president who promised to be a peace president and does something extremely unpopular with the American people, the Iran war.",
-    "With every new case, the president’s lawyers will say that it’s another legal step, and his critics will say it’s something that has never been done before. And of course, every act is distinctive and new in some way. But if we’re honest, we have had American hemispheric regime change over and over. Basically, since the late 19th century, it’s almost a regular occurrence."
-   ],
-   "lede": "Ahead of the U.S. midterm elections on November 3, 2026—with the American president struggling to retain majority in Congress —Samuel Moyn, professor of law and history at Yale University, examines the record of the…"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbENwZjBkLXNhdS1WcmNsRFp4X0tYSU5KMTlSRkpaalJGcDlfVG9pdnY2VXZyb3ZsSHFBM1RQQmRLOU5VN2tyN2NEWUwzYnJOZ3dPeEMtX1lzdVRVbnlGallKc0gxSHg3d1h2R1IwR0RsaWJ4WG5hRlFUNTgxNDBIel9HUEpQSVFYTzVpVVFTc3VfQTg5eVZ4QkxScEY5c2tYeTZIVDFoaHFGS3dob0ZXd2VyQmJmeDBhY2ZB?oc=5",
-   "title": "ICC President addresses United Nations General Assembly, Calls for renewed support amid threats",
-   "source": "International Criminal Court",
-   "desk": "courts",
-   "published": "2026-11-02T08:00:00+00:00",
-   "seen": "2026-11-24T17:37:56+00:00",
-   "tags": [
-    "icc"
-   ],
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDktRjZPd1hNdm9Pam5zeHBLSmhoMERRN0YzT1c4ejVXeUt0VjRMVElWODMxTlNXX3d2N0ZOTjIzMWNkMjZEZ1hBUkxNQmpsTFQybkdmdmp1Z1FIcGJhWllhZzNTRG9fZHJmeUZnSDcza2MtTXFUM2dOd0Y0eF82anFrUHBaWE44ZnREanhZc2ZnRDZhQndrbU5LaXdnWF9ZME13Mm9YN2tYcG1TcTRWNk9YX0pZUQ?oc=5",
-   "title": "ICC Pre-Trial Chamber I confirms Court’s jurisdiction in Njeem case; decision on admissibility deferred",
-   "source": "International Criminal Court",
-   "desk": "courts",
-   "published": "2026-11-02T08:00:00+00:00",
-   "seen": "2026-11-24T17:37:56+00:00",
-   "tags": [
-    "icc"
-   ],
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRnhLQTlvNjhxLV9aRmpqekpuc2tfWDFqNUQ5djNQYm1TRXZWaWQzbzJOWHJNdXRxb1RoaThVRDA1SlloaFQ1YTBLN3RBYzdseXhyNzBURk9uUEZ5bUlEekhhTW9tOWdoZEgxSUNJTVg2TGhBXzc0N0JIYXpBRDJVbzB2NlkzWnFoVGxURl93WDduS1pWUFdCQzlxOTZPblVPdWhWOHE5NmxvTGMycWtnMUEtbzNRSS02c0R3ZS1mbmI3MDk4ZWpFcDNOYkFwVDFrNXNQd2llXzNwT0xYWkxOT0pKMEdudWZXT3c?oc=5",
-   "title": "Pushed Back from Europe and Its Human Rights Court: Evidence of Lawless Expulsions Before the UN Human Rights Committee",
-   "source": "Opinio Juris",
-   "desk": "analysis",
-   "published": "2026-11-02T08:00:00+00:00",
-   "seen": "2026-11-22T03:07:56+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
