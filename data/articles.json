@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-28T01:56:45+00:00",
+ "updated": "2026-11-28T10:20:58+00:00",
  "briefing": {
   "headline": "Genocide, the ICC and victims and reparations",
-  "period": "Nov 21–27",
-  "made": "2026-11-27T18:55:24+00:00",
+  "period": "Nov 22–28",
+  "made": "2026-11-28T10:20:58+00:00",
   "bullets": [
    {
     "text": "In its hotly-waited merits Judgment in The Gambia v Myanmar, the International Court of Justice held Myanmar responsible for committing genocide against the Rohingya group in northern Rakhine State, for failing to…",
@@ -36,14 +36,48 @@
     "theme": "Myanmar"
    },
    {
-    "text": "Le ministre d’État chargé de la Justice, de la Promotion des droits humains et de la Bonne gouvernance, Garde des Sceaux, Arnaud Djoubaye Abazène a présidé mercredi dernier à Bangui, une assise consacrée à la création…",
-    "source": "Oubangui Médias",
-    "url": "https://oubanguimedias.com/2026/11/27/centrafrique-le-gouvernement-cree-un-comite-mixte-paritaire-pour-controler-les-prix-et-suivre-les-mesures-sociales/",
+    "text": "Un système de santé défaillant abandonne la jeunesse centrafricaine face à l'insuffisance rénale.",
+    "source": "Corbeau News Centrafrique",
+    "url": "https://corbeaunews-centrafrique.org/insuffisance-renale-chez-les-jeunes-centrafricains-lechec-dun-systeme-de-sante-qui-abandonne-sa-jeunesse/",
     "theme": "the Central African Republic"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://corbeaunews-centrafrique.org/insuffisance-renale-chez-les-jeunes-centrafricains-lechec-dun-systeme-de-sante-qui-abandonne-sa-jeunesse/",
+   "title": "Insuffisance rénale chez les jeunes centrafricains: L’échec d’un système de santé qui abandonne sa jeunesse",
+   "source": "Corbeau News Centrafrique",
+   "desk": "car",
+   "published": "2026-11-28T05:02:00+00:00",
+   "seen": "2026-11-28T10:20:58+00:00",
+   "cats": [
+    "Santé",
+    "Gouvernement",
+    "politique"
+   ],
+   "lang": "fr",
+   "description": "Un système de santé défaillant abandonne la jeunesse centrafricaine face à l'insuffisance rénale. Découvrez les enjeux critiques de cette crise sanitaire.",
+   "image": "https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2023/11/Les-immeubles-du-Centre-Hospitalier-Universitaire-CHU-de-Bangui-dit-lhopital-general.jpg",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Insuffisance rénale chez les jeunes centrafricains: L'échec d'un système de santé qui abandonne sa jeunesse",
+    "Longtemps considérée comme une pathologie touchant préférentiellement les personnes âgées, l'insuffisance rénale frappe désormais de plein fouet la jeunesse centrafricaine. Au Centre national d’hémodialyse de Bangui, le constat clinique est sans appel: les patients âgés de 19 à 45 ans représentent aujourd'hui au moins 40 % des effectifs pris en charge. Cette bascule démographique brutale met en lumière la faillite systémique d'un appareil sanitaire incapable d'assurer ses missions fondamentales de prévention, de régulation et de soin.",
+    "À lire aussi: « Si on dit toute la vérité, les gens vont sortir dans la rue »: la panique de Serge Ghislain Djorie face aux révélations chiffrées de Paul Crescent Beninga sur le naufrage pétrolier en RCA",
+    "La trajectoire clinique des jeunes patients révèle des carences structurelles majeures dès le premier échelon de soins. La majorité des sujets de 19 à 25 ans admis en dialyse se présentent d'emblée à un stade d'insuffisance rénale chronique avancée. Cette situation s'explique par l'absence de dépistage systématique de l'hypertension artérielle secondaire pourtant première cause de néphropathie dans la région au sein des centres de santé de premier niveau.",
+    "À lire aussi: Affaire de passeport de l’opposant Anicet Georges Dologuélé: face-à-face tendu entre l’opposant et le premier vice-président de l’Assemblée nationale",
+    "L'accès limité aux examens biologiques élémentaires et le déficit de personnels formés à la médecine préventive empêchent toute prise en charge précoce. La maladie rénale, évoluant à bas bruit, détruit le parenchyme rénal de manière irréversible avant que le moindre diagnostic ne soit posé par les services spécialisés.",
+    "La vulnérabilité des jeunes face aux pathologies rénales est directement entretenue par l'absence de régulation étatique sur les produits de consommation courante. La vente informelle de spécialités pharmaceutiques non contrôlées, l'usage de boissons frelatées et l'omniprésence de substances néphrotoxiques sur le marché local s'effectuent sans encadrement sanitaire effectif.",
+    "Faute de campagnes d'information ciblées sur les risques de l'automédication abusive (notamment l'usage prolongé d'anti-inflammatoires non stéroïdiens) et d'un contrôle strict des circuits de distribution, la population jeune demeure exposée à des agents toxiques exogènes qui précipitent la défaillance rénale.",
+    "La prise en charge de la défaillance rénale terminale illustre la tension extrême qui pèse sur l'unique structure de suppléance du pays. L'augmentation du volume d'activité passant d'une cinquantaine de séances mensuelles lors de l'ouverture du centre en 2022 à plus de 700 séances actuellement contraint les équipes médicales à organiser jusqu'à trois roulements quotidiens, prolongeant les soins tard dans la nuit.",
+    "Cette contrainte logistique impose aux patients un rythme thérapeutique lourd (trois séances hebdomadaires de quatre heures), entraînant des ruptures scolaires et professionnelles systématiques. En l'absence de programme national de transplantation rénale opérationnel et d'une prise en charge financière intégrale des thérapeutiques adjointe, le coût économique et social de la maladie reste quasi entièrement supporté par les familles et la collectivité."
+   ],
+   "lede": "Un système de santé défaillant abandonne la jeunesse centrafricaine face à l'insuffisance rénale. Découvrez les enjeux critiques de cette crise sanitaire.",
+   "tags": [
+    "car"
+   ]
+  },
   {
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2R2dDlmT2s2QmdnUmJOMGZHLVNPeXRqc2RuVGdPY0x2Q2VmUVN6T0xJZzdQaWlYMUM1cWtCcWc2VnpoM0NKYXRQRGJZYjlrZ0Z3UTJKdXl1em1weWpkUWs2dWthR0YwbkNhbFZUQVFLeFVGcXM4TFNTNDdPR2g0YXNhSG5ycU9PTkJGdWZ5RS1OQ0ktMFBqNnIwXzFfQnBQOV95eGswdnI?oc=5",
    "title": "Genocide Against The Rohingya: The ICJ Ruling Against Myanmar",
@@ -5828,6 +5862,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQWd2a0trYm8yTVRjREQzb1cyZ1pXRWZMcVJ6V3duazJ1ZGxkRzN5MjdfZEc0NldScmhEcUFJc01PNDNRanBBQjFfYjA0Qi1XNWJyaVRXeWFZSFhjSksxd2tMSFcwcEFFZ3BWY1ZRQzIyQVRFZWFmeEFadnlMTllWNk5wbzA2bHRUNXdsdFE0LWlwcTFieDdZRkRkWjIwX2IxakhmU2ttenNvSDFQeWJaUHlR?oc=5",
+   "title": "World Court Rules Myanmar Committed Genocide Against Rohingya",
+   "source": "Bloomberg.com",
+   "desk": "courts",
+   "published": "2026-11-20T11:29:42+00:00",
+   "seen": "2026-11-28T10:20:58+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3ZkaFZkVXFiVEZEWDhXQWIwWkZfUzc1QnZJWlpFUzF4UVVUVVpOZWk3V192bGlBVmFRUEc2NGFiLVpqN3ZQd241R3ZFRHR1eTVuUS1qZmhTX3Vwdkk4V1czNTl6ZGVMZTJpVmlWYXZscGZGX2VUVC1pX2pwVzcza1E2Q0FzV1J5Rmp6OE5NS1EtYjZuQzEzVm1FU25FcWZNZ3JCWXJkN2RWWHdhR0duY0dMbGxvTWhLWHY3Yg?oc=5",
    "title": "ICJ shows its courage with Rohingya genocide ruling",
    "source": "Le Monde.fr",
@@ -6288,6 +6333,17 @@
    "desk": "courts",
    "published": "2026-11-19T23:46:21+00:00",
    "seen": "2026-11-20T02:18:00+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGprb1lYaWJoRV9uZV9QX2dXVHRtc1FfWl9TOGJPQk9BVkVOdENncnlJWWFWbkUyalpPREJBdWY3U19penRWbEt6U3dpZkZrenJoRzk0UU5Gc24yRGEzcThHMkJ6Qk00YWZCVml2cDVlOXBfd1pKSFZTVlpEYWQ3UThtd2ttSE5mZmlHWWJrS09yb1otZVhmWllCU0hFNHFpaTN5R2xpUURLZ2hGM0EzQVBvb0M?oc=5",
+   "title": "World Court Finds Myanmar Committed Genocide against the Rohingya",
+   "source": "International Crisis Group",
+   "desk": "courts",
+   "published": "2026-11-19T23:39:20+00:00",
+   "seen": "2026-11-28T10:20:58+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -7676,6 +7732,39 @@
     "At its General Assembly in Glasgow in November 2024, INTERPOL adopted the current text of Article 22(6) of the RPD. Where the General Secretariat “is not a recipient of, or has not accessed the exchange”, its role is now primarily to keep the channel secure. It must act to examine compliance when it “becomes aware of a potential violation” of the rules, but otherwise may not access the content without “explicit authorization by the entity concerned”. The provision applies notwithstanding the General Secretariat’s obligations under Title 1, Chapter II of the RPD (Articles 10 to 18, including the rights of access in Article 18) and Article 22(5), under which it manages data processing in the system, including through spot checks. In other words, the General Secretariat cannot access direct messages it was not copied in on unless it has explicit permission or becomes aware of a potential breach of INTERPOL’s rules."
    ],
    "lede": "In 2024 and 2025, INTERPOL restricted oversight of the largest channel of police cooperation it operates: direct messages between national police bureaus."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3E0RUpmQWh0UEdKR2ktb3o0NWY1QTJ5bGFIVm05RGQxS2dxenpjX1owN1N6Z0VodThJX2I4MTFTUDVZc3lpYjJxbkMzMjlRV3VOeG5zaG5jSHpKaDFBM2dKRDNseUN2NjVJbjRPWjJucGNsVzd3X0h6d2ZhZkM4N0ZPVzgyZGVqY2dSWFhSR1Q3YTM2eHJUMVlmVHQwdE9OUjJ4NG1UcnltZw?oc=5",
+   "title": "Myanmar: World court issues historic first judgment recognising Rohingya genocide",
+   "source": "Fédération internationale pour les droits humains",
+   "desk": "courts",
+   "published": "2026-11-19T08:00:00+00:00",
+   "seen": "2026-11-28T10:20:58+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVBrUW9fcmFKQlhNRTVERktEZkVJM1Z5aEFQVVRFUmF4QnNDN1hqYTFQcTBkNVZWVDRnbkJuWEVaS3o4YzdMS193TnFDYm5ZcmNiWk1hV0t2Tl95ZTNDUVFwYlVuWFVoS1dYTmRENmhwTzJwWk0wX0llakxpQ3lSbUNkRDV0THcxSmpjMVczN3kwZ9IBlwFBVV95cUxPTlRPXzZwVF9CQ2UwSllHMzQwRnMxT01vVEtTanI1RVY2ZXJNVWlfSHVOUFNsYzBWZFU3YTVyVVZ3d2xjV3dzX0Z2VGVoY3d2ZDY0Y29QWnlvSlJ5eURlVDRLTEtBU2tiQ3E2RzJoelIxOGUzOGxxVTZ0cUxrTm9OVzhweTlKaHFya1JLbDJrZDQwWDctU0hR?oc=5",
+   "title": "What Myanmar genocide ruling at ICJ means for Israel-Gaza case",
+   "source": "The New Arab",
+   "desk": "courts",
+   "published": "2026-11-19T08:00:00+00:00",
+   "seen": "2026-11-28T10:20:58+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zbzRlcThOZmQ2M2o1NDlOOE9DN01CRjVZbHltckQxdk91T0VxZEhzeExDREo5Z25LRk9zckpKTGVxdkpZLWhHN2ZBdWZ2dXd6d0Z1QVBtUXdua1k?oc=5",
+   "title": "Jeremy Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+   "source": "BBC",
+   "desk": "courts",
+   "published": "2026-11-19T08:00:00+00:00",
+   "seen": "2026-11-28T10:20:58+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTXBnY3BqSjd0TnRfdU1YcUVxclgzaDBYSjZWLVR5cmxCVEFoWG5URXUtcFBVTlBpUWc5WUd3Q2lWTWQxeENYQ05Td0lQS2dzX1BrYVZ0TmZsU2tiYWk0U3ZmYkhDdkJlQnZ1VHN5VWtRZkU2Qk9LWWdFRkt2QVZoWWRqcjVmd2NxbUFIenduM0NvYlQtY1FkWGp0bmFKeGFON2FZTW5zLVJ0NE5STDRGVU9yVXN3S19qbUJMN3ozTW1CdmYwQnc0NWdjMTFYaTlDTi1CdUVIazVhQUxQZWc?oc=5",
@@ -9428,126 +9517,6 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3BuOE91a1pTYVJVVXFIeHg4c3pQcXl0azhPeENhUWxEZVFybkh5Rm8xODl5UGlVa0dwQzQwRkVWeTMzTUZXUXJsOWJVdHpR?oc=5",
-   "title": "Recent Posts",
-   "source": "Opinio Juris",
-   "desk": "analysis",
-   "published": "2026-11-17T13:11:10+00:00",
-   "seen": "2026-11-22T11:16:29+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnRxWHFiT2lvdWxpZ1dYS010X1BLT2xXV0FDaHBfYkt4Rl9ZSC1YWnhCVHFLNm9VMWYxbm5yNi1ud0g1YldTMjN6VGlkd0o1ZG14elI1ZWNtSVgyQ29fTlJaNjh5YXQxSHRVRTBhTXhYSDN4VjcyOGpjbHliN3hhaUhKZ0RIbkUwd0pVRTBuVUFWY1Y0dk40Z0Y1QUNoeTV3QzFUaG1jbHpUbE1Jam1TbnR0aFpCNGNDdEFLanFLYUh5VTJVOFNQdWpXOWU?oc=5",
-   "title": "Beyond the Binary of War and Peace: Why the U.S., Israel, and Iran Must Return to Legal Intermediacy",
-   "source": "Opinio Juris",
-   "desk": "analysis",
-   "published": "2026-11-17T13:01:18+00:00",
-   "seen": "2026-11-22T03:07:56+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://opiniojuris.org/2026/11/17/beyond-the-binary-of-war-and-peace-why-the-u-s-israel-and-iran-must-return-to-legal-intermediacy/",
-   "title": "Beyond the Binary of War and Peace: Why the U.S., Israel, and Iran Must Return to Legal Intermediacy",
-   "source": "Opinio Juris",
-   "desk": "analysis",
-   "published": "2026-11-17T13:00:00+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "cats": [
-    "Featured",
-    "Foreign Relations Law",
-    "General",
-    "Iran",
-    "Israel",
-    "united states"
-   ],
-   "description": "[Hadi Dadmehr is an Assistant Professor of international law at the University of Zabol, Iran. He holds B.A in political science from Allameh Tabatabai University (Iran), M.A. in international rela…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/cropped-OJ_Favicon_400px.jpg?fit=512%2C512&ssl=1",
-   "paragraphs": [
-    "[ Hadi Dadmehr is an Assistant Professor of international law at the University of Zabol, Iran. He holds B.A in political science from Allameh Tabatabai University (Iran), M.A. in international relations from Tehran University (Iran) and PhD in international law from National University of Iran (SBU).]",
-    "The United States, Israel, and Iran, which had previously cooperated strategically within a common public order system, became adversaries following the 1979 Islamic Revolution, finding themselves in a new relationship that defies classification within the conventional peace–war binary. Decades ago, Georg Schwarzenberger, Philip Jessup, and Myres McDougal emphasized the need to recognize a legal state of intermediacy or status mixtus, between peace and war. Professor Jessup identified three characteristics of this intermediate state which I argue aptly describe post-revolutionary relations among the United States, Israel, and Iran:",
-    "Prior to the 2025–2026 war, all criteria of intermediacy were present in relations among Iran, Israel, and the United States. The hostility between the Islamic Republic of Iran and the United States dates back to the 1979 hostage crisis and the subsequent severance of their diplomatic relations. The crisis was reinforced by imposing U.S. sanctions on Iran and Washington’s support for Iraq during the Iran–Iraq War. Despite occasional diplomatic initiatives, relations between the two states were never normalized in the decades following the Islamic Revolution. Iran’s relations with Israel have likewise remained persistently hostile, influenced by the strategic partnership of U.S.–Israel and also the Islamic Republic’s support for the Palestinian cause. Taken together, the first characteristic of Jessup’s intermediacy state was present before the outbreak of the 2025–2026 war.",
-    "Second, the disputes separating these states are rooted in so fundamental antagonisms that cannot be overcome through the resolution of isolated issues. The recent failure of mediation efforts to secure a peaceful settlement underscores the depth of the underlying hostilities and the formidable obstacles to resolve them through diplomatic means. Iran’s enmity toward the United States is rooted primarily in the Islamic Republic’s ideological opposition to Western imperialism. Its hostility toward Israel likewise stems from religious and ideological considerations and manifested in its rejection of a Jewish state in the Middle East.",
-    "From its very beginning, anti-Americanism became an integral part of the Islamic Revolution’s identity. In line with the leftist discourse of the period, the revolutionaries framed the United States as an imperialist power and the embodiment of capitalism. Ayatollah Khomeini added a religious dimension to this antagonism by designating the United States as “the Great Satan” and denouncing its perceived role in promoting secularism among Muslims. The confluence of these ideological and religious narratives cemented the U.S as the Islamic Republic’s foremost adversary. In this regard, it is sufficient to note that the hostage crisis was of such importance that it came to be dubbed the “Second Revolution” – not merely a manifestation of 1979 Revolution, but a momentous event with its own distinctive impact (see Iran’s Grand Strategy, p.53)."
-   ],
-   "lede": "The United States, Israel, and Iran, which had previously cooperated strategically within a common public order system, became adversaries following the 1979 Islamic Revolution, finding themselves in a new relationship…"
-  },
-  {
-   "url": "https://news.un.org/feed/view/en/story/2026/11/1168823",
-   "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
-   "source": "UN News",
-   "desk": "rights",
-   "published": "2026-11-17T12:00:00+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "description": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-08-2024-UNOCHA-Haiti-09.jpg/image560x340cropped.jpg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "OHCHR has documented 4,595 people killed and 2,050 injured due to armed violence between January and 31 October, Spokesperson Marta Hurtado told journalists in Geneva.",
-    "During the same quarter, at least 340 women and girls were subjected to sexual violence, mainly gang rape, bringing the total number of cases from January to September to 1,497. Victims ranged from ages seven to 80.",
-    "Asked how 2026 figures overall compare with previous years, Ms. Hurta said that although some numbers “have gone down a little”, killings, rapes and child recruitment by gangs remain “awfully high”.",
-    "“I always refer to the report that we issued in February, where we had several examples of mothers saying, ‘I prefer to give my daughter to a gang member so she's only raped and not gang raped,’” she said.",
-    "Violent armed groups continue to control large areas of Haiti’s capital Port-au-Prince, and beyond. A Gang Suppression Force, authorised by the UN Security Council, has yet to be fully deployed.",
-    "Meanwhile, as security operations ramp up, gangs have adapted their tactics. Armed groups have carried out retaliatory attacks on residents suspected of cooperating with security forces, targeted kidnappings, increased forced recruitment of children and young people and placed tighter restrictions on freedom of movement.",
-    "They have also sought to influence upcoming elections through violence. Ms. Huerta noted that the leader of the ‘Brooklyn’ gang in the Cité Soleil neighbourhood allegedly prepared a candidate list to gain municipal positions. Two residents who denounced the scheme were shot dead.",
-    "OHCHR found that between July and September, at least 514 people were killed and 235 injured during security operations conducted by national security forces against gangs, at times with the support of a private military company.",
-    "Another 44 people were reported killed in extrajudicial killings by police officers outside anti-gang operations."
-   ],
-   "lede": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations."
-  },
-  {
-   "url": "https://www.hrw.org/news/2026/11/17/azerbaijan-jails-parliamentary-watchdog-activists",
-   "title": "Azerbaijan Jails Parliamentary Watchdog Activists",
-   "source": "Human Rights Watch",
-   "desk": "rights",
-   "published": "2026-11-17T11:54:58+00:00",
-   "seen": "2026-11-19T02:21:19+00:00",
-   "description": "An Azerbaijani court sentenced two activists affiliated with Meclis.info, an independent platform monitoring the country’s parliament, to lengthy prison terms on dubious financial crime charges on November 12, 2026. These are the latest convictions as part of a wider crackdown that has seen scores of journalists, human rights defenders, and civic activists prosecuted on politically motivated charged since late 2023.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/06/202606eca_azerbaijan_baku_court%20house.jpg?h=b8aa45f6&itok=KTQrd-dO",
-   "paragraphs": [
-    "The Baku Grave Crimes Court sentenced Imran Aliyev, Meclis.info’s co-founder, to 10 years in prison, and Elgiz Gahraman, another co-founder and data analyst, to nine years. A third defendant, the platform’s accountant Tamella Musayeva, received a suspended prison sentence. All three were convicted of illegal entrepreneurship, money laundering, currency smuggling, tax evasion, and document forgery.",
-    "Launched in 2023, Meclis.info published analyses of Azerbaijan's parliament, scrutinizing lawmakers’ attendance, voting records, and public statements. Aliyev has been in detention since his arrest in April 2024. Gahraman and Musayeva were placed under police supervision in February 2025; Gahraman was taken into custody in the courtroom after the verdict.",
-    "During the trial, Aliyev acknowledged receiving foreign grants, but denied any criminal wrongdoing, maintaining that the prosecution was retaliation for Meclis.info’s work. His lawyer argued that failure to register grants constituted, at most, an administrative offense. Human Rights Watch has documented how Azerbaijani authorities use restrictive legislation and arbitrary registration practices to make it virtually impossible for independent groups to operate and receive foreign funding lawfully.",
-    "Aliyev testified in April that police had beaten him, subjected him to electric shocks, and pressured him to sign documents without a lawyer present following his arrest. The Interior Ministry failed to effectively investigate the allegations.",
-    "This is not Gahraman’s first politically motivated prosecution. Arrested on drug charges in 2016, he was sentenced to prison in 2017 and released by presidential pardon in March 2019. The European Court of Human Rights found in January that his earlier detention had been intended to punish him for his civic and political activism.",
-    "Azerbaijani authorities should immediately release Aliyev, Gahraman, and all others imprisoned on politically motivated charges, overturn the unjust convictions, and end the misuse of foreign funding regulations to silence independent civic groups and media."
-   ],
-   "lede": "An Azerbaijani court sentenced two activists affiliated with Meclis.info, an independent platform monitoring the country’s parliament, to lengthy prison terms on dubious financial crime charges on November 12, 2026."
-  },
-  {
-   "url": "https://www.hrw.org/news/2026/11/17/icc-afghanistan-decision-risks-narrowing-access-to-justice",
-   "title": "ICC: Afghanistan Decision Risks Narrowing Access to Justice",
-   "source": "Human Rights Watch",
-   "desk": "rights",
-   "published": "2026-11-17T11:00:00+00:00",
-   "seen": "2026-11-19T02:24:22+00:00",
-   "description": "An International Criminal Court (ICC) decision risks hindering a path to justice for victims of grave crimes committed in Afghanistan.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2020/12/202012global_icc_building.jpg?h=310ac57c&itok=SoWVISGC",
-   "paragraphs": [
-    "(The Hague) – An International Criminal Court (ICC) decision risks hindering a path to justice for victims of grave crimes committed in Afghanistan, Human Rights Watch said today. On November 12, 2026, an ICC pretrial chamber, citing a lack of activity, effectively closed the court’s situation dealing with crimes by US, Afghan government, and other forces prior to the Taliban’s August 2021 takeover.",
-    "The ICC prosecutor’s office on November 13 sought to appeal the decision and to seek a stay of the closure decision. Research by Human Rights Watch and others over many years has documented war crimes and crimes against humanity by the Taliban; the Islamic State Khorasan Province (ISKP), an ISIS-affiliated group; Afghan government forces; and US military and Central Intelligence Agency (CIA) forces.",
-    "“Victims of serious international crimes committed by warring parties during Afghanistan’s long conflict have faced many roadblocks to justice,” said Liz Evenson, international justice director at Human Rights Watch. “The ICC judges’ decision threatens to compound barriers to future accountability for US and Afghan government forces.”",
-    "In its initial 2017 request to open an investigation in Afghanistan, the prosecution cited alleged crimes by US military and CIA forces including torture and cruel treatment, outrages upon personal dignity, and rape and other forms of sexual violence “pursuant to a policy approved by the US authorities.” Regarding Afghan government forces, it cited alleged torture, sexual violence against detainees and civilians, enforced disappearances, and extrajudicial executions.",
-    "With respect to the Taliban’s forces, the crimes included directing attacks on the civilian population and other protected entities, murder, political and gender-based persecution, and the use of child soldiers. During the 20-year conflict, none of the warring parties demonstrated the will to meaningfully deliver justice for crimes committed by their personnel, Human Rights Watch said.",
-    "In March 2020, ICC judges authorized the court’s prosecutor to investigate all alleged crimes falling within the ICC’s jurisdiction in Afghanistan, an ICC member country, since May 1, 2003. The prosecutor was also authorized to investigate crimes if sufficiently linked to the situation and the armed conflict that were committed in the territory of another ICC member country since July 1, 2002. The investigation was paused while the prosecution, and subsequently, the court’s judges considered a request by the then-Afghanistan government to defer ICC proceedings in favor of prosecutions the government asserted it was pursuing. The court’s judges concluded in 2022 that any cases pursued by the former government were at best a “very limited fraction” of those that would be covered by an ICC investigation.",
-    "Since investigations resumed in 2022, the prosecution has indicated it would focus on alleged crimes by the Taliban and the ISKP, while deprioritizing alleged crimes by Afghan security forces and US personnel. In November 2024, in what is known as a state referral, six countries requested the ICC prosecutor to investigate “crimes committed against women and girls after the Taliban takeover in 2021” within the existing investigation. The investigations have yielded four arrest warrants against senior Taliban officials, including its supreme leader, for gender persecution, spotlighting the Taliban’s brutal repression of women, girls, gender non-conforming persons, and their allies."
-   ],
-   "lede": "An International Criminal Court (ICC) decision risks hindering a path to justice for victims of grave crimes committed in Afghanistan.",
-   "tags": [
-    "icc"
-   ]
   }
  ],
  "dropped": [
